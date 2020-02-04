@@ -1,0 +1,4 @@
+oconnor_yang.txt_16668_16673	neutral
+oconnor_yang.txt_16708_16713	neutral
+oconnor_yang.txt_16754_16759	neutral
+oconnor_yang.txt_16765_16769	negative

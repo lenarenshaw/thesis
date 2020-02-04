@@ -1,0 +1,2 @@
+oconnor_biden.txt_16554_16558	neutral
+oconnor_biden.txt_16610_16615	positive

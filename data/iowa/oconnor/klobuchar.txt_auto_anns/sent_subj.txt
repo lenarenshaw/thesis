@@ -1,0 +1,16 @@
+oconnor_klobuchar.txt_0_352	obj
+oconnor_klobuchar.txt_353_564	subj
+oconnor_klobuchar.txt_565_708	obj
+oconnor_klobuchar.txt_709_723	obj
+oconnor_klobuchar.txt_724_1059	obj
+oconnor_klobuchar.txt_1060_1129	obj
+oconnor_klobuchar.txt_1131_1435	obj
+oconnor_klobuchar.txt_1436_1619	obj
+oconnor_klobuchar.txt_1620_1889	obj
+oconnor_klobuchar.txt_1890_1972	obj
+oconnor_klobuchar.txt_1973_2192	obj
+oconnor_klobuchar.txt_2193_2290	obj
+oconnor_klobuchar.txt_2291_2426	obj
+oconnor_klobuchar.txt_2427_2495	obj
+oconnor_klobuchar.txt_2496_2645	obj
+oconnor_klobuchar.txt_2646_2756	subj

@@ -1,0 +1,5 @@
+oconnor_sanders.txt_19425_19434	neutral
+oconnor_sanders.txt_19453_19459	neutral
+oconnor_sanders.txt_19464_19470	neutral
+oconnor_sanders.txt_19471_19477	positive
+oconnor_sanders.txt_19545_19554	neutral

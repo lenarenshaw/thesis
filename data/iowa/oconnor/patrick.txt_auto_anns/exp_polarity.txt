@@ -1,0 +1,5 @@
+oconnor_patrick.txt_666_671	neutral
+oconnor_patrick.txt_705_714	neutral
+oconnor_patrick.txt_750_756	positive
+oconnor_patrick.txt_760_765	neutral
+oconnor_patrick.txt_792_796	neutral

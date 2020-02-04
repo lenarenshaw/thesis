@@ -1,0 +1,2 @@
+oconnor_gabbard.txt_0_359	subj
+oconnor_gabbard.txt_360_615	obj

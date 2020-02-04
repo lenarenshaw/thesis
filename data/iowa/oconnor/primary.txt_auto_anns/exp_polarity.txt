@@ -1,0 +1,10 @@
+oconnor_primary.txt_16335_16342	neutral
+oconnor_primary.txt_16343_16350	neutral
+oconnor_primary.txt_16383_16393	negative
+oconnor_primary.txt_16437_16444	neutral
+oconnor_primary.txt_16445_16452	neutral
+oconnor_primary.txt_16456_16461	neutral
+oconnor_primary.txt_16463_16470	neutral
+oconnor_primary.txt_16508_16517	neutral
+oconnor_primary.txt_16518_16528	positive
+oconnor_primary.txt_16558_16568	neutral

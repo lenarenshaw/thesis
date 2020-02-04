@@ -1,0 +1,4 @@
+oconnor_klobuchar.txt_2661_2669	negative
+oconnor_klobuchar.txt_2670_2678	neutral
+oconnor_klobuchar.txt_2682_2690	neutral
+oconnor_klobuchar.txt_2695_2699	neutral

@@ -1,0 +1,16 @@
+oconnor_bloomberg.txt_0_197	obj
+oconnor_bloomberg.txt_198_230	obj
+oconnor_bloomberg.txt_231_416	obj
+oconnor_bloomberg.txt_417_753	obj
+oconnor_bloomberg.txt_754_830	obj
+oconnor_bloomberg.txt_832_937	obj
+oconnor_bloomberg.txt_938_1283	obj
+oconnor_bloomberg.txt_1284_1492	obj
+oconnor_bloomberg.txt_1493_1670	obj
+oconnor_bloomberg.txt_1671_2040	obj
+oconnor_bloomberg.txt_2041_2297	obj
+oconnor_bloomberg.txt_2298_2616	obj
+oconnor_bloomberg.txt_2617_2934	obj
+oconnor_bloomberg.txt_2935_3076	obj
+oconnor_bloomberg.txt_3077_3232	obj
+oconnor_bloomberg.txt_3233_3592	obj

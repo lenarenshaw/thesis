@@ -1,0 +1,6 @@
+oconnor_gabbard.txt_2_9	neutral
+oconnor_gabbard.txt_10_15	positive
+oconnor_gabbard.txt_46_52	neutral
+oconnor_gabbard.txt_61_72	neutral
+oconnor_gabbard.txt_133_136	neutral
+oconnor_gabbard.txt_204_215	negative

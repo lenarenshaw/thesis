@@ -1,0 +1,8 @@
+oconnor_patrick.txt_2652_2658	neutral
+oconnor_patrick.txt_2659_2663	negative
+oconnor_patrick.txt_3043_3050	neutral
+oconnor_patrick.txt_3254_3261	neutral
+oconnor_patrick.txt_3433_3440	neutral
+oconnor_patrick.txt_3441_3444	neutral
+oconnor_patrick.txt_3616_3623	neutral
+oconnor_patrick.txt_3624_3627	neutral

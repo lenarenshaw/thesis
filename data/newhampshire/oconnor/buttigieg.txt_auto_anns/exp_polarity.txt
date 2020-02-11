@@ -1,0 +1,7 @@
+oconnor_buttigieg.txt_145914_145919	positive
+oconnor_buttigieg.txt_146077_146085	neutral
+oconnor_buttigieg.txt_146093_146097	neutral
+oconnor_buttigieg.txt_146389_146393	neutral
+oconnor_buttigieg.txt_146477_146484	neutral
+oconnor_buttigieg.txt_146518_146525	neutral
+oconnor_buttigieg.txt_146545_146555	negative

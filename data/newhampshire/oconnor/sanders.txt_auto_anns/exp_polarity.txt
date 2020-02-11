@@ -1,0 +1,3 @@
+oconnor_sanders.txt_281283_281288	positive
+oconnor_sanders.txt_281446_281454	neutral
+oconnor_sanders.txt_281462_281466	neutral

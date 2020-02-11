@@ -1,0 +1,3 @@
+oconnor_warren.txt_74972_74977	positive
+oconnor_warren.txt_75135_75143	neutral
+oconnor_warren.txt_75151_75155	neutral

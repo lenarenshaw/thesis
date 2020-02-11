@@ -1,0 +1,4 @@
+oconnor_steyer.txt_1575_1579	neutral
+oconnor_steyer.txt_1596_1605	positive
+oconnor_steyer.txt_1690_1696	neutral
+oconnor_steyer.txt_1796_1802	neutral

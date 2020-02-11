@@ -1,0 +1,12 @@
+oconnor_yang.txt_30823_30828	neutral
+oconnor_yang.txt_30829_30841	negative
+oconnor_yang.txt_30918_30923	neutral
+oconnor_yang.txt_30970_30976	neutral
+oconnor_yang.txt_30991_30999	neutral
+oconnor_yang.txt_31104_31108	positive
+oconnor_yang.txt_31112_31116	neutral
+oconnor_yang.txt_31117_31120	neutral
+oconnor_yang.txt_31138_31143	neutral
+oconnor_yang.txt_31217_31221	neutral
+oconnor_yang.txt_31344_31348	positive
+oconnor_yang.txt_31494_31498	neutral

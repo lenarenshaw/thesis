@@ -1,0 +1,7 @@
+oconnor_caucus.txt_232889_232896	neutral
+oconnor_caucus.txt_232897_232901	neutral
+oconnor_caucus.txt_232917_232922	neutral
+oconnor_caucus.txt_232946_232951	neutral
+oconnor_caucus.txt_233087_233097	neutral
+oconnor_caucus.txt_233123_233133	neutral
+oconnor_caucus.txt_233224_233231	negative

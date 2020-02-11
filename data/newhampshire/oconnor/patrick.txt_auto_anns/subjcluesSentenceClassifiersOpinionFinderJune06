@@ -1,0 +1,8 @@
+1	2522,2528	matchfeat	type="strongjandiss" mpqapolarity="neutral"
+2	2652,2658	matchfeat	type="strongjandiss" mpqapolarity="neutral"
+3	3043,3050	matchfeat	type="PolPmanweak" mpqapolarity="neutral"
+4	3254,3261	matchfeat	type="PolPmanweak" mpqapolarity="neutral"
+5	3433,3440	matchfeat	type="trainJWman" mpqapolarity="weakneg"
+6	3441,3444	matchfeat	type="PolMmanweak" mpqapolarity="strongneg"
+7	3616,3623	matchfeat	type="trainJWman" mpqapolarity="weakneg"
+8	3624,3627	matchfeat	type="PolMmanweak" mpqapolarity="strongneg"

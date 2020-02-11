@@ -1,0 +1,4 @@
+oconnor_bloomberg.txt_16806_16815	neutral
+oconnor_bloomberg.txt_16868_16873	neutral
+oconnor_bloomberg.txt_16884_16888	neutral
+oconnor_bloomberg.txt_16930_16936	positive

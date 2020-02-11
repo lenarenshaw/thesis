@@ -1,0 +1,10 @@
+oconnor_gabbard.txt_19142_19146	neutral
+oconnor_gabbard.txt_19152_19159	neutral
+oconnor_gabbard.txt_19166_19175	neutral
+oconnor_gabbard.txt_19203_19206	neutral
+oconnor_gabbard.txt_19238_19245	neutral
+oconnor_gabbard.txt_19425_19431	positive
+oconnor_gabbard.txt_19459_19463	neutral
+oconnor_gabbard.txt_20127_20137	neutral
+oconnor_gabbard.txt_20142_20152	negative
+oconnor_gabbard.txt_20338_20345	neutral

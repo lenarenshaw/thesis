@@ -1,0 +1,11 @@
+oconnor_steyer.txt_0_124	obj
+oconnor_steyer.txt_126_283	obj
+oconnor_steyer.txt_284_408	obj
+oconnor_steyer.txt_410_567	obj
+oconnor_steyer.txt_568_789	unknown
+oconnor_steyer.txt_791_985	obj
+oconnor_steyer.txt_986_1031	unknown
+oconnor_steyer.txt_1033_1288	unknown
+oconnor_steyer.txt_1289_1572	obj
+oconnor_steyer.txt_1573_1652	obj
+oconnor_steyer.txt_1653_1918	obj

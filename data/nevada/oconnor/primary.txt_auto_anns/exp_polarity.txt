@@ -1,0 +1,4 @@
+raw_tweets_primary.txt_120384_120391	neutral
+raw_tweets_primary.txt_120426_120433	neutral
+raw_tweets_primary.txt_120443_120452	negative
+raw_tweets_primary.txt_120453_120457	neutral

@@ -1,0 +1,14 @@
+ceron_gabbard-training-data.txt_0_28	obj
+ceron_gabbard-training-data.txt_30_245	obj
+ceron_gabbard-training-data.txt_246_439	obj
+ceron_gabbard-training-data.txt_440_665	subj
+ceron_gabbard-training-data.txt_666_926	subj
+ceron_gabbard-training-data.txt_927_984	obj
+ceron_gabbard-training-data.txt_985_1024	obj
+ceron_gabbard-training-data.txt_1025_1044	subj
+ceron_gabbard-training-data.txt_1045_1203	obj
+ceron_gabbard-training-data.txt_1204_1245	obj
+ceron_gabbard-training-data.txt_1246_1400	obj
+ceron_gabbard-training-data.txt_1401_1410	obj
+ceron_gabbard-training-data.txt_1411_1436	obj
+ceron_gabbard-training-data.txt_1437_1581	obj

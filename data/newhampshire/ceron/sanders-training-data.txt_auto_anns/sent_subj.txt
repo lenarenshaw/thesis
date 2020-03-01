@@ -1,0 +1,11 @@
+ceron_sanders-training-data.txt_0_166	obj
+ceron_sanders-training-data.txt_167_296	obj
+ceron_sanders-training-data.txt_297_509	obj
+ceron_sanders-training-data.txt_510_769	obj
+ceron_sanders-training-data.txt_770_1094	obj
+ceron_sanders-training-data.txt_1094_1298	subj
+ceron_sanders-training-data.txt_1298_1500	subj
+ceron_sanders-training-data.txt_1501_1815	subj
+ceron_sanders-training-data.txt_1816_2130	obj
+ceron_sanders-training-data.txt_2131_2319	obj
+ceron_sanders-training-data.txt_2320_2508	obj

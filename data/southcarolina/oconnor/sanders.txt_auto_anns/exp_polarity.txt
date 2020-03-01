@@ -1,0 +1,15 @@
+raw_tweets_sanders.txt_211539_211543	neutral
+raw_tweets_sanders.txt_211551_211554	neutral
+raw_tweets_sanders.txt_211652_211656	positive
+raw_tweets_sanders.txt_211769_211779	neutral
+raw_tweets_sanders.txt_211780_211787	neutral
+raw_tweets_sanders.txt_212875_212881	neutral
+raw_tweets_sanders.txt_213157_213164	neutral
+raw_tweets_sanders.txt_213209_213213	neutral
+raw_tweets_sanders.txt_213249_213256	neutral
+raw_tweets_sanders.txt_213656_213662	neutral
+raw_tweets_sanders.txt_213852_213859	neutral
+raw_tweets_sanders.txt_214041_214048	neutral
+raw_tweets_sanders.txt_214191_214198	neutral
+raw_tweets_sanders.txt_214475_214481	neutral
+raw_tweets_sanders.txt_214906_214913	neutral

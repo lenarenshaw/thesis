@@ -1,0 +1,7 @@
+ceron_democrat-training-data.txt_0_274	subj
+ceron_democrat-training-data.txt_275_531	obj
+ceron_democrat-training-data.txt_532_791	obj
+ceron_democrat-training-data.txt_792_1150	obj
+ceron_democrat-training-data.txt_1151_1408	obj
+ceron_democrat-training-data.txt_1409_1767	obj
+ceron_democrat-training-data.txt_1768_2025	obj

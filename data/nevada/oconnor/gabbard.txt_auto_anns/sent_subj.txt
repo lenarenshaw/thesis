@@ -1,0 +1,9 @@
+raw_tweets_gabbard.txt_0_160	obj
+raw_tweets_gabbard.txt_161_450	obj
+raw_tweets_gabbard.txt_451_509	obj
+raw_tweets_gabbard.txt_510_796	obj
+raw_tweets_gabbard.txt_797_827	obj
+raw_tweets_gabbard.txt_831_955	obj
+raw_tweets_gabbard.txt_956_1227	obj
+raw_tweets_gabbard.txt_1228_1369	subj
+raw_tweets_gabbard.txt_1370_1543	obj

@@ -1,0 +1,7 @@
+raw_tweets_bennet.txt_83_87	neutral
+raw_tweets_bennet.txt_116_122	positive
+raw_tweets_bennet.txt_131_135	positive
+raw_tweets_bennet.txt_143_148	neutral
+raw_tweets_bennet.txt_200_204	neutral
+raw_tweets_bennet.txt_323_326	neutral
+raw_tweets_bennet.txt_355_360	negative

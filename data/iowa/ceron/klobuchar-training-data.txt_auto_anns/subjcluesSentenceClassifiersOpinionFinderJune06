@@ -1,0 +1,8 @@
+1	286,291	matchfeat	type="weakjandiss" mpqapolarity="neutral"
+2	561,569	matchfeat	type="metaboot-2000nouns-weaksubj" mpqapolarity="strongpos"
+3	716,721	matchfeat	type="weakjandiss" mpqapolarity="neutral"
+4	769,774	matchfeat	type="weakjandiss" mpqapolarity="weakpos"
+5	785,794	matchfeat	type="trainJWman" mpqapolarity="strongpos"
+6	803,807	matchfeat	type="trainJWman" mpqapolarity="neutral"
+7	816,818	matchfeat	type="weakjandiss" mpqapolarity="neutral"
+8	860,869	matchfeat	type="bl_psych_verb" mpqapolarity="strongpos"

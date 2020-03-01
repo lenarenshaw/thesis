@@ -1,0 +1,8 @@
+ceron_patrick-training-data.txt_8880_8885	negative
+ceron_patrick-training-data.txt_8889_8893	negative
+ceron_patrick-training-data.txt_8923_8929	neutral
+ceron_patrick-training-data.txt_8945_8951	negative
+ceron_patrick-training-data.txt_8952_8956	negative
+ceron_patrick-training-data.txt_8980_8987	negative
+ceron_patrick-training-data.txt_9009_9013	neutral
+ceron_patrick-training-data.txt_9048_9052	neutral

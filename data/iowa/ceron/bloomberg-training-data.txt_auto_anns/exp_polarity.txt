@@ -1,0 +1,11 @@
+ceron_bloomberg-training-data.txt_13351_13353	neutral
+ceron_bloomberg-training-data.txt_13367_13371	neutral
+ceron_bloomberg-training-data.txt_13569_13579	neutral
+ceron_bloomberg-training-data.txt_13764_13772	positive
+ceron_bloomberg-training-data.txt_13785_13789	neutral
+ceron_bloomberg-training-data.txt_13807_13812	neutral
+ceron_bloomberg-training-data.txt_13887_13893	positive
+ceron_bloomberg-training-data.txt_13904_13911	negative
+ceron_bloomberg-training-data.txt_13969_13976	negative
+ceron_bloomberg-training-data.txt_13979_13983	neutral
+ceron_bloomberg-training-data.txt_14002_14006	neutral

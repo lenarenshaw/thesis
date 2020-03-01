@@ -1,0 +1,2 @@
+raw_tweets_buttigieg.txt_25297_25308	positive
+raw_tweets_buttigieg.txt_25318_25323	positive

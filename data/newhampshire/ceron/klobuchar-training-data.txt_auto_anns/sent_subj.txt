@@ -1,0 +1,3 @@
+ceron_klobuchar-training-data.txt_0_353	subj
+ceron_klobuchar-training-data.txt_354_668	subj
+ceron_klobuchar-training-data.txt_669_983	obj

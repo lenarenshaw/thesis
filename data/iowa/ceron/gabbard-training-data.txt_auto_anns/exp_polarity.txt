@@ -1,0 +1,6 @@
+ceron_gabbard-training-data.txt_1241_1244	neutral
+ceron_gabbard-training-data.txt_1257_1262	neutral
+ceron_gabbard-training-data.txt_1401_1409	neutral
+ceron_gabbard-training-data.txt_1418_1426	negative
+ceron_gabbard-training-data.txt_1427_1434	negative
+ceron_gabbard-training-data.txt_1505_1510	neutral

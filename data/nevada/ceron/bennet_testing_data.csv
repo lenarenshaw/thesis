@@ -1,0 +1,8 @@
+Word,Polarity
+know,neutral
+please,strongpos
+love,strongpos
+react,neutral
+help,weakpos
+cut,weakneg
+hates,strongneg

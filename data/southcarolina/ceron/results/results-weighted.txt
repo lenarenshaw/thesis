@@ -1,0 +1,15 @@
+bennet sentiment: 146
+biden sentiment: 1015.48214285714
+bloomberg sentiment: 393.678571428571
+buttigieg sentiment: 349.357142857143
+gabbard sentiment: 159.035714285714
+klobuchar sentiment: 316.767857142857
+patrick sentiment: 168.160714285714
+sanders sentiment: 694.803571428571
+steyer sentiment: 422.357142857143
+warren sentiment: 511
+yang sentiment: 252.892857142857
+democrat sentiment: 921.625
+dem sentiment: 1224.05357142857
+caucus sentiment: 697.410714285714
+primary sentiment: 4061.92857142857

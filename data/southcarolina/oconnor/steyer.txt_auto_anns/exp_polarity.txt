@@ -1,0 +1,4 @@
+raw_tweets_steyer.txt_59478_59486	negative
+raw_tweets_steyer.txt_59534_59545	neutral
+raw_tweets_steyer.txt_59839_59844	neutral
+raw_tweets_steyer.txt_60433_60440	neutral

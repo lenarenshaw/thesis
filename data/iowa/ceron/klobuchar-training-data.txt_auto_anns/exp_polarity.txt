@@ -1,0 +1,9 @@
+ceron_klobuchar-training-data.txt_561_569	neutral
+ceron_klobuchar-training-data.txt_575_579	neutral
+ceron_klobuchar-training-data.txt_603_613	neutral
+ceron_klobuchar-training-data.txt_716_721	neutral
+ceron_klobuchar-training-data.txt_769_774	neutral
+ceron_klobuchar-training-data.txt_785_794	positive
+ceron_klobuchar-training-data.txt_803_807	neutral
+ceron_klobuchar-training-data.txt_816_818	neutral
+ceron_klobuchar-training-data.txt_860_869	positive

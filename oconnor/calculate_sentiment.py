@@ -1,4 +1,9 @@
-state = 'newhampshire'
+import sys
+
+if len(sys.argv) != 2:
+    print("Usage: python3 calculate_sentiment.py <state-name>")
+state = sys.argv[1]
+
 keywords = ['bennet', 'biden', 'bloomberg', 'buttigieg', 'gabbard', 'klobuchar', 'patrick', 'sanders', 'steyer', 'warren', 'yang', 'democrat', 'dem', 'caucus', 'primary']
 
 all_scores = {}
@@ -8,11 +13,11 @@ for topic in keywords:
     all_scores_length[topic] = 0
 
 for topic in keywords:
-    file = open('../data/' + state + '/oconnor/' + topic + '.txt')
+    file = open('data/' + state + '/raw_tweets/' + topic + '.txt')
     l = 0
     for line in file:
         l += 1
-    file = open('../data/' + state + '/oconnor/' + topic + '.txt_auto_anns/subjcluesSentenceClassifiersOpinionFinderJune06', 'r')
+    file = open('data/' + state + '/oconnor/' + topic + '.txt_auto_anns/subjcluesSentenceClassifiersOpinionFinderJune06', 'r')
     pos = 0
     neg = 0
     for line in file:
@@ -36,14 +41,14 @@ for topic in keywords:
     all_scores[topic] = score
     all_scores_length[topic] = score * l
 
-outF = open(state + '_results.txt', 'w')
+outF = open('data/' + state + '/oconnor/results/' + 'results.txt', 'w')
 scores_sorted = sorted(all_scores.items(), key=lambda x: x[1], reverse=True)
 for (topic, score) in scores_sorted:
     outF.write(topic + ' sentiment: ' + str(score))
     outF.write('\n')
 outF.close()
 
-outF = open(state + '_results_weighted.txt', 'w')
+outF = open('data/' + state + '/oconnor/results/' + 'results_weighted.txt', 'w')
 scores_length_sorted = sorted(all_scores_length.items(), key=lambda x: x[1], reverse=True)
 for (topic, score) in scores_length_sorted:
     outF.write(topic + ' sentiment: ' + str(score))

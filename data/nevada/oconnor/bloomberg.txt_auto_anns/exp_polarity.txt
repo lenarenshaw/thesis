@@ -1,0 +1,5 @@
+raw_tweets_bloomberg.txt_54968_54972	neutral
+raw_tweets_bloomberg.txt_54981_54993	negative
+raw_tweets_bloomberg.txt_54994_55000	negative
+raw_tweets_bloomberg.txt_55135_55146	neutral
+raw_tweets_bloomberg.txt_55432_55439	neutral

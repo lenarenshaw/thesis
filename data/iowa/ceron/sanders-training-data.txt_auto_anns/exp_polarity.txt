@@ -1,0 +1,3 @@
+ceron_sanders-training-data.txt_21195_21199	positive
+ceron_sanders-training-data.txt_21200_21204	positive
+ceron_sanders-training-data.txt_21240_21244	neutral

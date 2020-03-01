@@ -1,0 +1,5 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">se a bennet falou tá falado, eu vou.</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">isnt that kaitlyn bennet?.</MPQASENT>
+<MPQASENT autoclass1="unknown" autoclass2="subj">Noel, man- I don't <MPQAPOL autoclass="neutral">know</MPQAPOL> if you'll ever see this but <MPQAPOL autoclass="positive">please</MPQAPOL> for the <MPQAPOL autoclass="positive">love</MPQAPOL> of God <MPQAPOL autoclass="neutral">react</MPQAPOL> to kaitlyn bennet @thenoelmiller this is a cry for <MPQAPOL autoclass="neutral">help</MPQAPOL> on behalf of the gays.</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">How is Michael bennet doing in the polls?.</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">Kaitlin bennet will put me in her YouTube video but <MPQAPOL autoclass="neutral">cut</MPQAPOL> the part where she says she <MPQAPOL autoclass="negative">hates</MPQAPOL> trans people .</MPQASENT>

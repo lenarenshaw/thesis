@@ -1,0 +1,11 @@
+ceron_warren-training-data.txt_0_353	unknown
+ceron_warren-training-data.txt_354_563	unknown
+ceron_warren-training-data.txt_564_886	obj
+ceron_warren-training-data.txt_887_894	obj
+ceron_warren-training-data.txt_895_1001	obj
+ceron_warren-training-data.txt_1002_1027	obj
+ceron_warren-training-data.txt_1029_1191	obj
+ceron_warren-training-data.txt_1192_1488	obj
+ceron_warren-training-data.txt_1489_1803	unknown
+ceron_warren-training-data.txt_1804_2100	unknown
+ceron_warren-training-data.txt_2101_2415	unknown

@@ -1,0 +1,8 @@
+raw_tweets_patrick.txt_8962_8966	positive
+raw_tweets_patrick.txt_8971_8978	neutral
+raw_tweets_patrick.txt_9015_9020	neutral
+raw_tweets_patrick.txt_9038_9043	neutral
+raw_tweets_patrick.txt_9063_9068	neutral
+raw_tweets_patrick.txt_9077_9083	neutral
+raw_tweets_patrick.txt_9088_9092	neutral
+raw_tweets_patrick.txt_9101_9105	neutral

@@ -1,0 +1,7 @@
+1	83,87	matchfeat	type="strongsubj" mpqapolarity="neutral"
+2	116,122	matchfeat	type="strongsubj" mpqapolarity="strongpos"
+3	131,135	matchfeat	type="strongsubj" mpqapolarity="strongpos"
+4	143,148	matchfeat	type="weaksubj" mpqapolarity="neutral"
+5	200,204	matchfeat	type="weaksubj" mpqapolarity="weakpos"
+6	323,326	matchfeat	type="weaksubj" mpqapolarity="weakneg"
+7	355,360	matchfeat	type="strongsubj" mpqapolarity="strongneg"

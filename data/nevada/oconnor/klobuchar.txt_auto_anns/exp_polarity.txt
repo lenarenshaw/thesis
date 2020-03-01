@@ -1,0 +1,2 @@
+raw_tweets_klobuchar.txt_7166_7177	neutral
+raw_tweets_klobuchar.txt_7236_7241	negative

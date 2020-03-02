@@ -63,4 +63,7 @@ https://docs.google.com/document/d/17qkcn90dSMskabn0-GPWnHcUXmQGfWmI-MtYdr3dM0I/
   python3 tumasjan/vader_sentiment.py <state-name>
   python3 tumasjan/process_vader_results.py <state-name>
   ```
+
+  Additionally, run the LIWC software on the `raw_tweets` for the following 12 dimensions: future orientation, past orientation, positive emotions, negative emotions, sadness, anxiety, anger, tentativeness, certainty, work, achievement, and money.
+
   The output will be located in `data/<state-name>/tumasjan/results`.

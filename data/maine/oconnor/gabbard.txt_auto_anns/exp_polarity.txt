@@ -1,0 +1,10 @@
+raw_tweets_gabbard.txt_544_555	neutral
+raw_tweets_gabbard.txt_556_563	neutral
+raw_tweets_gabbard.txt_587_590	negative
+raw_tweets_gabbard.txt_591_595	negative
+raw_tweets_gabbard.txt_644_650	positive
+raw_tweets_gabbard.txt_651_655	positive
+raw_tweets_gabbard.txt_864_870	neutral
+raw_tweets_gabbard.txt_989_994	negative
+raw_tweets_gabbard.txt_1033_1038	negative
+raw_tweets_gabbard.txt_1039_1043	negative

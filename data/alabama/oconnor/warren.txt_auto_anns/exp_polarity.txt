@@ -1,0 +1,7 @@
+raw_tweets_warren.txt_37223_37230	negative
+raw_tweets_warren.txt_37301_37307	positive
+raw_tweets_warren.txt_37308_37315	positive
+raw_tweets_warren.txt_37322_37328	neutral
+raw_tweets_warren.txt_37351_37355	neutral
+raw_tweets_warren.txt_37388_37395	negative
+raw_tweets_warren.txt_37399_37406	neutral

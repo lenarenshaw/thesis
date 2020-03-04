@@ -1,0 +1,11 @@
+raw_tweets_primary.txt_109533_109538	neutral
+raw_tweets_primary.txt_109546_109550	positive
+raw_tweets_primary.txt_109598_109604	positive
+raw_tweets_primary.txt_109612_109621	positive
+raw_tweets_primary.txt_109638_109648	negative
+raw_tweets_primary.txt_109653_109660	negative
+raw_tweets_primary.txt_109678_109682	neutral
+raw_tweets_primary.txt_109683_109691	negative
+raw_tweets_primary.txt_109699_109706	neutral
+raw_tweets_primary.txt_109726_109736	negative
+raw_tweets_primary.txt_109737_109741	negative

@@ -1,0 +1,4 @@
+raw_tweets_dem.txt_209847_209851	neutral
+raw_tweets_dem.txt_209852_209858	neutral
+raw_tweets_dem.txt_209864_209868	neutral
+raw_tweets_dem.txt_209988_209993	negative

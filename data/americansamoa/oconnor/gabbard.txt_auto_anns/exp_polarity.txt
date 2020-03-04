@@ -1,0 +1,4 @@
+raw_tweets_gabbard.txt_55_63	positive
+raw_tweets_gabbard.txt_64_68	neutral
+raw_tweets_gabbard.txt_71_77	negative
+raw_tweets_gabbard.txt_78_81	negative

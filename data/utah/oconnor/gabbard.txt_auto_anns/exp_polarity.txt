@@ -1,0 +1,9 @@
+raw_tweets_gabbard.txt_657_662	neutral
+raw_tweets_gabbard.txt_667_673	neutral
+raw_tweets_gabbard.txt_694_698	neutral
+raw_tweets_gabbard.txt_708_714	neutral
+raw_tweets_gabbard.txt_836_840	neutral
+raw_tweets_gabbard.txt_930_935	negative
+raw_tweets_gabbard.txt_974_979	negative
+raw_tweets_gabbard.txt_980_984	negative
+raw_tweets_gabbard.txt_1077_1083	neutral

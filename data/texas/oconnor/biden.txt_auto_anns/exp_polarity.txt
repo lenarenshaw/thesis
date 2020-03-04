@@ -1,0 +1,5 @@
+raw_tweets_biden.txt_1212_1217	neutral
+raw_tweets_biden.txt_1235_1239	neutral
+raw_tweets_biden.txt_1260_1268	positive
+raw_tweets_biden.txt_1293_1296	negative
+raw_tweets_biden.txt_1339_1347	positive

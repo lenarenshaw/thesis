@@ -1,0 +1,9 @@
+raw_tweets_buttigieg.txt_18254_18260	positive
+raw_tweets_buttigieg.txt_18279_18285	negative
+raw_tweets_buttigieg.txt_18305_18309	neutral
+raw_tweets_buttigieg.txt_18322_18326	negative
+raw_tweets_buttigieg.txt_18340_18346	negative
+raw_tweets_buttigieg.txt_18347_18352	positive
+raw_tweets_buttigieg.txt_18383_18387	negative
+raw_tweets_buttigieg.txt_18388_18391	negative
+raw_tweets_buttigieg.txt_18697_18702	neutral

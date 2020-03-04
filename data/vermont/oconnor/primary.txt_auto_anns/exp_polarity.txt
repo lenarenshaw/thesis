@@ -1,0 +1,7 @@
+raw_tweets_primary.txt_3338_3340	neutral
+raw_tweets_primary.txt_3341_3347	negative
+raw_tweets_primary.txt_3348_3358	negative
+raw_tweets_primary.txt_3416_3423	neutral
+raw_tweets_primary.txt_3432_3437	neutral
+raw_tweets_primary.txt_3438_3443	neutral
+raw_tweets_primary.txt_3446_3456	neutral

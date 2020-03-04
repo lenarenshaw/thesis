@@ -1,0 +1,16 @@
+raw_tweets_dem.txt_5572_5582	negative
+raw_tweets_dem.txt_5588_5590	positive
+raw_tweets_dem.txt_5591_5595	negative
+raw_tweets_dem.txt_5599_5603	negative
+raw_tweets_dem.txt_5620_5624	negative
+raw_tweets_dem.txt_5653_5657	positive
+raw_tweets_dem.txt_5661_5666	positive
+raw_tweets_dem.txt_5671_5676	positive
+raw_tweets_dem.txt_5686_5696	negative
+raw_tweets_dem.txt_5722_5727	negative
+raw_tweets_dem.txt_5728_5732	negative
+raw_tweets_dem.txt_5760_5767	negative
+raw_tweets_dem.txt_5779_5785	neutral
+raw_tweets_dem.txt_5793_5800	neutral
+raw_tweets_dem.txt_5823_5827	positive
+raw_tweets_dem.txt_5831_5838	negative

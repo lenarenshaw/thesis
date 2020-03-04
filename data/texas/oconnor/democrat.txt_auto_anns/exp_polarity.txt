@@ -1,0 +1,1 @@
+raw_tweets_democrat.txt_1453_1461	neutral

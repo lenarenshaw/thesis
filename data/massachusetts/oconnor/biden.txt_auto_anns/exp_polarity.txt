@@ -1,0 +1,6 @@
+raw_tweets_biden.txt_28259_28269	neutral
+raw_tweets_biden.txt_28398_28402	neutral
+raw_tweets_biden.txt_28426_28434	neutral
+raw_tweets_biden.txt_28436_28441	neutral
+raw_tweets_biden.txt_28526_28536	neutral
+raw_tweets_biden.txt_28538_28545	negative

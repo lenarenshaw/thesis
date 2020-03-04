@@ -1,0 +1,5 @@
+raw_tweets_klobuchar.txt_9734_9739	neutral
+raw_tweets_klobuchar.txt_9796_9802	positive
+raw_tweets_klobuchar.txt_9833_9838	neutral
+raw_tweets_klobuchar.txt_9843_9853	neutral
+raw_tweets_klobuchar.txt_9870_9876	neutral

@@ -1,0 +1,8 @@
+raw_tweets_bloomberg.txt_1597_1608	neutral
+raw_tweets_bloomberg.txt_1655_1660	negative
+raw_tweets_bloomberg.txt_1686_1691	neutral
+raw_tweets_bloomberg.txt_1692_1699	positive
+raw_tweets_bloomberg.txt_1741_1751	neutral
+raw_tweets_bloomberg.txt_1789_1793	neutral
+raw_tweets_bloomberg.txt_1794_1800	negative
+raw_tweets_bloomberg.txt_1821_1826	negative

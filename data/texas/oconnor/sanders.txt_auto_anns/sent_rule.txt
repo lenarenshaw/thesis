@@ -1,0 +1,4 @@
+raw_tweets_sanders.txt_0_342	obj
+raw_tweets_sanders.txt_343_642	unknown
+raw_tweets_sanders.txt_643_706	obj
+raw_tweets_sanders.txt_707_844	obj

@@ -1,0 +1,5 @@
+raw_tweets_bloomberg.txt_56_60	negative
+raw_tweets_bloomberg.txt_123_130	neutral
+raw_tweets_bloomberg.txt_337_347	neutral
+raw_tweets_bloomberg.txt_367_374	positive
+raw_tweets_bloomberg.txt_449_456	positive

@@ -1,0 +1,13 @@
+raw_tweets_steyer.txt_1904_1909	neutral
+raw_tweets_steyer.txt_2361_2365	negative
+raw_tweets_steyer.txt_2370_2376	neutral
+raw_tweets_steyer.txt_2439_2445	negative
+raw_tweets_steyer.txt_2469_2478	positive
+raw_tweets_steyer.txt_2504_2510	negative
+raw_tweets_steyer.txt_2681_2691	negative
+raw_tweets_steyer.txt_2719_2723	neutral
+raw_tweets_steyer.txt_2854_2866	neutral
+raw_tweets_steyer.txt_3000_3010	neutral
+raw_tweets_steyer.txt_3047_3052	neutral
+raw_tweets_steyer.txt_3091_3098	neutral
+raw_tweets_steyer.txt_3146_3153	neutral

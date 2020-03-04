@@ -1,0 +1,3 @@
+raw_tweets_democrat.txt_79862_79867	neutral
+raw_tweets_democrat.txt_79868_79875	positive
+raw_tweets_democrat.txt_79880_79886	neutral

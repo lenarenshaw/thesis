@@ -1,0 +1,2 @@
+raw_tweets_klobuchar.txt_26_31	neutral
+raw_tweets_klobuchar.txt_127_130	neutral

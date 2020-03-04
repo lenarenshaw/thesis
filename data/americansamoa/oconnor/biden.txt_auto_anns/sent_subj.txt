@@ -1,0 +1,4 @@
+raw_tweets_biden.txt_0_269	subj
+raw_tweets_biden.txt_270_418	obj
+raw_tweets_biden.txt_419_506	obj
+raw_tweets_biden.txt_507_864	obj

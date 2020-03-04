@@ -1,0 +1,2 @@
+raw_tweets_klobuchar.txt_0_122	subj
+raw_tweets_klobuchar.txt_123_352	obj

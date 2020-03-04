@@ -1,0 +1,4 @@
+1	56,60	matchfeat	type="PolMmanstrong" mpqapolarity="strongneg"
+2	337,347	matchfeat	type="PolPmanweak" mpqapolarity="weakpos"
+3	367,374	matchfeat	type="strongjandiss" mpqapolarity="strongpos"
+4	449,456	matchfeat	type="metaboot-2000nouns-strongsubj" mpqapolarity="strongpos"

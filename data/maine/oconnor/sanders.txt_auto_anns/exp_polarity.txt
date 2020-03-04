@@ -1,0 +1,7 @@
+raw_tweets_sanders.txt_73165_73170	neutral
+raw_tweets_sanders.txt_73227_73233	positive
+raw_tweets_sanders.txt_73264_73269	neutral
+raw_tweets_sanders.txt_73274_73284	neutral
+raw_tweets_sanders.txt_73301_73307	neutral
+raw_tweets_sanders.txt_73534_73541	neutral
+raw_tweets_sanders.txt_73542_73547	neutral

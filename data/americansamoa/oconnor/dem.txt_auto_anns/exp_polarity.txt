@@ -1,0 +1,6 @@
+raw_tweets_dem.txt_2790_2794	neutral
+raw_tweets_dem.txt_2799_2806	neutral
+raw_tweets_dem.txt_2852_2856	neutral
+raw_tweets_dem.txt_2931_2935	neutral
+raw_tweets_dem.txt_2936_2940	positive
+raw_tweets_dem.txt_3034_3038	neutral

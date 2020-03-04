@@ -1,0 +1,2 @@
+raw_tweets_dem.txt_207922_207927	neutral
+raw_tweets_dem.txt_207941_207948	positive

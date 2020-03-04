@@ -1,0 +1,1 @@
+raw_tweets_patrick.txt_6761_6765	neutral

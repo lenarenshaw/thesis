@@ -1,0 +1,8 @@
+raw_tweets_yang.txt_11928_11932	neutral
+raw_tweets_yang.txt_11978_11982	neutral
+raw_tweets_yang.txt_12043_12050	neutral
+raw_tweets_yang.txt_12093_12100	neutral
+raw_tweets_yang.txt_13375_13382	neutral
+raw_tweets_yang.txt_14563_14570	neutral
+raw_tweets_yang.txt_15302_15307	neutral
+raw_tweets_yang.txt_15692_15697	neutral

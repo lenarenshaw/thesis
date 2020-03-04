@@ -1,0 +1,12 @@
+raw_tweets_bloomberg.txt_0_231	obj
+raw_tweets_bloomberg.txt_232_489	unknown
+raw_tweets_bloomberg.txt_490_881	unknown
+raw_tweets_bloomberg.txt_882_1031	unknown
+raw_tweets_bloomberg.txt_1032_1236	unknown
+raw_tweets_bloomberg.txt_1237_1296	unknown
+raw_tweets_bloomberg.txt_1297_1417	unknown
+raw_tweets_bloomberg.txt_1418_1733	obj
+raw_tweets_bloomberg.txt_1734_1910	unknown
+raw_tweets_bloomberg.txt_1911_2047	unknown
+raw_tweets_bloomberg.txt_2049_2152	unknown
+raw_tweets_bloomberg.txt_2153_2189	obj

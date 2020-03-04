@@ -1,0 +1,17 @@
+raw_tweets_steyer.txt_0_271	obj
+raw_tweets_steyer.txt_272_422	unknown
+raw_tweets_steyer.txt_423_604	unknown
+raw_tweets_steyer.txt_605_885	unknown
+raw_tweets_steyer.txt_886_1205	unknown
+raw_tweets_steyer.txt_1206_1507	unknown
+raw_tweets_steyer.txt_1508_1638	unknown
+raw_tweets_steyer.txt_1639_1701	unknown
+raw_tweets_steyer.txt_1702_1879	unknown
+raw_tweets_steyer.txt_1880_2056	unknown
+raw_tweets_steyer.txt_2057_2332	unknown
+raw_tweets_steyer.txt_2333_2429	unknown
+raw_tweets_steyer.txt_2430_2703	unknown
+raw_tweets_steyer.txt_2704_2844	obj
+raw_tweets_steyer.txt_2845_3080	obj
+raw_tweets_steyer.txt_3081_3199	obj
+raw_tweets_steyer.txt_3200_3286	obj

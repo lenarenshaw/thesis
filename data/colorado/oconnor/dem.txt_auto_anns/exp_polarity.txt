@@ -1,0 +1,4 @@
+raw_tweets_dem.txt_4220_4226	neutral
+raw_tweets_dem.txt_4332_4336	neutral
+raw_tweets_dem.txt_4374_4382	neutral
+raw_tweets_dem.txt_4383_4390	neutral

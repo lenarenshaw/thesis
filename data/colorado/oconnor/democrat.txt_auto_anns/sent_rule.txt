@@ -1,0 +1,12 @@
+raw_tweets_democrat.txt_0_67	unknown
+raw_tweets_democrat.txt_68_151	obj
+raw_tweets_democrat.txt_152_169	obj
+raw_tweets_democrat.txt_170_195	unknown
+raw_tweets_democrat.txt_196_253	unknown
+raw_tweets_democrat.txt_254_348	unknown
+raw_tweets_democrat.txt_349_572	unknown
+raw_tweets_democrat.txt_573_715	unknown
+raw_tweets_democrat.txt_716_847	unknown
+raw_tweets_democrat.txt_848_882	unknown
+raw_tweets_democrat.txt_883_1061	subj
+raw_tweets_democrat.txt_1062_1121	unknown

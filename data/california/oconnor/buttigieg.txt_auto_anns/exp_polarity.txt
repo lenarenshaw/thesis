@@ -1,0 +1,3 @@
+raw_tweets_buttigieg.txt_19159_19164	neutral
+raw_tweets_buttigieg.txt_19195_19198	neutral
+raw_tweets_buttigieg.txt_19219_19227	negative

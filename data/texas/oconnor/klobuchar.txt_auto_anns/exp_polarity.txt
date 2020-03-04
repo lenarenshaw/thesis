@@ -1,0 +1,3 @@
+raw_tweets_klobuchar.txt_600_607	neutral
+raw_tweets_klobuchar.txt_611_619	neutral
+raw_tweets_klobuchar.txt_641_645	neutral

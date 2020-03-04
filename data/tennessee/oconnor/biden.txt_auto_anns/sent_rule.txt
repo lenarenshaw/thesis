@@ -1,0 +1,7 @@
+raw_tweets_biden.txt_0_297	obj
+raw_tweets_biden.txt_298_341	obj
+raw_tweets_biden.txt_342_522	unknown
+raw_tweets_biden.txt_523_600	obj
+raw_tweets_biden.txt_601_769	unknown
+raw_tweets_biden.txt_770_902	unknown
+raw_tweets_biden.txt_903_1000	unknown

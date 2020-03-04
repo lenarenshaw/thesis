@@ -1,0 +1,4 @@
+raw_tweets_sanders.txt_440_448	positive
+raw_tweets_sanders.txt_462_466	neutral
+raw_tweets_sanders.txt_487_495	positive
+raw_tweets_sanders.txt_701_705	neutral

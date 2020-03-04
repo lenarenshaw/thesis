@@ -1,0 +1,4 @@
+raw_tweets_caucus.txt_923_927	neutral
+raw_tweets_caucus.txt_1050_1055	neutral
+raw_tweets_caucus.txt_1072_1078	negative
+raw_tweets_caucus.txt_1084_1092	neutral

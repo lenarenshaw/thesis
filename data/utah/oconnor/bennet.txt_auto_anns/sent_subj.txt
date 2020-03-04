@@ -1,0 +1,6 @@
+raw_tweets_bennet.txt_0_42	obj
+raw_tweets_bennet.txt_43_131	obj
+raw_tweets_bennet.txt_132_168	obj
+raw_tweets_bennet.txt_169_245	obj
+raw_tweets_bennet.txt_246_350	obj
+raw_tweets_bennet.txt_351_377	obj

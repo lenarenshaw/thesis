@@ -1,0 +1,5 @@
+raw_tweets_buttigieg.txt_0_277	unknown
+raw_tweets_buttigieg.txt_278_537	unknown
+raw_tweets_buttigieg.txt_538_797	unknown
+raw_tweets_buttigieg.txt_798_1118	obj
+raw_tweets_buttigieg.txt_1119_1439	obj

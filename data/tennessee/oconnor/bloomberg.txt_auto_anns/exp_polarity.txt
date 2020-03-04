@@ -1,0 +1,4 @@
+raw_tweets_bloomberg.txt_1272_1277	neutral
+raw_tweets_bloomberg.txt_1633_1641	neutral
+raw_tweets_bloomberg.txt_1810_1814	neutral
+raw_tweets_bloomberg.txt_1822_1831	neutral

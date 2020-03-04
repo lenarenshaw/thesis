@@ -1,0 +1,2 @@
+raw_tweets_bennet.txt_298_301	neutral
+raw_tweets_bennet.txt_330_335	negative

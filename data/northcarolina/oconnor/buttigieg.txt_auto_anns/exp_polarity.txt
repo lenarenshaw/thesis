@@ -1,0 +1,4 @@
+raw_tweets_buttigieg.txt_277_285	neutral
+raw_tweets_buttigieg.txt_379_387	positive
+raw_tweets_buttigieg.txt_419_421	neutral
+raw_tweets_buttigieg.txt_462_470	neutral

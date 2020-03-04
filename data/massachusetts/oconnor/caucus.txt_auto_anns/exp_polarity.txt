@@ -1,0 +1,13 @@
+raw_tweets_caucus.txt_23245_23247	neutral
+raw_tweets_caucus.txt_23250_23255	neutral
+raw_tweets_caucus.txt_23289_23291	neutral
+raw_tweets_caucus.txt_23315_23320	neutral
+raw_tweets_caucus.txt_23559_23563	neutral
+raw_tweets_caucus.txt_23656_23663	negative
+raw_tweets_caucus.txt_23720_23724	neutral
+raw_tweets_caucus.txt_23966_23970	neutral
+raw_tweets_caucus.txt_24054_24060	neutral
+raw_tweets_caucus.txt_24086_24091	neutral
+raw_tweets_caucus.txt_24121_24131	neutral
+raw_tweets_caucus.txt_24166_24172	negative
+raw_tweets_caucus.txt_24193_24201	neutral

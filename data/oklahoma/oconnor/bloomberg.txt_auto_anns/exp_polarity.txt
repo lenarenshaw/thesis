@@ -1,0 +1,2 @@
+raw_tweets_bloomberg.txt_1995_1999	neutral
+raw_tweets_bloomberg.txt_2037_2040	negative

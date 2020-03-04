@@ -1,0 +1,4 @@
+raw_tweets_patrick.txt_6809_6821	negative
+raw_tweets_patrick.txt_6824_6828	positive
+raw_tweets_patrick.txt_6897_6901	neutral
+raw_tweets_patrick.txt_7051_7056	neutral

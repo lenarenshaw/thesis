@@ -1,0 +1,11 @@
+raw_tweets_klobuchar.txt_0_4	neutral
+raw_tweets_klobuchar.txt_34_36	neutral
+raw_tweets_klobuchar.txt_84_91	neutral
+raw_tweets_klobuchar.txt_284_289	neutral
+raw_tweets_klobuchar.txt_308_313	neutral
+raw_tweets_klobuchar.txt_314_318	positive
+raw_tweets_klobuchar.txt_324_328	neutral
+raw_tweets_klobuchar.txt_407_412	neutral
+raw_tweets_klobuchar.txt_431_436	neutral
+raw_tweets_klobuchar.txt_437_441	positive
+raw_tweets_klobuchar.txt_447_451	neutral

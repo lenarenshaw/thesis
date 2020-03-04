@@ -1,0 +1,10 @@
+raw_tweets_bloomberg.txt_59059_59064	neutral
+raw_tweets_bloomberg.txt_59092_59099	neutral
+raw_tweets_bloomberg.txt_59101_59103	neutral
+raw_tweets_bloomberg.txt_59108_59113	neutral
+raw_tweets_bloomberg.txt_59150_59155	neutral
+raw_tweets_bloomberg.txt_59156_59161	neutral
+raw_tweets_bloomberg.txt_59259_59270	positive
+raw_tweets_bloomberg.txt_59302_59309	neutral
+raw_tweets_bloomberg.txt_59672_59682	neutral
+raw_tweets_bloomberg.txt_59870_59880	neutral

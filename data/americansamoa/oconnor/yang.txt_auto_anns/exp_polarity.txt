@@ -1,0 +1,4 @@
+raw_tweets_yang.txt_5049_5053	neutral
+raw_tweets_yang.txt_5110_5114	neutral
+raw_tweets_yang.txt_5115_5119	positive
+raw_tweets_yang.txt_5175_5180	neutral

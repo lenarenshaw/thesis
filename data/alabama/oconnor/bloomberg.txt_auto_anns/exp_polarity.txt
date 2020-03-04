@@ -1,0 +1,2 @@
+raw_tweets_bloomberg.txt_59015_59025	neutral
+raw_tweets_bloomberg.txt_59038_59047	positive

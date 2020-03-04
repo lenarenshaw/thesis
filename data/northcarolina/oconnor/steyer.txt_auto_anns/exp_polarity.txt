@@ -1,0 +1,3 @@
+raw_tweets_steyer.txt_2497_2501	positive
+raw_tweets_steyer.txt_2535_2539	neutral
+raw_tweets_steyer.txt_2634_2637	negative

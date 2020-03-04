@@ -1,0 +1,2 @@
+raw_tweets_caucus.txt_1034_1039	negative
+raw_tweets_caucus.txt_1087_1092	negative

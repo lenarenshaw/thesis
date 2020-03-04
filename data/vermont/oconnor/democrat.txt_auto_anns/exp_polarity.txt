@@ -1,0 +1,9 @@
+raw_tweets_democrat.txt_1283_1288	negative
+raw_tweets_democrat.txt_1336_1341	negative
+raw_tweets_democrat.txt_1592_1597	neutral
+raw_tweets_democrat.txt_1644_1648	neutral
+raw_tweets_democrat.txt_1649_1653	positive
+raw_tweets_democrat.txt_1665_1674	positive
+raw_tweets_democrat.txt_1675_1681	neutral
+raw_tweets_democrat.txt_1686_1693	neutral
+raw_tweets_democrat.txt_1718_1723	neutral

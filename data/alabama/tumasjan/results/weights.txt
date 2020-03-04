@@ -1,0 +1,6 @@
+sanders sentiment: 0.31128747795414463
+bloomberg sentiment: 0.2583774250440917
+warren sentiment: 0.17989417989417988
+biden sentiment: 0.12698412698412698
+buttigieg sentiment: 0.08024691358024691
+klobuchar sentiment: 0.043209876543209874

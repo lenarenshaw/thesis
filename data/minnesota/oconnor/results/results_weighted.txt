@@ -1,0 +1,15 @@
+yang sentiment: 106.66666666666667
+dem sentiment: 27.6
+primary sentiment: 18.0
+bloomberg sentiment: 16.545454545454547
+sanders sentiment: 16.5
+biden sentiment: 10.0
+klobuchar sentiment: 8.0
+democrat sentiment: 7.0
+warren sentiment: 6.0
+caucus sentiment: 5.0
+bennet sentiment: 0
+buttigieg sentiment: 0.0
+gabbard sentiment: 0
+patrick sentiment: 0
+steyer sentiment: 0

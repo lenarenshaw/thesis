@@ -1,0 +1,9 @@
+<MPQASENT autoclass1="unknown" autoclass2="obj">team with <MPQAPOL autoclass="neutral">frank</MPQAPOL> jones, stewie, dakota thompson, Bill russell, and patrick.</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">team with Caleb Barnes, patrick, Goku, Mrcrabs, and dakota thompson.</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">team with dakota thompson, Mrcrabs, patrick, kobe bryant, and dakota thompson.</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">team with patrick, Dwight Howard, dakota thompson, chris paul, and lebron james.</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">team with patrick, dakota thompson, dwyane wade, eminem, and kevin garnett.</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">team with patrick, Dwight Howard, dakota thompson, chris paul, and lebron james.</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">team with patrick, dakota thompson, dwyane wade, eminem, and kevin garnett.</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">team with chris paul, dakota thompson, patrick, max burton, and captin crunch.</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">team with chris paul, dakota thompson, patrick, max burton, and captin crunch.</MPQASENT>

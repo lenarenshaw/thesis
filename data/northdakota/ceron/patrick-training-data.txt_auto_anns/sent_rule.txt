@@ -1,0 +1,9 @@
+ceron_patrick-training-data.txt_0_74	unknown
+ceron_patrick-training-data.txt_75_143	obj
+ceron_patrick-training-data.txt_144_222	obj
+ceron_patrick-training-data.txt_223_303	obj
+ceron_patrick-training-data.txt_304_379	obj
+ceron_patrick-training-data.txt_380_460	obj
+ceron_patrick-training-data.txt_461_536	obj
+ceron_patrick-training-data.txt_537_615	obj
+ceron_patrick-training-data.txt_616_694	obj

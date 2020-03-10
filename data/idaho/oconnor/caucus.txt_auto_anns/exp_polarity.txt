@@ -1,0 +1,15 @@
+raw_tweets_caucus.txt_56475_56483	neutral
+raw_tweets_caucus.txt_56565_56571	neutral
+raw_tweets_caucus.txt_56598_56603	positive
+raw_tweets_caucus.txt_56626_56631	neutral
+raw_tweets_caucus.txt_56634_56643	neutral
+raw_tweets_caucus.txt_56650_56654	positive
+raw_tweets_caucus.txt_56661_56663	neutral
+raw_tweets_caucus.txt_56751_56762	neutral
+raw_tweets_caucus.txt_56785_56790	negative
+raw_tweets_caucus.txt_56791_56801	negative
+raw_tweets_caucus.txt_56882_56887	neutral
+raw_tweets_caucus.txt_56907_56909	neutral
+raw_tweets_caucus.txt_56910_56918	positive
+raw_tweets_caucus.txt_56949_56954	neutral
+raw_tweets_caucus.txt_56977_56987	neutral

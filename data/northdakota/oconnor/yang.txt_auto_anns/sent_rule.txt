@@ -1,0 +1,5 @@
+raw_tweets_yang.txt_0_60	obj
+raw_tweets_yang.txt_61_100	obj
+raw_tweets_yang.txt_101_140	obj
+raw_tweets_yang.txt_141_335	obj
+raw_tweets_yang.txt_336_530	obj

@@ -1,0 +1,7 @@
+raw_tweets_dem.txt_4583_4587	neutral
+raw_tweets_dem.txt_4613_4618	neutral
+raw_tweets_dem.txt_4633_4639	neutral
+raw_tweets_dem.txt_4682_4688	neutral
+raw_tweets_dem.txt_4734_4740	neutral
+raw_tweets_dem.txt_4754_4770	positive
+raw_tweets_dem.txt_4771_4780	positive

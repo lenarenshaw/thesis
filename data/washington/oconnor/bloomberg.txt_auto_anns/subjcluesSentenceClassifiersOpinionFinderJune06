@@ -1,0 +1,8 @@
+1	256,259	matchfeat	type="PolPmanweak" mpqapolarity="weakpos"
+2	294,307	matchfeat	type="trainJWman" mpqapolarity="weakpos"
+3	1088,1096	matchfeat	type="metaboot-2000nouns-weaksubj" mpqapolarity="strongpos"
+4	1265,1269	matchfeat	type="PolPmanweak" mpqapolarity="neutral"
+5	1277,1286	matchfeat	type="metaboot-2000nouns-weaksubj" mpqapolarity="weakneg"
+6	1835,1843	matchfeat	type="metaboot-2000nouns-weaksubj" mpqapolarity="strongpos"
+7	2012,2016	matchfeat	type="PolPmanweak" mpqapolarity="neutral"
+8	2024,2033	matchfeat	type="metaboot-2000nouns-weaksubj" mpqapolarity="weakneg"

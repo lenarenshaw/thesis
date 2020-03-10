@@ -10,19 +10,19 @@ library(pracma)
 # usage: iSA(train_data, test_data, train_labels, predict=TRUE)
 
 # TODO: change this string to your state
-state <- 'southcarolina'
+state <- 'idaho'
 
-keywords <- list('bennet', 'biden', 'bloomberg', 'buttigieg', 'gabbard', 'klobuchar', 'patrick', 'sanders', 'steyer', 'warren', 'yang', 'democrat', 'dem', 'caucus', 'primary')
+keywords <- list('biden', 'sanders', 'klobuchar')
 scores <- list()
 scores_weighted <- list()
 
 for (word in keywords) {
-  print(word)
   train <- read.csv(file = paste('data/', state, '/ceron/all-training-data.csv', sep=""), header=T)
   test <- read.csv(file = paste('data/', state, '/ceron/', word, '_testing_data.csv', sep = ""), header=T)
-  train_data<-c(stem_words(train$Word))
-  train_labels<-c(stem_words(train$Polarity))
-  test_data <- c(stem_words(test$Polarity))
+
+  train_data<-list(stem_words(train[["Word"]]))
+  train_labels<-list(stem_words(train[["Polarity"]]))
+  test_data <- list(stem_words(test[["Word"]]))
 
   num <- 0
   denom <- 0

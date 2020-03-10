@@ -1,0 +1,4 @@
+ceron_bloomberg-training-data.txt_571_577	neutral
+ceron_bloomberg-training-data.txt_921_931	neutral
+ceron_bloomberg-training-data.txt_950_958	neutral
+ceron_bloomberg-training-data.txt_966_972	neutral

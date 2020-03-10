@@ -1,0 +1,5 @@
+raw_tweets_gabbard.txt_4487_4492	neutral
+raw_tweets_gabbard.txt_4665_4671	negative
+raw_tweets_gabbard.txt_4675_4680	neutral
+raw_tweets_gabbard.txt_4692_4697	neutral
+raw_tweets_gabbard.txt_4940_4944	neutral

@@ -1,0 +1,16 @@
+raw_tweets_warren.txt_0_36	obj
+raw_tweets_warren.txt_39_63	obj
+raw_tweets_warren.txt_64_124	unknown
+raw_tweets_warren.txt_125_278	subj
+raw_tweets_warren.txt_279_539	unknown
+raw_tweets_warren.txt_540_746	unknown
+raw_tweets_warren.txt_747_1000	unknown
+raw_tweets_warren.txt_1001_1204	unknown
+raw_tweets_warren.txt_1205_1317	subj
+raw_tweets_warren.txt_1318_1548	unknown
+raw_tweets_warren.txt_1549_1666	obj
+raw_tweets_warren.txt_1667_1758	obj
+raw_tweets_warren.txt_1759_1820	obj
+raw_tweets_warren.txt_1820_1927	obj
+raw_tweets_warren.txt_1928_2127	obj
+raw_tweets_warren.txt_2128_2327	obj

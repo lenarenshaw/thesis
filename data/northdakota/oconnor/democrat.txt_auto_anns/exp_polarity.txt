@@ -1,0 +1,4 @@
+raw_tweets_democrat.txt_1676_1688	negative
+raw_tweets_democrat.txt_1689_1696	neutral
+raw_tweets_democrat.txt_1978_1987	neutral
+raw_tweets_democrat.txt_1988_1995	neutral

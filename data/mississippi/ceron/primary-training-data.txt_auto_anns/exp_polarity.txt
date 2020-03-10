@@ -1,0 +1,8 @@
+ceron_primary-training-data.txt_379_383	neutral
+ceron_primary-training-data.txt_389_402	negative
+ceron_primary-training-data.txt_415_422	neutral
+ceron_primary-training-data.txt_563_571	neutral
+ceron_primary-training-data.txt_611_615	positive
+ceron_primary-training-data.txt_631_637	neutral
+ceron_primary-training-data.txt_714_721	neutral
+ceron_primary-training-data.txt_722_730	negative

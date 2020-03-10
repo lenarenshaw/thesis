@@ -1,0 +1,12 @@
+ceron_dem-training-data.txt_0_58	obj
+ceron_dem-training-data.txt_59_334	obj
+ceron_dem-training-data.txt_335_455	obj
+ceron_dem-training-data.txt_456_484	obj
+ceron_dem-training-data.txt_485_568	obj
+ceron_dem-training-data.txt_569_612	obj
+ceron_dem-training-data.txt_613_669	obj
+ceron_dem-training-data.txt_671_789	obj
+ceron_dem-training-data.txt_791_799	obj
+ceron_dem-training-data.txt_800_1077	subj
+ceron_dem-training-data.txt_1078_1348	obj
+ceron_dem-training-data.txt_1349_1619	obj

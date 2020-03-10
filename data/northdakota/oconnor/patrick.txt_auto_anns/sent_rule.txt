@@ -1,0 +1,6 @@
+raw_tweets_patrick.txt_0_84	obj
+raw_tweets_patrick.txt_85_169	obj
+raw_tweets_patrick.txt_170_240	obj
+raw_tweets_patrick.txt_241_311	obj
+raw_tweets_patrick.txt_312_517	obj
+raw_tweets_patrick.txt_518_723	obj

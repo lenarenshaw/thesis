@@ -1,0 +1,5 @@
+raw_tweets_caucus.txt_0_99	obj
+raw_tweets_caucus.txt_100_194	obj
+raw_tweets_caucus.txt_195_418	obj
+raw_tweets_caucus.txt_419_718	subj
+raw_tweets_caucus.txt_719_1018	subj

@@ -1,0 +1,6 @@
+raw_tweets_klobuchar.txt_0_314	unknown
+raw_tweets_klobuchar.txt_315_550	unknown
+raw_tweets_klobuchar.txt_551_733	obj
+raw_tweets_klobuchar.txt_734_848	unknown
+raw_tweets_klobuchar.txt_849_1134	unknown
+raw_tweets_klobuchar.txt_1135_1420	unknown

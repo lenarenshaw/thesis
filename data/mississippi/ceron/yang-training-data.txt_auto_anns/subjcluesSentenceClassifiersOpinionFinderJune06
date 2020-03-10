@@ -1,0 +1,7 @@
+1	433,437	matchfeat	type="metaboot-2000nouns-strongsubj" mpqapolarity="strongneg"
+2	476,480	matchfeat	type="metaboot-2000nouns-strongsubj" mpqapolarity="weakpos"
+3	489,493	matchfeat	type="jwman" mpqapolarity="strongpos"
+4	2210,2214	matchfeat	type="weakjandiss" mpqapolarity="weakpos"
+5	2215,2223	matchfeat	type="metaboot-2000nouns-strongsubj" mpqapolarity="neutral"
+6	2916,2923	matchfeat	type="metaboot-2000nouns-strongsubj" mpqapolarity="strongpos"
+7	3030,3034	matchfeat	type="weakjandiss" mpqapolarity="weakpos"

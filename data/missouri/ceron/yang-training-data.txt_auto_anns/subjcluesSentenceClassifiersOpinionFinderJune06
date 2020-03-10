@@ -1,0 +1,7 @@
+1	1015,1019	matchfeat	type="weakjandiss" mpqapolarity="weakpos"
+2	1020,1028	matchfeat	type="metaboot-2000nouns-strongsubj" mpqapolarity="neutral"
+3	2020,2024	matchfeat	type="metaboot-2000nouns-strongsubj" mpqapolarity="strongneg"
+4	2063,2067	matchfeat	type="metaboot-2000nouns-strongsubj" mpqapolarity="weakpos"
+5	2076,2080	matchfeat	type="jwman" mpqapolarity="strongpos"
+6	3365,3372	matchfeat	type="metaboot-2000nouns-strongsubj" mpqapolarity="strongpos"
+7	3479,3483	matchfeat	type="weakjandiss" mpqapolarity="weakpos"

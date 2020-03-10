@@ -1,0 +1,2 @@
+raw_tweets_democrat.txt_894_899	negative
+raw_tweets_democrat.txt_947_952	negative

@@ -1,0 +1,2 @@
+raw_tweets_democrat.txt_1870_1875	negative
+raw_tweets_democrat.txt_1923_1928	negative

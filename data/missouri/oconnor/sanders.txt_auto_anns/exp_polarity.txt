@@ -1,0 +1,8 @@
+raw_tweets_sanders.txt_1870_1878	neutral
+raw_tweets_sanders.txt_1886_1895	negative
+raw_tweets_sanders.txt_1952_1956	neutral
+raw_tweets_sanders.txt_1965_1970	negative
+raw_tweets_sanders.txt_2004_2011	neutral
+raw_tweets_sanders.txt_2018_2020	neutral
+raw_tweets_sanders.txt_2028_2033	neutral
+raw_tweets_sanders.txt_2034_2042	negative

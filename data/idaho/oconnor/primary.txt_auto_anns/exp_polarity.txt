@@ -1,0 +1,6 @@
+raw_tweets_primary.txt_220886_220891	neutral
+raw_tweets_primary.txt_220903_220909	negative
+raw_tweets_primary.txt_220921_220928	neutral
+raw_tweets_primary.txt_220952_220961	positive
+raw_tweets_primary.txt_220982_220992	neutral
+raw_tweets_primary.txt_221043_221050	neutral

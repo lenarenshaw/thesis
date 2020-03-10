@@ -1,0 +1,8 @@
+ceron_yang-training-data.txt_1154_1158	neutral
+ceron_yang-training-data.txt_1204_1208	neutral
+ceron_yang-training-data.txt_2020_2024	neutral
+ceron_yang-training-data.txt_2063_2067	positive
+ceron_yang-training-data.txt_2076_2080	positive
+ceron_yang-training-data.txt_3365_3372	positive
+ceron_yang-training-data.txt_3479_3483	neutral
+ceron_yang-training-data.txt_4027_4034	neutral

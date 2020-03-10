@@ -1,0 +1,2 @@
+ceron_bloomberg-training-data.txt_981_986	positive
+ceron_bloomberg-training-data.txt_1028_1034	neutral

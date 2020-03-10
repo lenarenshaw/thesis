@@ -1,0 +1,2 @@
+Word,Polarity
+hi,neutral

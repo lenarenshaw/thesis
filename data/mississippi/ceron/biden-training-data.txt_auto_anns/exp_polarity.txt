@@ -1,0 +1,5 @@
+ceron_biden-training-data.txt_16_21	negative
+ceron_biden-training-data.txt_57_61	negative
+ceron_biden-training-data.txt_62_72	negative
+ceron_biden-training-data.txt_216_218	neutral
+ceron_biden-training-data.txt_242_250	neutral

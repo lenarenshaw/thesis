@@ -1,0 +1,10 @@
+raw_tweets_biden.txt_131215_131220	negative
+raw_tweets_biden.txt_131279_131286	neutral
+raw_tweets_biden.txt_131294_131299	neutral
+raw_tweets_biden.txt_131303_131309	positive
+raw_tweets_biden.txt_131395_131399	neutral
+raw_tweets_biden.txt_131582_131594	negative
+raw_tweets_biden.txt_131595_131600	neutral
+raw_tweets_biden.txt_131722_131726	positive
+raw_tweets_biden.txt_131727_131734	neutral
+raw_tweets_biden.txt_131739_131744	neutral

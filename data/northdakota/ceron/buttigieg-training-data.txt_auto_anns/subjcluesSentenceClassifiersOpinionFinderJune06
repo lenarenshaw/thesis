@@ -1,0 +1,8 @@
+1	15,21	matchfeat	type="bl_psych_verb" mpqapolarity="weakneg"
+2	25,33	matchfeat	type="trainJWman" mpqapolarity="weakpos"
+3	106,113	matchfeat	type="trainJWman" mpqapolarity="neutral"
+4	147,153	matchfeat	type="weakjandiss" mpqapolarity="weakpos"
+5	295,301	matchfeat	type="bl_psych_verb" mpqapolarity="weakneg"
+6	305,313	matchfeat	type="trainJWman" mpqapolarity="weakpos"
+7	386,393	matchfeat	type="trainJWman" mpqapolarity="neutral"
+8	427,433	matchfeat	type="weakjandiss" mpqapolarity="weakpos"

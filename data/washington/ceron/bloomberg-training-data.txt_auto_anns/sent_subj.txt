@@ -1,0 +1,8 @@
+ceron_bloomberg-training-data.txt_0_204	obj
+ceron_bloomberg-training-data.txt_205_325	subj
+ceron_bloomberg-training-data.txt_326_462	subj
+ceron_bloomberg-training-data.txt_464_567	obj
+ceron_bloomberg-training-data.txt_568_604	obj
+ceron_bloomberg-training-data.txt_605_836	obj
+ceron_bloomberg-training-data.txt_837_896	obj
+ceron_bloomberg-training-data.txt_897_1147	obj

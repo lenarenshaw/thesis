@@ -1,0 +1,3 @@
+raw_tweets_bennet.txt_16_22	neutral
+raw_tweets_bennet.txt_27_34	positive
+raw_tweets_bennet.txt_426_428	neutral

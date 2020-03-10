@@ -1,0 +1,14 @@
+raw_tweets_biden.txt_0_43	obj
+raw_tweets_biden.txt_44_212	obj
+raw_tweets_biden.txt_213_345	obj
+raw_tweets_biden.txt_346_407	obj
+raw_tweets_biden.txt_408_623	obj
+raw_tweets_biden.txt_624_820	obj
+raw_tweets_biden.txt_821_1036	obj
+raw_tweets_biden.txt_1037_1233	obj
+raw_tweets_biden.txt_1234_1345	obj
+raw_tweets_biden.txt_1346_1448	obj
+raw_tweets_biden.txt_1449_1455	obj
+raw_tweets_biden.txt_1456_1567	obj
+raw_tweets_biden.txt_1568_1670	obj
+raw_tweets_biden.txt_1671_1677	obj

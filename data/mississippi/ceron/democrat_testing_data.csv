@@ -1,0 +1,16 @@
+Word,Polarity
+try,weakneg
+should,neutral
+allowed,weakpos
+democratic,weakpos
+primary,neutral
+least,weakneg
+accusations,strongneg
+blatant,strongneg
+smear,strongneg
+security,weakpos
+most,neutral
+poor,strongneg
+needs,neutral
+chaos,strongneg
+cheat,strongneg

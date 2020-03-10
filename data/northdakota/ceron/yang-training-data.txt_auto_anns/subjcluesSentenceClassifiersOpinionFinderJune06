@@ -1,0 +1,5 @@
+1	259,264	matchfeat	type="basilisk-2000nouns-weaksubj" mpqapolarity="weakneg"
+2	323,331	matchfeat	type="basilisk-2000nouns-weaksubj" mpqapolarity="weakneg"
+3	604,608	matchfeat	type="PolPmanweak" mpqapolarity="neutral"
+4	1359,1361	matchfeat	type="weakjandiss" mpqapolarity="neutral"
+5	1654,1656	matchfeat	type="weakjandiss" mpqapolarity="neutral"

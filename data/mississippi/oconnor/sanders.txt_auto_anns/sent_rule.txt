@@ -1,0 +1,7 @@
+raw_tweets_sanders.txt_0_109	obj
+raw_tweets_sanders.txt_110_247	obj
+raw_tweets_sanders.txt_248_590	unknown
+raw_tweets_sanders.txt_591_866	subj
+raw_tweets_sanders.txt_867_1066	unknown
+raw_tweets_sanders.txt_1067_1366	unknown
+raw_tweets_sanders.txt_1367_1666	unknown

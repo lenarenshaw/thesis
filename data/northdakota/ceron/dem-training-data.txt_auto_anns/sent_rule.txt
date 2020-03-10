@@ -1,0 +1,17 @@
+ceron_dem-training-data.txt_0_100	unknown
+ceron_dem-training-data.txt_101_284	subj
+ceron_dem-training-data.txt_285_352	unknown
+ceron_dem-training-data.txt_353_419	unknown
+ceron_dem-training-data.txt_420_551	unknown
+ceron_dem-training-data.txt_552_643	unknown
+ceron_dem-training-data.txt_644_692	unknown
+ceron_dem-training-data.txt_693_972	unknown
+ceron_dem-training-data.txt_973_1177	unknown
+ceron_dem-training-data.txt_1178_1387	unknown
+ceron_dem-training-data.txt_1388_1667	unknown
+ceron_dem-training-data.txt_1668_1872	unknown
+ceron_dem-training-data.txt_1873_2082	unknown
+ceron_dem-training-data.txt_2083_2354	subj
+ceron_dem-training-data.txt_2355_2520	unknown
+ceron_dem-training-data.txt_2521_2792	subj
+ceron_dem-training-data.txt_2793_2958	unknown

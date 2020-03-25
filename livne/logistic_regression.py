@@ -126,7 +126,7 @@ def clean_data(data):
         feature_dict[key] = (i, i+1)
         i = i+1
 
-    reduced_data = svd.fit_transform(np.array(ml_data))
+    # reduced_data = svd.fit_transform(np.array(ml_data))
     print("created svd")
     return np.array(ml_data), np.array(np.random.choice([0, 1], size=100)), feature_list, feature_dict
 
@@ -201,13 +201,15 @@ def train_and_test(X, y, feature_list, feature_dict):
     :return: the accuracy/score of the model!
     """
     # print(X[0:10])
+    print(X)
+    print(y)
     X_train, X_test, y_train, y_test = train_test_split(
         X,
         y,
-        test_size=0.1,
-        train_size=0.9,
+        test_size=0.2,
+        train_size=0.8,
         # random_state=0,
-        shuffle=True
+        # shuffle=True
     )
 
     # new_X_train, new_y_train = balance(X_train, y_train)
@@ -280,11 +282,15 @@ def type_1_2_errors(model, X_test, y_test):
             "recall": recall}
 
 def main():
-    score_list = []
-    precision_list = []
-    recall_list = []
-    df = mongo_to_df()
+    # score_list = []
+    # precision_list = []
+    # recall_list = []
+    data = [['tom', 10], ['nick', 15], ['juli', 14]]
+    df = pd.DataFrame(data, columns = ['Name', 'Age'])
+
+    # df = mongo_to_df()
     data = convert_data(df)
+
     ml_data, labels, feature_list, feature_dict = clean_data(data)
 
     score, precision, recall = train_and_test(ml_data, labels, feature_list, feature_dict)

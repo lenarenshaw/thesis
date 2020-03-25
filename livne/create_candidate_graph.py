@@ -5,15 +5,6 @@ from collections import Counter
 from matplotlib import pyplot as plt
 from numpy.random import randint
 
-# TODO:
-# 1. Scrape all of the tweets from each candidate from 2 weeks prior to the first election until now.
-# 2. Create a map of all of the states and the dates their eleciton occured on.
-# 3. Compare the timestamps so you get tweets from the correct time up until the election (using timedelta)
-# 4. Input will be the name of a state. Output will be the graph representing the 'state of the world' during that time
-# 5. Add two separate methods for getting pagerank and HITS authority.
-
-state = 'alabama'
-
 state_elections = {
     #year, month, day
     'iowa': date(2020, 2, 3),
@@ -84,42 +75,113 @@ candidate_exits = {'bennet':date(2020, 2, 11),
     'warren': date(2020, 3, 5),
     'yang': date(2020, 2, 11)}
 
-c = Counter()
+def create_graph(state):
+    c = Counter()
 
-for candidate in candidates.keys():
-    with open('data/candidates/tweets_' + candidate +'.json') as json_file:
-        data = json.load(json_file)
-        for tweet in data:
-            text = tweet['text'].lower()
-            timestamp = tweet['timestamp'].split('T')[0].split('-')
-            tweet_date = date(int(timestamp[0]), int(timestamp[1]), int(timestamp[2]))
-            delta = timedelta(weeks=2)
-            if tweet_date < state_elections[state] and tweet_date >= state_elections[state] - delta:
+    for candidate in candidates.keys():
+        with open('data/candidates/tweets_' + candidate +'.json') as json_file:
+            data = json.load(json_file)
+            for tweet in data:
+                text = tweet['text'].lower()
+                timestamp = tweet['timestamp'].split('T')[0].split('-')
+                tweet_date = date(int(timestamp[0]), int(timestamp[1]), int(timestamp[2]))
+                delta = timedelta(weeks=2)
+                if tweet_date < state_elections[state] and tweet_date >= state_elections[state] - delta:
+                    for name, alt in aliases.items():
+                        if candidate_exits[name] >= state_elections[state]:
+                            if name != candidate:
+                                for alias in alt:
+                                    if alias in text:
+                                        c[(candidate, name)] += 1
+
+
+        with open('data/candidates/' + candidate +'_following.csv') as file:
+            for line in file:
                 for name, alt in aliases.items():
-                    if candidate_exits[name] >= state_elections[state]:
-                        if name != candidate:
-                            for alias in alt:
-                                if alias in text:
-                                    c[(candidate, name)] += 1
+                    handle = alt[-1]
+                    if line.lower() == handle:
+                        c[(candidate, name)] += 1
 
+    G = nx.DiGraph()
+    num_nodes = 0
+    for candidate in candidates.keys():
+        if candidate_exits[candidate] >= state_elections[state]:
+            G.add_node(candidate)
 
-    with open('data/candidates/' + candidate +'_following.csv') as file:
-        for line in file:
-            for name, alt in aliases.items():
-                handle = alt[-1]
-                if line.lower() == handle:
-                    c[(candidate, name)] += 1
+    for connection, weight in c.items():
+        if candidate_exits[connection[0]] >= state_elections[state] and candidate_exits[connection[1]] >= state_elections[state]:
+            G.add_edge(connection[0], connection[1], weight=1/weight )
 
-G = nx.DiGraph()
-num_nodes = 0
-for candidate in candidates.keys():
-    if candidate_exits[candidate] >= state_elections[state]:
-        G.add_node(candidate)
+    # drawing = nx.draw(G, with_labels = True, font_size = 8)
+    # plt.draw()
+    # plt.show()
+    return G
 
-for connection, weight in c.items():
-    if candidate_exits[connection[0]] >= state_elections[state] and candidate_exits[connection[1]] >= state_elections[state]:
-        G.add_edge(connection[0], connection[1], weight=1/weight )
+def closeness_helper(G, is_incoming):
+    which_edge = 0
+    if is_incoming:
+        which_edge = 1
+    edges = Counter()
+    num_edges = Counter()
+    res = {}
+    for edge in G.edges.data('weight'):
+        edges[edge[which_edge]] += edge[2]
+        num_edges[edge[which_edge]] += 1
 
-drawing = nx.draw(G, with_labels = True, font_size = 8)
-plt.draw()
-plt.show()
+    for candidate in candidates.keys():
+        if candidate in edges.keys():
+            res[candidate] = num_edges[candidate] / edges[candidate]
+        else:
+            res[candidate] = float('inf')
+
+    return res
+
+def closeness_in(G):
+    return closeness_helper(G, True)
+
+def closeness_out(G):
+    return closeness_helper(G, False)
+
+def closeness_all(G):
+    edges = Counter()
+    num_edges = Counter()
+    res = {}
+    for edge in G.edges.data('weight'):
+        edges[edge[0]] += edge[2]
+        edges[edge[1]] += edge[2]
+        num_edges[edge[0]] += 1
+        num_edges[edge[1]] += 1
+    for candidate in candidates.keys():
+        if candidate in edges.keys():
+            res[candidate] = num_edges[candidate] / edges[candidate]
+        else:
+            res[candidate] = float('inf')
+    return res
+
+def in_degree(G):
+    res = {}
+    for node in list(G.nodes):
+        res[node] = G.in_degree[node]
+    return res
+
+def out_degree(G):
+    res = {}
+    for node in list(G.nodes):
+        res[node] = G.out_degree[node]
+    return res
+
+def get_graph_calculations(state):
+    G = create_graph(state)
+
+    close_in = closeness_in(G)
+    close_out = closeness_out(G)
+    close_all = closeness_all(G)
+    pr = nx.pagerank(G)
+    hit = nx.hits(G)[0]
+    in_deg = in_degree(G)
+    out_deg = out_degree(G)
+
+    res = {}
+    for candidate in candidates.keys():
+        res[candidate] = {'closeness_in': close_in[candidate], 'closeness_out': close_out[candidate], 'closeness_all': close_all[candidate], 'pagerank': pr[candidate],'hits': hit[candidate],'in_degree': in_deg[candidate],'out_degree': out_deg[candidate]}
+    return res

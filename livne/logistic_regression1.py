@@ -9,7 +9,33 @@ import seaborn as sns
 sns.set(style="white")
 sns.set(style="whitegrid", color_codes=True)
 
+from create_candidate_graph import get_graph_calculations
+from term_weighting import get_kl_divergence
+from tweet_parties import get_tweet_parties
+from tweet_stats import get_tweet_stats
 
+state = 'iowa'
+candidates = {'bennet':'michaelbennet',
+    'biden': 'moderate',
+    'bloomberg': 'moderate',
+    'buttigieg': 'moderate',
+    'gabbard': 'liberal',
+    'klobuchar': 'moderate',
+    'patrick': 'moderate',
+    'sanders':'liberal',
+    'steyer': 'moderate',
+    'warren': 'liberal',
+    'yang': 'moderate'}
+
+graph_fields = get_graph_calculations(state)
+term_fields = get_kl_divergence(state)
+party_fields = get_tweet_parties(state)
+stat_fields = get_tweet_stats(state)
+
+candidate_features = {}
+for candidate in candidates.keys():
+    candidate_features[candidate] = {**graph_fields[candidate], **term_fields[candidate], **party_fields[candidate], **stat_fields[candidate]}
+print(candidate_features)
 
 
 # import pandas as pd

@@ -75,10 +75,22 @@ candidate_exits = {'bennet':date(2020, 2, 11),
     'warren': date(2020, 3, 5),
     'yang': date(2020, 2, 11)}
 
+def candidates_and_aliases(state):
+    candidates_in = {}
+    aliases_in = {}
+
+    for candidate in candidates.keys():
+        if candidate_exits[candidate] >= state_elections[state]:
+            candidates_in[candidate] = candidates[candidate]
+            aliases_in[candidate] = aliases[candidate]
+    return candidates_in, aliases_in
+
 def create_graph(state):
     c = Counter()
 
-    for candidate in candidates.keys():
+    candidates_in, aliases_in = candidates_and_aliases(state)
+
+    for candidate in candidates_in.keys():
         with open('data/candidates/tweets_' + candidate +'.json') as json_file:
             data = json.load(json_file)
             for tweet in data:
@@ -87,37 +99,34 @@ def create_graph(state):
                 tweet_date = date(int(timestamp[0]), int(timestamp[1]), int(timestamp[2]))
                 delta = timedelta(weeks=2)
                 if tweet_date < state_elections[state] and tweet_date >= state_elections[state] - delta:
-                    for name, alt in aliases.items():
-                        if candidate_exits[name] >= state_elections[state]:
-                            if name != candidate:
-                                for alias in alt:
-                                    if alias in text:
-                                        c[(candidate, name)] += 1
+                    for name, alt in aliases_in.items():
+                        if name != candidate:
+                            for alias in alt:
+                                if alias in text:
+                                    c[(candidate, name)] += 1
 
 
         with open('data/candidates/' + candidate +'_following.csv') as file:
             for line in file:
-                for name, alt in aliases.items():
+                for name, alt in aliases_in.items():
                     handle = alt[-1]
                     if line.lower() == handle:
                         c[(candidate, name)] += 1
 
     G = nx.DiGraph()
     num_nodes = 0
-    for candidate in candidates.keys():
-        if candidate_exits[candidate] >= state_elections[state]:
-            G.add_node(candidate)
+    for candidate in candidates_in.keys():
+        G.add_node(candidate)
 
     for connection, weight in c.items():
-        if candidate_exits[connection[0]] >= state_elections[state] and candidate_exits[connection[1]] >= state_elections[state]:
-            G.add_edge(connection[0], connection[1], weight=1/weight )
+        G.add_edge(connection[0], connection[1], weight=1/weight )
 
     # drawing = nx.draw(G, with_labels = True, font_size = 8)
     # plt.draw()
     # plt.show()
     return G
 
-def closeness_helper(G, is_incoming):
+def closeness_helper(G, state, is_incoming):
     which_edge = 0
     if is_incoming:
         which_edge = 1
@@ -128,21 +137,23 @@ def closeness_helper(G, is_incoming):
         edges[edge[which_edge]] += edge[2]
         num_edges[edge[which_edge]] += 1
 
-    for candidate in candidates.keys():
+    candidates_in, aliases_in = candidates_and_aliases(state)
+
+    for candidate in candidates_in.keys():
         if candidate in edges.keys():
             res[candidate] = num_edges[candidate] / edges[candidate]
         else:
-            res[candidate] = float('inf')
+            res[candidate] = 0
 
     return res
 
-def closeness_in(G):
-    return closeness_helper(G, True)
+def closeness_in(G, state):
+    return closeness_helper(G, state, True)
 
-def closeness_out(G):
-    return closeness_helper(G, False)
+def closeness_out(G, state):
+    return closeness_helper(G, state, False)
 
-def closeness_all(G):
+def closeness_all(G, state):
     edges = Counter()
     num_edges = Counter()
     res = {}
@@ -151,20 +162,21 @@ def closeness_all(G):
         edges[edge[1]] += edge[2]
         num_edges[edge[0]] += 1
         num_edges[edge[1]] += 1
-    for candidate in candidates.keys():
+    candidates_in, aliases_in = candidates_and_aliases(state)
+    for candidate in candidates_in.keys():
         if candidate in edges.keys():
             res[candidate] = num_edges[candidate] / edges[candidate]
         else:
             res[candidate] = float('inf')
     return res
 
-def in_degree(G):
+def in_degree(G, state):
     res = {}
     for node in list(G.nodes):
         res[node] = G.in_degree[node]
     return res
 
-def out_degree(G):
+def out_degree(G, state):
     res = {}
     for node in list(G.nodes):
         res[node] = G.out_degree[node]
@@ -172,16 +184,16 @@ def out_degree(G):
 
 def get_graph_calculations(state):
     G = create_graph(state)
-
-    close_in = closeness_in(G)
-    close_out = closeness_out(G)
-    close_all = closeness_all(G)
+    close_in = closeness_in(G, state)
+    close_out = closeness_out(G, state)
+    close_all = closeness_all(G, state)
     pr = nx.pagerank(G)
     hit = nx.hits(G)[0]
-    in_deg = in_degree(G)
-    out_deg = out_degree(G)
+    in_deg = in_degree(G, state)
+    out_deg = out_degree(G, state)
 
     res = {}
-    for candidate in candidates.keys():
+    candidates_in, aliases_in = candidates_and_aliases(state)
+    for candidate in candidates_in.keys():
         res[candidate] = {'closeness_in': close_in[candidate], 'closeness_out': close_out[candidate], 'closeness_all': close_all[candidate], 'pagerank': pr[candidate],'hits': hit[candidate],'in_degree': in_deg[candidate],'out_degree': out_deg[candidate]}
     return res

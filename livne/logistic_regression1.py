@@ -1,3 +1,5 @@
+# Credits to https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8 for the great logistic regression guide!
+
 import pandas as pd
 import numpy as np
 from sklearn import preprocessing
@@ -9,12 +11,12 @@ import seaborn as sns
 sns.set(style="white")
 sns.set(style="whitegrid", color_codes=True)
 
-from create_candidate_graph import get_graph_calculations
+from create_candidate_graph import get_graph_calculations, candidates_and_aliases
 from term_weighting import get_kl_divergence
 from tweet_parties import get_tweet_parties
 from tweet_stats import get_tweet_stats
 
-state = 'iowa'
+MAX_VAL = 1000000
 candidates = {'bennet':'michaelbennet',
     'biden': 'moderate',
     'bloomberg': 'moderate',
@@ -27,133 +29,97 @@ candidates = {'bennet':'michaelbennet',
     'warren': 'liberal',
     'yang': 'moderate'}
 
-graph_fields = get_graph_calculations(state)
-term_fields = get_kl_divergence(state)
-party_fields = get_tweet_parties(state)
-stat_fields = get_tweet_stats(state)
+results2020 = {'iowa': 'buttigieg',
+    'newhampshire': 'sanders',
+    'nevada': 'sanders',
+    'southcarolina': 'biden',
+    'alabama': 'biden',
+    'arkansas': 'biden',
+    'colorado': 'sanders',
+    'massachusetts': 'biden',
+    'minnesota': 'biden',
+    'oklahoma': 'biden',
+    'tennessee': 'biden',
+    'texas': 'biden',
+    'vermont': 'sanders',
+    'virginia': 'biden',
+    'maine': 'biden',
+    'michigan': 'biden',
+    'mississippi': 'biden'}
 
-candidate_features = {}
-for candidate in candidates.keys():
-    candidate_features[candidate] = {**graph_fields[candidate], **term_fields[candidate], **party_fields[candidate], **stat_fields[candidate]}
-print(candidate_features)
+candidate_features = []
+for state in results2020.keys():
+    print(state)
 
+    graph_fields = get_graph_calculations(state)
+    term_fields = get_kl_divergence(state)
+    party_fields = get_tweet_parties(state)
+    stat_fields = get_tweet_stats(state)
 
-# import pandas as pd
-# import datetime
-# from sklearn.linear_model import LogisticRegression
-# from sklearn import metrics
-#
-# def convert_data(df):
-#     data = []
-#     columns = df.columns
-#     for index, row in df.iterrows():
-#         tmp = {}
-#         for col in columns:
-#             tmp[col] = row[col]
-#         data.append(tmp)
-#     return data
-#
-# def clean_data(data):
-#     ml_data = []
-#     labels = []
-#     feature_list = []
-#     feature_dict = dict()
-#     no_use_keys = set()
-#     i = 0
-#     for row in data:
-#         tmp = []
-#         for key, value in row.items():
-#             if key not in no_use_keys:
-#                 feature_list.append(key)
-#                 feature_dict[key] = (i, i+1)
-#                 tmp.append(float(value))
-#         ml_data.append(tmp)
-#
-#     i = 0
-#     feature_dict = dict()
-#     for key in feature_list:
-#         feature_dict[key] = (i, i+1)
-#         i = i+1
-#
-#     return np.array(ml_data), np.array(np.random.choice([0, 1], size=3)), feature_list, feature_dict
-#
-# def train_and_test(X, y):
-#     X_train, X_test, y_train, y_test = train_test_split(
-#         X,
-#         y,
-#         test_size=0.2,
-#         train_size=0.8,
-#         # random_state=0,
-#         shuffle=True
-#     )
-#
-#     logreg = LogisticRegression()
-#     logreg.fit(X_train, y_train)
-#     y_pred = logreg.predict(X_test)
-#     print('Accuracy of logistic regression classifier on test set: {:.2f}'.format(logreg.score(X_test, y_test)))
-#
-# def precision_recall(model, X_test, y_test):
-#     y_score = model.decision_path(X_test)
-#     average_precision = average_precision_score(y_test, y_score)
-#     print('Average precision-recall score: {0:0.2f}'.format(
-#         average_precision))
-#     precision, recall, _ = precision_recall_curve(y_test, y_score)
-#
-#     # In matplotlib < 1.5, plt.fill_between does not have a 'step' argument
-#     step_kwargs = ({'step': 'post'}
-#                    if 'step' in signature(plt.fill_between).parameters
-#                    else {})
-#     plt.step(recall, precision, color='b', alpha=0.2,
-#              where='post')
-#     plt.fill_between(recall, precision, alpha=0.2, color='b', **step_kwargs)
-#
-#     plt.xlabel('Recall')
-#     plt.ylabel('Precision')
-#     plt.ylim([0.0, 1.05])
-#     plt.xlim([0.0, 1.0])
-#     plt.title('2-class Precision-Recall curve: AP={0:0.2f}'.format(
-#               average_precision))
-#     plt.show()
-#
-# def type_1_2_errors(model, X_test, y_test):
-#     preds = model.predict(X_test)
-#     FP = confusion_matrix(y_test, preds)[0][1]
-#     FN = confusion_matrix(y_test, preds)[1][0]
-#     TP = confusion_matrix(y_test, preds)[1][1]
-#     TN = confusion_matrix(y_test, preds)[0][0]
-#
-#     precision = TP/(TP + FP)
-#     recall = TP/(TP + FN)
-#
-#     return {"False positive": FP,
-#             "False negative": FN,
-#             "True positive": TP,
-#             "True Negative": TN,
-#             "precision": precision,
-#             "recall": recall}
-#
-# def main():
-#     # score_list = []
-#     # precision_list = []
-#     # recall_list = []
-#     data = [['tom', 10, 10000], ['nick', 15, 20000], ['juli', 14, 30000]]
-#     df = pd.DataFrame(data, columns = ['Name', 'Age', 'Income'])
-#
-#     # df = mongo_to_df()
-#     data = convert_data(df)
-#
-#     ml_data, labels, feature_list, feature_dict = clean_data(data)
-#
-#     score, precision, recall = train_and_test(ml_data, labels, feature_list, feature_dict)
-#     # score_list.append(score)
-#     # precision_list.append(precision)
-#     # recall_list.append(recall)
-#     # avg_score = np.mean(score_list)
-#     # avg_precision = np.mean(precision_list)
-#     # avg_recall = np.mean(recall_list)
-#     # print("Avg score:", avg_score)
-#     # print("Avg precision:", avg_precision)
-#     # print("Avg recall:", avg_recall)
-#
-# if __name__ == "__main__":
-#     main()
+    candidates_in, aliases_in = candidates_and_aliases(state)
+
+    for candidate in candidates_in.keys():
+        won = 0
+        if candidate == results2020[state]: won = 1
+        candidate_features.append({**graph_fields[candidate], **term_fields[candidate], **party_fields[candidate], **stat_fields[candidate], "won": won})
+
+df_dict = {}
+for features in candidate_features:
+    for feature, value in features.items():
+        if feature in df_dict.keys():
+            temp = df_dict[feature]
+            if np.isinf(value):
+                value = MAX_VAL
+            temp.append(value)
+            df_dict[feature] = temp
+        else:
+            df_dict[feature] = [value]
+
+data_final = pd.DataFrame.from_dict(df_dict)
+data_final = data_final.fillna(0)
+
+X = data_final.loc[:, data_final.columns != 'won']
+y = data_final.loc[:, data_final.columns == 'won']
+
+from imblearn.over_sampling import SMOTE
+os = SMOTE(random_state=0)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
+
+columns = X_train.columns
+os_data_X,os_data_y=os.fit_sample(X_train, y_train)
+os_data_X = pd.DataFrame(data=os_data_X,columns=columns )
+os_data_y= pd.DataFrame(data=os_data_y,columns=['won'])
+
+print("length of oversampled data is ",len(os_data_X))
+print("Number of no subscription in oversampled data",len(os_data_y[os_data_y['won']==0]))
+print("Number of subscription",len(os_data_y[os_data_y['won']==1]))
+print("Proportion of no subscription data in oversampled data is ",len(os_data_y[os_data_y['won']==0])/len(os_data_X))
+print("Proportion of subscription data in oversampled data is ",len(os_data_y[os_data_y['won']==1])/len(os_data_X))
+
+data_final_vars=data_final.columns.values.tolist()
+from sklearn.feature_selection import RFE
+logreg = LogisticRegression()
+rfe = RFE(logreg, 20)
+rfe = rfe.fit(os_data_X, os_data_y.values.ravel())
+print(rfe.support_)
+print(rfe.ranking_)
+
+X=os_data_X[columns]
+y=os_data_y['won']
+
+import statsmodels.api as sm
+x_train1 = sm.add_constant(X_train)
+lm_1 = sm.OLS(y_train, X_train).fit()
+print(lm_1.summary())
+
+from sklearn.linear_model import LogisticRegression
+from sklearn import metrics
+# X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=0)
+logreg = LogisticRegression()
+result = logreg.fit(X_train, y_train)
+y_pred = logreg.predict(X_test)
+print('Accuracy of logistic regression classifier on test set: {:.2f}'.format(logreg.score(X_test, y_test)))
+
+from sklearn.metrics import confusion_matrix
+confusion_matrix = confusion_matrix(y_test, y_pred)
+print(confusion_matrix)

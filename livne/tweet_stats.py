@@ -88,5 +88,7 @@ def get_tweet_stats(state):
             for hashtag in hashtags.most_common(10):
                 common_hashtags.append(hashtag[0])
 
-        res[candidate] = {'tweets': num_tweets, 'hashtags': common_hashtags, 'replies_total': replies, 'replies_average': replies_average, 'retweets_total': retweets, 'retweets_average': retweets_average}
+        # currently removed hashtags: 'hashtags': common_hashtags,
+
+        res[candidate] = {'tweets': num_tweets, 'replies_total': replies, 'replies_average': replies_average, 'retweets_total': retweets, 'retweets_average': retweets_average}
     return res

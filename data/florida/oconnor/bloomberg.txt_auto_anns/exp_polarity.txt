@@ -1,0 +1,3 @@
+raw_tweets_bloomberg.txt_18148_18151	negative
+raw_tweets_bloomberg.txt_18191_18198	negative
+raw_tweets_bloomberg.txt_18239_18242	negative

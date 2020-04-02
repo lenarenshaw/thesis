@@ -1,0 +1,4 @@
+raw_tweets_biden.txt_1795_1797	neutral
+raw_tweets_biden.txt_1826_1833	positive
+raw_tweets_biden.txt_1860_1864	neutral
+raw_tweets_biden.txt_1881_1887	neutral

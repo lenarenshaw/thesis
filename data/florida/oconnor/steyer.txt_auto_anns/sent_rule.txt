@@ -1,0 +1,7 @@
+raw_tweets_steyer.txt_0_96	unknown
+raw_tweets_steyer.txt_97_398	unknown
+raw_tweets_steyer.txt_399_544	unknown
+raw_tweets_steyer.txt_545_561	obj
+raw_tweets_steyer.txt_562_723	obj
+raw_tweets_steyer.txt_724_854	unknown
+raw_tweets_steyer.txt_855_917	unknown

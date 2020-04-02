@@ -1,0 +1,6 @@
+raw_tweets_dem.txt_223189_223193	neutral
+raw_tweets_dem.txt_223235_223242	positive
+raw_tweets_dem.txt_223311_223321	neutral
+raw_tweets_dem.txt_223324_223328	neutral
+raw_tweets_dem.txt_223329_223336	neutral
+raw_tweets_dem.txt_223344_223350	neutral

@@ -1,4 +1,4 @@
-klobuchar sentiment: inf
+klobuchar sentiment: 4
 sanders sentiment: 3.5
 biden sentiment: 3.25
 bloomberg sentiment: 3.0

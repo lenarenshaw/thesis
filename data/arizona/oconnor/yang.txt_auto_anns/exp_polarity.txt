@@ -1,0 +1,15 @@
+raw_tweets_yang.txt_6967_6971	neutral
+raw_tweets_yang.txt_6972_6977	negative
+raw_tweets_yang.txt_7549_7554	negative
+raw_tweets_yang.txt_7821_7827	neutral
+raw_tweets_yang.txt_7897_7904	neutral
+raw_tweets_yang.txt_8099_8106	positive
+raw_tweets_yang.txt_8450_8455	negative
+raw_tweets_yang.txt_8706_8711	negative
+raw_tweets_yang.txt_9008_9012	neutral
+raw_tweets_yang.txt_9418_9426	neutral
+raw_tweets_yang.txt_9488_9496	neutral
+raw_tweets_yang.txt_10211_10213	neutral
+raw_tweets_yang.txt_10262_10270	neutral
+raw_tweets_yang.txt_10332_10340	neutral
+raw_tweets_yang.txt_11055_11057	neutral

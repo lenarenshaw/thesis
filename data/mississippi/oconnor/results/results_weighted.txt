@@ -1,4 +1,3 @@
-klobuchar sentiment: inf
 biden sentiment: 100.0
 yang sentiment: 76.0952380952381
 dem sentiment: 41.42857142857143
@@ -7,6 +6,7 @@ warren sentiment: 25.5
 bloomberg sentiment: 24.0
 primary sentiment: 21.12
 caucus sentiment: 20.0
+klobuchar sentiment: 4
 democrat sentiment: 2.6666666666666665
 bennet sentiment: 0
 buttigieg sentiment: 0

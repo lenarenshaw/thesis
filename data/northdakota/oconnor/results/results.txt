@@ -1,4 +1,4 @@
-buttigieg sentiment: inf
+buttigieg sentiment: 4
 klobuchar sentiment: 3.0
 sanders sentiment: 2.5
 caucus sentiment: 2.09375

@@ -1,4 +1,4 @@
-sanders sentiment: inf
+sanders sentiment: 12
 klobuchar sentiment: 4.0
 caucus sentiment: 2.5
 biden sentiment: 1.25

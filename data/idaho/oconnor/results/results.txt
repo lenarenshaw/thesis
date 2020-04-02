@@ -1,7 +1,7 @@
-bennet sentiment: inf
 gabbard sentiment: 5.333333333333333
 patrick sentiment: 3.3157894736842106
 klobuchar sentiment: 2.2115384615384617
+bennet sentiment: 2
 warren sentiment: 1.938976377952756
 caucus sentiment: 1.6703296703296704
 biden sentiment: 1.5786963434022259

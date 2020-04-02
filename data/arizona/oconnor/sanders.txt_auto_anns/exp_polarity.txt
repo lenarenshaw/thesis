@@ -1,0 +1,10 @@
+raw_tweets_sanders.txt_2551_2556	neutral
+raw_tweets_sanders.txt_2557_2564	neutral
+raw_tweets_sanders.txt_2570_2575	negative
+raw_tweets_sanders.txt_2576_2586	negative
+raw_tweets_sanders.txt_2607_2611	neutral
+raw_tweets_sanders.txt_2675_2680	neutral
+raw_tweets_sanders.txt_2692_2696	negative
+raw_tweets_sanders.txt_2727_2730	negative
+raw_tweets_sanders.txt_2768_2772	neutral
+raw_tweets_sanders.txt_2787_2793	neutral

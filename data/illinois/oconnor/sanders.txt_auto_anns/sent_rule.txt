@@ -1,0 +1,17 @@
+raw_tweets_sanders.txt_0_299	unknown
+raw_tweets_sanders.txt_300_626	unknown
+raw_tweets_sanders.txt_627_736	unknown
+raw_tweets_sanders.txt_737_874	unknown
+raw_tweets_sanders.txt_875_1214	obj
+raw_tweets_sanders.txt_1215_1476	unknown
+raw_tweets_sanders.txt_1477_1509	unknown
+raw_tweets_sanders.txt_1510_1849	unknown
+raw_tweets_sanders.txt_1850_2111	unknown
+raw_tweets_sanders.txt_2112_2144	unknown
+raw_tweets_sanders.txt_2145_2238	obj
+raw_tweets_sanders.txt_2239_2350	obj
+raw_tweets_sanders.txt_2351_2405	obj
+raw_tweets_sanders.txt_2406_2499	obj
+raw_tweets_sanders.txt_2500_2611	obj
+raw_tweets_sanders.txt_2612_2666	unknown
+raw_tweets_sanders.txt_2667_2912	subj

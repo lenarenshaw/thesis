@@ -1,5 +1,5 @@
-sanders sentiment: inf
 yang sentiment: 95.2
+sanders sentiment: 72
 dem sentiment: 25.78125
 primary sentiment: 20.0
 caucus sentiment: 12.5

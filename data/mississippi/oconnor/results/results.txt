@@ -1,8 +1,8 @@
-klobuchar sentiment: inf
 biden sentiment: 10.0
 caucus sentiment: 5.0
 sanders sentiment: 4.75
 bloomberg sentiment: 4.0
+klobuchar sentiment: 4
 warren sentiment: 2.8333333333333335
 dem sentiment: 1.4285714285714286
 primary sentiment: 1.32

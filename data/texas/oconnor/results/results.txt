@@ -1,4 +1,4 @@
-sanders sentiment: inf
+sanders sentiment: 7
 klobuchar sentiment: 2.5
 biden sentiment: 2.2
 warren sentiment: 1.3333333333333333

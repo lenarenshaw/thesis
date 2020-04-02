@@ -1,0 +1,9 @@
+raw_tweets_warren.txt_0_230	obj
+raw_tweets_warren.txt_231_267	obj
+raw_tweets_warren.txt_270_294	obj
+raw_tweets_warren.txt_295_355	obj
+raw_tweets_warren.txt_356_509	subj
+raw_tweets_warren.txt_510_770	subj
+raw_tweets_warren.txt_771_884	obj
+raw_tweets_warren.txt_885_1088	obj
+raw_tweets_warren.txt_1089_1186	subj

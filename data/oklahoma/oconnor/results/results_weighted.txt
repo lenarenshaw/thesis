@@ -1,5 +1,5 @@
-sanders sentiment: inf
 yang sentiment: 125.26315789473684
+sanders sentiment: 35
 dem sentiment: 34.57692307692308
 primary sentiment: 22.909090909090907
 biden sentiment: 22.75

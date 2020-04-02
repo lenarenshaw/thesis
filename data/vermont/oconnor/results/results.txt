@@ -1,5 +1,5 @@
-sanders sentiment: inf
 klobuchar sentiment: 8.0
+sanders sentiment: 7
 biden sentiment: 1.25
 dem sentiment: 1.1590909090909092
 yang sentiment: 1.1176470588235294

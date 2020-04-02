@@ -6,6 +6,7 @@ https://docs.google.com/document/d/17qkcn90dSMskabn0-GPWnHcUXmQGfWmI-MtYdr3dM0I/
 
 ## Methodology
   https://docs.google.com/document/d/1aUshAt1AmErNO2ZlLKOGE6REbE_bGyHouTWjzzcomb0/edit
+
   Caucuses and primaries: https://www.270towin.com/2020-election-calendar/
 
 ## Detailed Usage Instructions for a Given Election

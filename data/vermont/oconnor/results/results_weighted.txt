@@ -1,6 +1,6 @@
-sanders sentiment: inf
 yang sentiment: 121.82352941176471
 dem sentiment: 42.88636363636364
+sanders sentiment: 35
 klobuchar sentiment: 24.0
 primary sentiment: 14.25
 bloomberg sentiment: 12.0

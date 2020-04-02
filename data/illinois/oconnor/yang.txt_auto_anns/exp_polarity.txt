@@ -1,0 +1,2 @@
+raw_tweets_yang.txt_10718_10722	neutral
+raw_tweets_yang.txt_10723_10728	negative

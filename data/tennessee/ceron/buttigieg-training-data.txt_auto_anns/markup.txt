@@ -1,0 +1,3 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Anyone: [asks me about my political <MPQAPOL autoclass="neutral">views</MPQAPOL>] Me: [In Hank Hill voice] do I <MPQAPOL autoclass="neutral">look</MPQAPOL> like I <MPQAPOL autoclass="neutral">know</MPQAPOL> what a buttigieg is.</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">I <MPQAPOL autoclass="positive">support</MPQAPOL> this anti-endorsement of Pete buttigieg https://twittercom/marwilliamson/status/1226630383422320641 ….</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">Elizabeth Warren Has a Pete Buttigieg Problem – The New York Times https://souqsellcom/elizabeth-warren-has-a-pete-buttigieg-problem-the-new-york-timeshtml …pictwittercom/lB1oIuOGWw.</MPQASENT>

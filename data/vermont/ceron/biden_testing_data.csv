@@ -1,0 +1,15 @@
+Word,Polarity
+want,strongpos
+even,weakpos
+compromise,weakpos
+think,neutral
+best,weakpos
+means,neutral
+endorses,strongpos
+bad,strongneg
+upset,strongneg
+So,neutral
+suppress,strongneg
+lying,strongneg
+felt,neutral
+humiliated,strongneg

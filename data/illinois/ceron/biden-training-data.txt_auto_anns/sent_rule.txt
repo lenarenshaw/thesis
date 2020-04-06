@@ -1,0 +1,15 @@
+ceron_biden-training-data.txt_0_96	obj
+ceron_biden-training-data.txt_98_290	obj
+ceron_biden-training-data.txt_291_574	obj
+ceron_biden-training-data.txt_575_673	obj
+ceron_biden-training-data.txt_674_978	obj
+ceron_biden-training-data.txt_979_1095	obj
+ceron_biden-training-data.txt_1096_1165	unknown
+ceron_biden-training-data.txt_1166_1279	unknown
+ceron_biden-training-data.txt_1280_1475	unknown
+ceron_biden-training-data.txt_1476_1619	unknown
+ceron_biden-training-data.txt_1620_1783	unknown
+ceron_biden-training-data.txt_1784_1978	unknown
+ceron_biden-training-data.txt_1979_2050	unknown
+ceron_biden-training-data.txt_2051_2055	obj
+ceron_biden-training-data.txt_2056_2143	obj

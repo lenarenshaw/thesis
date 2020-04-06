@@ -1,0 +1,8 @@
+ceron_sanders-training-data.txt_302_309	neutral
+ceron_sanders-training-data.txt_353_363	negative
+ceron_sanders-training-data.txt_402_408	neutral
+ceron_sanders-training-data.txt_700_706	neutral
+ceron_sanders-training-data.txt_1005_1014	neutral
+ceron_sanders-training-data.txt_1015_1019	neutral
+ceron_sanders-training-data.txt_1034_1038	neutral
+ceron_sanders-training-data.txt_1085_1094	neutral

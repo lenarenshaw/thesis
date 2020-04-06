@@ -1,0 +1,14 @@
+Word,Polarity
+should,neutral
+maybe,neutral
+just,strongpos
+sure,weakpos
+spite,strongneg
+wrong,strongneg
+Glad,strongpos
+Primary,neutral
+Speculation,neutral
+abounds,weakpos
+bad,strongneg
+idea,neutral
+pretty,weakpos

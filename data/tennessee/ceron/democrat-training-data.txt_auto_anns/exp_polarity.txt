@@ -1,0 +1,8 @@
+ceron_democrat-training-data.txt_606_610	positive
+ceron_democrat-training-data.txt_611_615	positive
+ceron_democrat-training-data.txt_754_763	neutral
+ceron_democrat-training-data.txt_764_768	neutral
+ceron_democrat-training-data.txt_783_787	neutral
+ceron_democrat-training-data.txt_834_843	neutral
+ceron_democrat-training-data.txt_1200_1211	neutral
+ceron_democrat-training-data.txt_1236_1244	neutral

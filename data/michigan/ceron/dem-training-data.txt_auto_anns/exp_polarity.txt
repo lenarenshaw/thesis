@@ -1,6 +1,1 @@
-ceron_dem-training-data.txt_894_900	neutral
-ceron_dem-training-data.txt_1006_1010	neutral
-ceron_dem-training-data.txt_1048_1056	neutral
-ceron_dem-training-data.txt_1057_1064	neutral
-ceron_dem-training-data.txt_1078_1088	neutral
-ceron_dem-training-data.txt_1349_1359	neutral
+ceron_dem-training-data.txt_1641_1644	neutral

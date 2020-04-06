@@ -1,0 +1,4 @@
+ceron_buttigieg-training-data.txt_36_41	neutral
+ceron_buttigieg-training-data.txt_73_77	neutral
+ceron_buttigieg-training-data.txt_85_89	neutral
+ceron_buttigieg-training-data.txt_113_120	positive

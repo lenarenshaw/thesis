@@ -1,0 +1,17 @@
+Word,Polarity
+Id,neutral
+like,strongpos
+fine,strongpos
+basically,neutral
+super,strongpos
+endorse,strongpos
+acknowledge,weakpos
+looking,neutral
+worse,strongneg
+support,strongpos
+black,weakneg
+criticizing,strongneg
+So,neutral
+excited,strongpos
+able,weakpos
+Defeat,strongneg

@@ -1,0 +1,5 @@
+ceron_biden-training-data.txt_36852_36857	neutral
+ceron_biden-training-data.txt_36881_36886	negative
+ceron_biden-training-data.txt_36900_36904	neutral
+ceron_biden-training-data.txt_36964_36971	neutral
+ceron_biden-training-data.txt_37043_37050	negative

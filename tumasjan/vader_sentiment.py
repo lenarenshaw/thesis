@@ -6,7 +6,7 @@ if len(sys.argv) != 2:
     print("Usage: python3 vader_sentiment.py <state-name>")
 state = sys.argv[1]
 
-keywords = ['bennet', 'biden', 'bloomberg', 'buttigieg', 'gabbard', 'klobuchar', 'patrick', 'sanders', 'steyer', 'warren', 'yang', 'democrat', 'dem', 'caucus', 'primary']
+keywords = ['biden', 'gabbard', 'sanders']
 
 all_data = {}
 analyzer = SentimentIntensityAnalyzer()

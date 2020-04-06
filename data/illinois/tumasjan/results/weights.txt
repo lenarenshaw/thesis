@@ -1,0 +1,3 @@
+sanders sentiment: 0.52
+biden sentiment: 0.48
+gabbard sentiment: 0.0

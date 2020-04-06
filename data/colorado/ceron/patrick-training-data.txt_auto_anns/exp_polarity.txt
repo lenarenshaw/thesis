@@ -1,0 +1,6 @@
+ceron_patrick-training-data.txt_6190_6196	neutral
+ceron_patrick-training-data.txt_6197_6201	negative
+ceron_patrick-training-data.txt_6560_6565	neutral
+ceron_patrick-training-data.txt_6877_6882	neutral
+ceron_patrick-training-data.txt_6955_6962	neutral
+ceron_patrick-training-data.txt_6979_6989	neutral

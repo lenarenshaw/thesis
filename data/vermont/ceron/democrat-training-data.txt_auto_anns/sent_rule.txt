@@ -1,0 +1,10 @@
+ceron_democrat-training-data.txt_0_225	unknown
+ceron_democrat-training-data.txt_226_389	unknown
+ceron_democrat-training-data.txt_390_398	unknown
+ceron_democrat-training-data.txt_399_651	unknown
+ceron_democrat-training-data.txt_652_660	unknown
+ceron_democrat-training-data.txt_661_913	unknown
+ceron_democrat-training-data.txt_914_1211	unknown
+ceron_democrat-training-data.txt_1212_1509	unknown
+ceron_democrat-training-data.txt_1510_1865	obj
+ceron_democrat-training-data.txt_1866_1944	obj

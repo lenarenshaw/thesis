@@ -1,0 +1,9 @@
+ceron_yang-training-data.txt_700_702	neutral
+ceron_yang-training-data.txt_712_716	positive
+ceron_yang-training-data.txt_717_723	neutral
+ceron_yang-training-data.txt_769_773	negative
+ceron_yang-training-data.txt_784_789	neutral
+ceron_yang-training-data.txt_855_860	neutral
+ceron_yang-training-data.txt_885_890	neutral
+ceron_yang-training-data.txt_894_900	negative
+ceron_yang-training-data.txt_917_922	neutral

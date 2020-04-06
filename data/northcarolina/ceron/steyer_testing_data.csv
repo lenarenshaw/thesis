@@ -1,0 +1,15 @@
+Word,Polarity
+Supporters,strongpos
+ready,weakpos
+Primary,neutral
+hopeful,strongpos
+Scum,strongneg
+trying,weakneg
+scared,strongneg
+qualifies,weakpos
+blames,strongneg
+Democratic,weakpos
+primary,neutral
+hope,strongpos
+very,neutral
+bad,strongneg

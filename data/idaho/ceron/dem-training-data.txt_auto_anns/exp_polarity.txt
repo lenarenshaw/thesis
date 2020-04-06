@@ -1,3 +1,4 @@
-ceron_dem-training-data.txt_220224_220235	neutral
-ceron_dem-training-data.txt_220257_220262	neutral
-ceron_dem-training-data.txt_220299_220310	neutral
+ceron_dem-training-data.txt_219224_219234	neutral
+ceron_dem-training-data.txt_219240_219244	positive
+ceron_dem-training-data.txt_219461_219471	neutral
+ceron_dem-training-data.txt_219797_219799	neutral

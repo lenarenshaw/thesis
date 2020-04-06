@@ -1,0 +1,2 @@
+ceron_democrat-training-data.txt_1267_1271	positive
+ceron_democrat-training-data.txt_1272_1276	positive

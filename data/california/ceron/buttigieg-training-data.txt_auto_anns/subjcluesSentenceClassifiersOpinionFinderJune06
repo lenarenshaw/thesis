@@ -1,0 +1,5 @@
+1	0,5	matchfeat	type="weakjandiss" mpqapolarity="weakpos"
+2	18,25	matchfeat	type="trainJWman" mpqapolarity="weakneg"
+3	37,49	matchfeat	type="basilisk-2000nouns-strongsubj" mpqapolarity="strongneg"
+4	69,84	matchfeat	type="basilisk-2000nouns-weaksubj" mpqapolarity="strongneg"
+5	110,120	matchfeat	type="metaboot-2000nouns-strongsubj" mpqapolarity="strongpos"

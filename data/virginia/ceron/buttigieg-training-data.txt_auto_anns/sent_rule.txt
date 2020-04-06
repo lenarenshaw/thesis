@@ -1,0 +1,4 @@
+ceron_buttigieg-training-data.txt_0_110	obj
+ceron_buttigieg-training-data.txt_111_223	obj
+ceron_buttigieg-training-data.txt_224_406	obj
+ceron_buttigieg-training-data.txt_407_589	obj

@@ -1,0 +1,4 @@
+ceron_democrat-training-data.txt_1934_1943	negative
+ceron_democrat-training-data.txt_1969_1976	neutral
+ceron_democrat-training-data.txt_2001_2013	neutral
+ceron_democrat-training-data.txt_2033_2040	neutral

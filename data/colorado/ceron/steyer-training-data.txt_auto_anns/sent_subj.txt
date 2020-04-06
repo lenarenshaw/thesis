@@ -1,0 +1,12 @@
+ceron_steyer-training-data.txt_0_103	obj
+ceron_steyer-training-data.txt_104_283	subj
+ceron_steyer-training-data.txt_284_492	subj
+ceron_steyer-training-data.txt_493_562	obj
+ceron_steyer-training-data.txt_563_570	obj
+ceron_steyer-training-data.txt_571_672	subj
+ceron_steyer-training-data.txt_673_763	subj
+ceron_steyer-training-data.txt_764_1032	subj
+ceron_steyer-training-data.txt_1033_1065	subj
+ceron_steyer-training-data.txt_1066_1220	obj
+ceron_steyer-training-data.txt_1221_1251	obj
+ceron_steyer-training-data.txt_1252_1509	obj

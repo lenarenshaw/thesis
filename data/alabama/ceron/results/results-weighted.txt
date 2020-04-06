@@ -1,0 +1,10 @@
+biden sentiment: 113.5
+bloomberg sentiment: 595.5
+gabbard sentiment: 30
+sanders sentiment: 384.166666666667
+warren sentiment: 305.833333333333
+biden sentiment: 0
+bloomberg sentiment: 585.282352941176
+gabbard sentiment: 0
+sanders sentiment: 633.988235294118
+warren sentiment: 247.640816326531

@@ -1,0 +1,11 @@
+ceron_dem-training-data.txt_2824_2830	neutral
+ceron_dem-training-data.txt_2838_2843	negative
+ceron_dem-training-data.txt_2926_2933	positive
+ceron_dem-training-data.txt_2964_2969	negative
+ceron_dem-training-data.txt_2970_2975	negative
+ceron_dem-training-data.txt_2984_2991	neutral
+ceron_dem-training-data.txt_3054_3059	neutral
+ceron_dem-training-data.txt_3085_3092	positive
+ceron_dem-training-data.txt_3097_3101	negative
+ceron_dem-training-data.txt_3287_3293	neutral
+ceron_dem-training-data.txt_3306_3312	neutral

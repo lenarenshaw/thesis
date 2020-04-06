@@ -1,0 +1,3 @@
+ceron_steyer-training-data.txt_0_242	subj
+ceron_steyer-training-data.txt_243_421	obj
+ceron_steyer-training-data.txt_422_600	obj

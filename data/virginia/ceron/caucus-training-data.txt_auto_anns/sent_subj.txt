@@ -1,0 +1,11 @@
+ceron_caucus-training-data.txt_0_275	subj
+ceron_caucus-training-data.txt_276_316	obj
+ceron_caucus-training-data.txt_317_378	subj
+ceron_caucus-training-data.txt_379_604	obj
+ceron_caucus-training-data.txt_605_808	subj
+ceron_caucus-training-data.txt_809_1034	subj
+ceron_caucus-training-data.txt_1035_1238	subj
+ceron_caucus-training-data.txt_1239_1353	obj
+ceron_caucus-training-data.txt_1355_1495	obj
+ceron_caucus-training-data.txt_1496_1610	obj
+ceron_caucus-training-data.txt_1612_1752	obj

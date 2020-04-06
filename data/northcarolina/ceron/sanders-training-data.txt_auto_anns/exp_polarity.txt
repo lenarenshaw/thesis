@@ -1,0 +1,7 @@
+ceron_sanders-training-data.txt_47102_47111	positive
+ceron_sanders-training-data.txt_47114_47122	neutral
+ceron_sanders-training-data.txt_47165_47169	positive
+ceron_sanders-training-data.txt_47183_47191	neutral
+ceron_sanders-training-data.txt_47341_47343	neutral
+ceron_sanders-training-data.txt_47359_47364	neutral
+ceron_sanders-training-data.txt_47434_47444	neutral

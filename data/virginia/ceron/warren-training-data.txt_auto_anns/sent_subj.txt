@@ -1,0 +1,3 @@
+ceron_warren-training-data.txt_0_274	subj
+ceron_warren-training-data.txt_275_457	obj
+ceron_warren-training-data.txt_458_640	obj

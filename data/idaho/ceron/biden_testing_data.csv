@@ -271,7 +271,7 @@ Certainly,neutral
 decline,weakneg
 informational,neutral
 recover,weakpos
-so,neutral
+,so,neutral
 Illness,strongneg
 defense,weakpos
 incompetent,strongneg
@@ -783,8 +783,8 @@ Decline,weakneg
 unfit,strongneg
 accused,strongneg
 overlook,strongneg
-wonders,strongpos
-looks,neutral
+*wonders,strongpos
+*looks,neutral
 conspiracy,strongneg
 legitimately,strongpos
 dishonest,strongneg

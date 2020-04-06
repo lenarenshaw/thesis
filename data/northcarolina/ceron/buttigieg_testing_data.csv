@@ -1,0 +1,7 @@
+Word,Polarity
+Mess,strongneg
+Failed,strongneg
+Clean,weakpos
+endorses,strongpos
+endorsed,strongpos
+so,neutral

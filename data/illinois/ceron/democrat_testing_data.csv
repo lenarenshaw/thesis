@@ -1,0 +1,16 @@
+Word,Polarity
+democratic,weakpos
+primary,neutral
+least,weakneg
+accusations,strongneg
+blatant,strongneg
+smear,strongneg
+security,weakpos
+most,neutral
+poor,strongneg
+needs,neutral
+glad,strongpos
+should,neutral
+allowed,weakpos
+lost,strongneg
+progressive,weakpos

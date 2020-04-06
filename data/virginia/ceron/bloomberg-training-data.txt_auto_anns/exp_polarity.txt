@@ -1,0 +1,4 @@
+ceron_bloomberg-training-data.txt_78_82	negative
+ceron_bloomberg-training-data.txt_83_87	negative
+ceron_bloomberg-training-data.txt_316_320	negative
+ceron_bloomberg-training-data.txt_321_325	negative

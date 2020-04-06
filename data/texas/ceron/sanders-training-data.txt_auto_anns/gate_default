@@ -1,0 +1,8 @@
+1	0,104	GATE_Sentence
+2	0,6	GATE_Token	string="Bernie" lemma="Bernie" category="NNP"
+3	7,14	GATE_Token	string="Sanders" lemma="Sanders" category="NNP"
+4	15,20	GATE_Token	string="Humor" lemma="humor" category="NN"
+5	21,86	GATE_Token	string="https://selfreliancecentralcom/2020/02/10/bernie-sanders-humor/ …" lemma="https://selfreliancecentralcom/2020/02/10/bernie-sanders-humor/ …" category="NN"
+6	87,90	GATE_Token	string="via" lemma="via" category="IN"
+7	91,103	GATE_Token	string="@srcSquirrel" lemma="@srcSquirrel" category="NNP"
+8	103,104	GATE_Token	string="." lemma="." category="."

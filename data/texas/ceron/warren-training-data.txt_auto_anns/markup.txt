@@ -1,0 +1,2 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">Elizabeth Warren is the candidate who gives me <MPQAPOL autoclass="positive">hope</MPQAPOL> https://twittercom/ewarren/status/1224839583248068608 ….</MPQASENT>
+<MPQASENT autoclass1="obj" autoclass2="obj">#Sanders #Buttigieg almost tied for state delegates, #warren in third #Sanders in first for <MPQAPOL autoclass="neutral">popular</MPQAPOL> vote #IowaCaucuses2020.</MPQASENT>

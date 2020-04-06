@@ -1,9 +1,8 @@
-ceron_yang-training-data.txt_262_266	neutral
-ceron_yang-training-data.txt_312_316	neutral
-ceron_yang-training-data.txt_1128_1132	neutral
-ceron_yang-training-data.txt_1171_1175	positive
-ceron_yang-training-data.txt_1184_1188	positive
-ceron_yang-training-data.txt_3365_3372	positive
-ceron_yang-training-data.txt_3479_3483	neutral
-ceron_yang-training-data.txt_4027_4034	neutral
-ceron_yang-training-data.txt_5161_5168	neutral
+ceron_yang-training-data.txt_1319_1323	neutral
+ceron_yang-training-data.txt_1369_1373	neutral
+ceron_yang-training-data.txt_2778_2785	positive
+ceron_yang-training-data.txt_2892_2896	neutral
+ceron_yang-training-data.txt_3300_3307	positive
+ceron_yang-training-data.txt_3414_3418	neutral
+ceron_yang-training-data.txt_4123_4130	neutral
+ceron_yang-training-data.txt_5377_5384	neutral

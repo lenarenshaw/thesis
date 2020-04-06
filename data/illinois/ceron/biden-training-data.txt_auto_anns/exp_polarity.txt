@@ -1,0 +1,9 @@
+ceron_biden-training-data.txt_1792_1798	negative
+ceron_biden-training-data.txt_1842_1850	negative
+ceron_biden-training-data.txt_1867_1872	neutral
+ceron_biden-training-data.txt_1906_1916	neutral
+ceron_biden-training-data.txt_1979_1982	neutral
+ceron_biden-training-data.txt_1996_2003	negative
+ceron_biden-training-data.txt_2020_2025	neutral
+ceron_biden-training-data.txt_2051_2054	neutral
+ceron_biden-training-data.txt_2061_2066	neutral

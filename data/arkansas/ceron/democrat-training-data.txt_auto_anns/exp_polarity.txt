@@ -1,0 +1,2 @@
+ceron_democrat-training-data.txt_95318_95323	neutral
+ceron_democrat-training-data.txt_95337_95341	negative

@@ -1,15 +1,10 @@
 patrick sentiment: inf
-primary sentiment: 5851.163023862034
 sanders sentiment: 2736.738095994407
-caucus sentiment: 1578.4463624129812
 warren sentiment: 988.3848688224529
 buttigieg sentiment: 940.8358965080513
-dem sentiment: 841.599709898464
-democrat sentiment: 787.8918610049643
 yang sentiment: 555.0077649527808
 klobuchar sentiment: 340.6727664155003
 biden sentiment: 323.40161774245945
 gabbard sentiment: 164.4058073654391
 bloomberg sentiment: 122.17501842299184
 bennet sentiment: 78.35564053537284
-steyer sentiment: 38.699507389162555

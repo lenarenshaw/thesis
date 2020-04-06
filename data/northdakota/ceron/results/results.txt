@@ -1,6 +1,3 @@
-biden sentiment: 1.20769230769231
-sanders sentiment: 2.65
-klobuchar sentiment: 1.82978723404255
-biden sentiment: 1.20769230769231
-sanders sentiment: 2.65
-klobuchar sentiment: 1.82978723404255
+biden sentiment: 0
+gabbard sentiment: 0
+sanders sentiment: 0

@@ -1,0 +1,510 @@
+Word,Polarity
+lain,strongneg
+din,strongneg
+Happy,strongpos
+belated,weakneg
+Wow,weakpos
+just,strongpos
+(joke,weakpos
+too,strongneg
+much,neutral
+spite,strongneg
+wrong,strongneg
+Glad,strongpos
+need,neutral
+so,neutral
+hell,strongneg
+oh,neutral
+sad,strongneg
+love,strongpos
+famous,strongpos
+clean,weakpos
+knew,neutral
+respected,strongpos
+yeah,neutral
+okay,strongpos
+still,neutral
+toxic,strongneg
+clear,strongpos
+Yes,weakpos
+feel,neutral
+complains,strongneg
+would,neutral
+bad,strongneg
+faith,strongpos
+attacks,strongneg
+wish,weakpos
+HOT,strongpos
+happy,strongpos
+thank,strongpos
+Good,strongpos
+point,neutral
+friends,strongpos
+must,neutral
+agree,weakpos
+enjoy,strongpos
+achievement,strongpos
+demand,both
+warm,weakpos
+full,neutral
+brat,strongneg
+gold,strongpos
+thinking,neutral
+sore,strongneg
+jam,strongneg
+,oh,neutral
+difference,neutral
+know,neutral
+right,weakpos
+bully,strongneg
+merry,strongpos
+Hmm,neutral
+Mending,strongpos
+trust,strongpos
+real,weakpos
+smart,weakpos
+(black,weakneg
+Yeah,neutral
+true,strongpos
+messy,strongneg
+understand,weakpos
+beautiful,strongpos
+FRIEND,strongpos
+Thank,strongpos
+least,weakneg
+Need,neutral
+-grace,strongpos
+shame,strongneg
+Please,strongpos
+Virus,weakneg
+Legacy,neutral
+Traditional,weakpos
+Essential,weakpos
+Natural,strongpos
+‘Little,weakneg
+good,strongpos
+clumsy,strongneg
+welcome,strongpos
+top,weakpos
+blunder,strongneg
+anyway,neutral
+Oh,neutral
+luck,strongpos
+PRINCIPLES,weakpos
+miss,weakneg
+novel,weakpos
+skill,strongpos
+attitude,neutral
+illness,strongneg
+anxiety,strongneg
+Wicked,strongneg
+BEST,weakpos
+familiar,neutral
+Blunder,strongneg
+brutal,strongneg
+open,weakpos
+bitter,strongneg
+block,weakneg
+repair,weakpos
+seriously,weakneg
+crying,strongneg
+comments,neutral
+support,strongpos
+better,strongpos
+blind,strongneg
+such,neutral
+lazy,strongneg
+remark,neutral
+strong,weakpos
+wow,weakpos
+confident,strongpos
+sorry,strongneg
+fresh,strongpos
+beauty,strongpos
+blessing,weakpos
+Recommended,weakpos
+Tentative,weakneg
+especially,weakpos
+basically,neutral
+Big,neutral
+possibility,neutral
+slow,weakneg
+shimmering,weakpos
+splendid,strongpos
+possible,neutral
+hate,strongneg
+liked,strongpos
+virus,weakneg
+[HELP,weakpos
+smile,strongpos
+Top,weakpos
+Kill,strongneg
+(feat,strongpos
+UGH,weakneg
+Eternal,weakneg
+Ego,weakneg
+Respect,strongpos
+Jam,strongneg
+liar,strongneg
+Maybe,neutral
+Sorry,strongneg
+Celebration,strongpos
+live,weakpos
+Okay,strongpos
+supporter,strongpos
+direct,neutral
+decided,neutral
+excuse,weakneg
+(baby,neutral
+absurd,strongneg
+(Blah,strongneg
+blah,strongneg
+properly,strongpos
+mystery,weakneg
+ready,weakpos
+believe,neutral
+id,neutral
+awful,strongneg
+though,neutral
+lack,strongneg
+Hero,strongpos
+pedestrian,weakneg
+fight,strongneg
+JAM,strongneg
+hmm,neutral
+shock,weakneg
+[FACT,neutral
+thought,neutral
+freak,strongneg
+annoyed,strongneg
+unfair,strongneg
+cringe,strongneg
+deserve,weakpos
+peace,strongpos
+ploy,weakneg
+dictatorial,strongneg
+vindictive,strongneg
+IDOL,weakpos
+distinct,weakpos
+fine,strongpos
+useless,strongneg
+might,neutral
+well,strongpos
+grand,strongpos
+So,neutral
+(Pain,weakneg
+supporters,strongpos
+worth,strongpos
+missing,weakneg
+tiny,weakneg
+romantic,weakpos
+propaganda,strongneg
+ego,weakneg
+needing,neutral
+vital,weakpos
+hope,strongpos
+ugh,weakneg
+aggressive,strongneg
+angel,strongpos
+devil,strongneg
+please,strongpos
+truly,strongpos
+care,strongpos
+crazy,strongneg
+shows,neutral
+actually,neutral
+Enjoy,strongpos
+magical,strongpos
+dark,strongneg
+horror,strongneg
+excuses,weakpos
+knowing,neutral
+forced,strongneg
+detrimental,strongneg
+loss,strongneg
+critical,strongneg
+progress,weakpos
+bias,weakneg
+spiritual,weakpos
+help,weakpos
+limited,strongneg
+swipe,strongneg
+annoying,strongneg
+precious,weakpos
+Hm,neutral
+passion,strongpos
+alas,strongneg
+excited,strongpos
+anyways,neutral
+hm,neutral
+perfect,strongpos
+even,weakpos
+pleasant,strongpos
+death,strongneg
+idea,neutral
+feelings,neutral
+Move,neutral
+idol,weakpos
+special,strongpos
+champ,strongpos
+power,neutral
+Think,neutral
+positive,weakpos
+successful,strongpos
+feeling,neutral
+imagination,neutral
+popular,weakpos
+knows,neutral
+best,weakpos
+hug,strongpos
+enough,neutral
+quick,neutral
+normal,strongpos
+showing,neutral
+supportive,strongpos
+burn,weakneg
+Full,neutral
+black,weakneg
+trauma,strongneg
+drama,weakneg
+cute,weakpos
+imagine,neutral
+sure,weakpos
+nervous,strongneg
+fake,strongneg
+pretending,weakneg
+Thoughts,neutral
+quiet,neutral
+disturbing,strongneg
+strange,weakneg
+awareness,neutral
+knock,strongneg
+mellow,strongpos
+premium,weakpos
+hard,strongneg
+whatever,weakneg
+friend,strongpos
+treat,strongpos
+Cute,weakpos
+simple,weakpos
+energetic,strongpos
+really,neutral
+offensive,weakneg
+wise,strongpos
+Feeling,neutral
+lost,strongneg
+yes,weakpos
+improved,strongpos
+congratulations,strongpos
+survival,weakpos
+Depression,strongneg
+glowing,weakpos
+aim,neutral
+teg,weakneg
+des a,strongpos
+es,,strongneg
+e si,strongneg
+od si,strongneg
+de so,strongpos
+an,neutral
+smara,strongpos
+irthda,strongpos
+eeteu,neutral
+mungki,strongpos
+use,neutral
+d Jadi pa,strongneg
+in adve,strongpos
+ty is the,strongneg
+re an,neutral
+d bea,neutral
+ul of all,strongpos
+padaha,strongpos
+ni or,weakpos
+tau ha,weakpos
+e answern,neutral
+see,strongpos
+ener,weakneg
+by I,strongpos
+ayah,strongpos
+duni,strongneg
+th,neutral
+istur,weakpos
+t gi,weakneg
+laaa.,weakpos
+are D,strongpos
+pa,neutral
+e,  Porsi,neutral
+moga,weakpos
+n kel,weakneg
+hm som,strongneg
+tim,neutral
+Tapi ha,strongneg
+isana,strongpos
+u guy,strongpos
+home,strongpos
+de da,strongneg
+in1  C,strongpos
+sa para,strongpos
+t of inte,strongneg
+t dyan pi,strongpos
+ingly cheap h,neutral
+ttps:/,weakneg
+r s,weakpos
+ate,neutral
+ned by a ca,strongneg
+nning,weakpos
+2 make,weakneg
+t is real,strongpos
+sad I l,neutral
+iked,strongneg
+ang pe,strongpos
+em re,strongpos
+ally,neutral
+out-of-,neutral
+We,neutral
+don,strongneg
+lk ab,weakpos
+. kon,strongpos
+ng ad,strongpos
+yang me,strongneg
+Bahkan,strongneg
+laa,neutral
+a ke,weakneg
+staff,weakneg
+. Ada y,weakneg
+ar ju,strongpos
+aran,weakpos
+i dua,weakpos
+uali,weakpos
+yang da,strongneg
+tweetny,weakneg
+ini,strongneg
+erusal,neutral
+is is,neutral
+h ht,strongneg
+tps:/,neutral
+bab c,strongneg
+https:/,weakpos
+Itu sah,weakneg
+apapun,strongpos
+apa,strongneg
+selam,weakpos
+what it,neutral
+e like,neutral
+he wou,neutral
+o like,neutral
+uld s,strongpos
+he joi,neutral
+ator  https:,neutral
+wkw,weakpos
+at is,neutral
+sing,strongneg
+someone,strongneg
+adly,strongpos
+much Ma,strongneg
+y All,neutral
+ou @bc,strongpos
+to you,weakpos
+kalok c,strongpos
+jauh ja,strongpos
+u 40,strongpos
+yang at,strongpos
+lt th,strongpos
+at he,neutral
+e fixi,neutral
+s more ef,strongneg
+jadi gu,strongpos
+ye awak,weakpos
+e keje,strongpos
+hit,weakpos
+kasiin,strongpos
+d pu,strongneg
+ada ga?,strongpos
+s to,neutral
+e to,strongneg
+lu ya,weakpos
+ainst,weakneg
+yang bu,weakneg
+e log,neutral
+me ever,weakpos
+ar ra,strongpos
+Seseo,strongpos
+ear th,neutral
+Happin,weakpos
+ss adalah,strongpos
+ereka,weakpos
+g https:/,strongneg
+ow th,weakpos
+e nam,neutral
+bum s,neutral
+me,neutral
+kita ya,strongpos
+tier le,neutral
+on Kan?. J,neutral
+fallaci,strongpos
+es bang ?.,strongneg
+ough,weakpos
+you des,neutral
+nothing,weakpos
+onDay!,weakpos
+start r,neutral
+ous Yang fo,strongneg
+certain,weakpos
+95% of,neutral
+inted they ar,strongneg
+green p,neutral
+ed,neutral
+to the,strongpos
+pse https:/,strongneg
+ack to,strongneg
+ges yang b,strongpos
+hat,weakpos
+gina,strongneg
+laha,weakpos
+o pag,weakpos
+rima,weakpos
+agi,strongneg
+h. Ke,neutral
+dalah,strongpos
+tand m,neutral
+yself,weakpos
+ai,neutral
+idak,strongneg
+bua,neutral
+amun,strongneg
+enap,strongneg
+s action?,strongneg
+t (diang,strongpos
+AHAH,strongneg
+kalian,strongpos
+Daulat,weakpos
+r do you,weakneg
+h! ch,strongpos
+. Too,strongpos
+time,strongneg
+yang am,weakpos
+Bulan M,weakpos
+ed Nanti k,strongneg
+le guys!,weakpos
+olitik,weakneg
+tm So,weakneg
+bye,neutral
+s so,weakpos
+k. Kal,weakpos
+sama te,strongpos
+orona,weakneg
+e ea,strongneg
+r yang si,weakneg
+lalu,weakneg
+spone,neutral
+ou Jes,strongpos
+live t,neutral
+bertau,strongneg
+ama or,weakpos
+har,neutral
+ri su,weakpos
+e Dek ab,strongneg
+, dek,weakneg
+c jer,strongneg
+had t,weakpos
+nity when im,strongpos

@@ -1,0 +1,5 @@
+ceron_dem-training-data.txt_1778_1785	neutral
+ceron_dem-training-data.txt_1824_1829	neutral
+ceron_dem-training-data.txt_1832_1837	neutral
+ceron_dem-training-data.txt_1850_1857	neutral
+ceron_dem-training-data.txt_1880_1884	positive

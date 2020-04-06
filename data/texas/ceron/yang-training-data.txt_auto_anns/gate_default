@@ -1,0 +1,11 @@
+1	0,53	GATE_Sentence
+2	0,3	GATE_Token	string="big" lemma="big" category="JJ"
+3	4,11	GATE_Token	string="shocker" lemma="shocker" category="NN"
+4	12,15	GATE_Token	string="the" lemma="the" category="DT"
+5	16,22	GATE_Token	string="amazon" lemma="amazon" category="NN"
+6	23,28	GATE_Token	string="owned" lemma="own" category="VBN"
+7	29,34	GATE_Token	string="paper" lemma="paper" category="NN"
+8	35,37	GATE_Token	string="is" lemma="be" category="VBZ"
+9	38,47	GATE_Token	string="censoring" lemma="censor" category="VBG"
+10	48,52	GATE_Token	string="yang" lemma="yang" category="NN"
+11	52,53	GATE_Token	string="." lemma="." category="."

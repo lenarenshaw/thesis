@@ -1,0 +1,12 @@
+ceron_yang-training-data.txt_0_24	obj
+ceron_yang-training-data.txt_25_261	subj
+ceron_yang-training-data.txt_262_286	obj
+ceron_yang-training-data.txt_287_523	subj
+ceron_yang-training-data.txt_524_549	obj
+ceron_yang-training-data.txt_550_780	subj
+ceron_yang-training-data.txt_781_886	subj
+ceron_yang-training-data.txt_887_1145	subj
+ceron_yang-training-data.txt_1146_1209	obj
+ceron_yang-training-data.txt_1210_1272	obj
+ceron_yang-training-data.txt_1273_1381	obj
+ceron_yang-training-data.txt_1382_1419	obj

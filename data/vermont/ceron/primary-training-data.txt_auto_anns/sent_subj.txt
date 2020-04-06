@@ -1,0 +1,10 @@
+ceron_primary-training-data.txt_0_189	subj
+ceron_primary-training-data.txt_190_348	obj
+ceron_primary-training-data.txt_349_478	subj
+ceron_primary-training-data.txt_479_644	subj
+ceron_primary-training-data.txt_645_810	subj
+ceron_primary-training-data.txt_811_1084	subj
+ceron_primary-training-data.txt_1085_1318	subj
+ceron_primary-training-data.txt_1319_1592	subj
+ceron_primary-training-data.txt_1593_1826	subj
+ceron_primary-training-data.txt_1827_1978	subj

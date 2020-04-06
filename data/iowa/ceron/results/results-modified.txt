@@ -1,0 +1,11 @@
+biden sentiment: 46
+bennet sentiment: 46
+bloomberg sentiment: 6
+buttigieg sentiment: 6
+gabbard sentiment: 6
+sanders sentiment: 193
+klobuchar sentiment: 6
+patrick sentiment: 6
+steyer sentiment: 0
+warren sentiment: 77
+yang sentiment: 6

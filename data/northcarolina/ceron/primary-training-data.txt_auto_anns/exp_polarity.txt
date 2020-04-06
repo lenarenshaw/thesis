@@ -1,0 +1,13 @@
+ceron_primary-training-data.txt_125395_125403	neutral
+ceron_primary-training-data.txt_125422_125427	neutral
+ceron_primary-training-data.txt_125450_125454	neutral
+ceron_primary-training-data.txt_125480_125486	negative
+ceron_primary-training-data.txt_125487_125491	positive
+ceron_primary-training-data.txt_125493_125497	neutral
+ceron_primary-training-data.txt_125534_125539	neutral
+ceron_primary-training-data.txt_125540_125545	neutral
+ceron_primary-training-data.txt_125546_125552	neutral
+ceron_primary-training-data.txt_125560_125567	neutral
+ceron_primary-training-data.txt_125586_125593	neutral
+ceron_primary-training-data.txt_125620_125627	neutral
+ceron_primary-training-data.txt_125628_125634	neutral

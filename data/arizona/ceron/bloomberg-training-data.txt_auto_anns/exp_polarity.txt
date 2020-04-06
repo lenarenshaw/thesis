@@ -1,0 +1,14 @@
+ceron_bloomberg-training-data.txt_4625_4631	neutral
+ceron_bloomberg-training-data.txt_4643_4650	neutral
+ceron_bloomberg-training-data.txt_4669_4673	neutral
+ceron_bloomberg-training-data.txt_4699_4706	neutral
+ceron_bloomberg-training-data.txt_4712_4718	negative
+ceron_bloomberg-training-data.txt_4719_4725	negative
+ceron_bloomberg-training-data.txt_4745_4753	positive
+ceron_bloomberg-training-data.txt_5040_5047	neutral
+ceron_bloomberg-training-data.txt_5073_5082	neutral
+ceron_bloomberg-training-data.txt_5210_5214	neutral
+ceron_bloomberg-training-data.txt_5218_5223	neutral
+ceron_bloomberg-training-data.txt_5224_5228	positive
+ceron_bloomberg-training-data.txt_5241_5245	neutral
+ceron_bloomberg-training-data.txt_5248_5254	neutral

@@ -1,6 +1,4 @@
-ceron_sanders-training-data.txt_64160_64166	neutral
-ceron_sanders-training-data.txt_64173_64178	negative
-ceron_sanders-training-data.txt_64207_64211	neutral
-ceron_sanders-training-data.txt_64391_64399	neutral
-ceron_sanders-training-data.txt_64623_64631	neutral
-ceron_sanders-training-data.txt_64779_64784	neutral
+ceron_sanders-training-data.txt_59150_59156	neutral
+ceron_sanders-training-data.txt_59181_59192	neutral
+ceron_sanders-training-data.txt_59218_59226	positive
+ceron_sanders-training-data.txt_59310_59318	neutral

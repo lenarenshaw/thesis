@@ -1,0 +1,9 @@
+ceron_yang-training-data.txt_425427_425436	neutral
+ceron_yang-training-data.txt_425448_425454	positive
+ceron_yang-training-data.txt_425466_425471	negative
+ceron_yang-training-data.txt_425476_425481	negative
+ceron_yang-training-data.txt_425634_425639	neutral
+ceron_yang-training-data.txt_425813_425818	positive
+ceron_yang-training-data.txt_425843_425847	neutral
+ceron_yang-training-data.txt_426290_426293	neutral
+ceron_yang-training-data.txt_428521_428526	neutral

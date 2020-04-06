@@ -1,0 +1,5 @@
+ceron_bennet-training-data.txt_418_422	neutral
+ceron_bennet-training-data.txt_451_457	positive
+ceron_bennet-training-data.txt_466_470	positive
+ceron_bennet-training-data.txt_478_483	neutral
+ceron_bennet-training-data.txt_535_539	neutral

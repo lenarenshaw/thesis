@@ -1,0 +1,5 @@
+biden sentiment: 0
+bloomberg sentiment: 0
+gabbard sentiment: 0
+sanders sentiment: 0
+warren sentiment: 0

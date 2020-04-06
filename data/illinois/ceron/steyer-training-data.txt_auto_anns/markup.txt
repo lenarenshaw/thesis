@@ -1,0 +1,1 @@
+<MPQASENT autoclass1="obj" autoclass2="obj">steyer is doing <MPQAPOL autoclass="neutral">poorly</MPQAPOL> and you don’t see him either.</MPQASENT>

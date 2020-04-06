@@ -1,0 +1,8 @@
+1	2368,2372	matchfeat	type="trainJWman" mpqapolarity="strongpos"
+2	2391,2403	matchfeat	type="basilisk-2000nouns-weaksubj" mpqapolarity="neutral"
+3	2422,2427	matchfeat	type="weakjandiss" mpqapolarity="weakpos"
+4	2428,2430	matchfeat	type="weakjandiss" mpqapolarity="neutral"
+5	2459,2467	matchfeat	type="PolMmanweak" mpqapolarity="strongneg"
+6	2468,2476	matchfeat	type="metaboot-2000nouns-weaksubj" mpqapolarity="neutral"
+7	4223,4230	matchfeat	type="ballmerLen1" mpqapolarity="weakpos"
+8	4275,4279	matchfeat	type="strongjandiss" mpqapolarity="strongpos"

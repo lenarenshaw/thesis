@@ -1,0 +1,7 @@
+ceron_primary-training-data.txt_0_165	subj
+ceron_primary-training-data.txt_166_317	subj
+ceron_primary-training-data.txt_318_507	subj
+ceron_primary-training-data.txt_508_666	obj
+ceron_primary-training-data.txt_667_940	subj
+ceron_primary-training-data.txt_941_1174	subj
+ceron_primary-training-data.txt_1175_1304	obj

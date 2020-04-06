@@ -1,0 +1,5 @@
+ceron_steyer-training-data.txt_1073_1080	positive
+ceron_steyer-training-data.txt_1153_1157	positive
+ceron_steyer-training-data.txt_1164_1171	negative
+ceron_steyer-training-data.txt_1206_1209	neutral
+ceron_steyer-training-data.txt_1221_1224	neutral

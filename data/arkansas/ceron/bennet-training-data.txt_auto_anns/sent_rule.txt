@@ -1,0 +1,7 @@
+ceron_bennet-training-data.txt_0_163	unknown
+ceron_bennet-training-data.txt_164_201	obj
+ceron_bennet-training-data.txt_202_434	obj
+ceron_bennet-training-data.txt_435_489	obj
+ceron_bennet-training-data.txt_490_516	obj
+ceron_bennet-training-data.txt_517_575	unknown
+ceron_bennet-training-data.txt_576_756	obj

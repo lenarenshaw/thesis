@@ -1,0 +1,61 @@
+Could not make any predictions with this model
+Newhampshire
+Predicted Winner sanders Actual Winner sanders
+Chi squared value: 349.6377338992416
+Reject the model
+Nevada
+Predicted Winner sanders Actual Winner sanders
+Chi squared value: 303.37393218784916
+Reject the model
+Southcarolina
+Predicted Winner sanders Actual Winner biden
+Chi squared value: 97.58980201070376
+Reject the model
+Could not calculate gf
+Alabama
+Predicted Winner bloomberg Actual Winner biden
+Chi squared value: 4046.569608175617
+Reject the model
+Could not make any predictions with this model
+California
+Predicted Winner bloomberg Actual Winner sanders
+Chi squared value: 806.478302126612
+Reject the model
+Could not make any predictions with this model
+Maine
+Predicted Winner bloomberg Actual Winner biden
+Chi squared value: 1187.6201654406277
+Reject the model
+Massachusetts
+Predicted Winner sanders Actual Winner biden
+Chi squared value: 1155.6884005431202
+Reject the model
+Could not make any predictions with this model
+Could not make any predictions with this model
+Could not make any predictions with this model
+Could not make any predictions with this model
+Could not make any predictions with this model
+Utah
+Predicted Winner bloomberg Actual Winner sanders
+Chi squared value: 358.5689855259445
+Reject the model
+Could not make any predictions with this model
+Could not make any predictions with this model
+Idaho
+Predicted Winner biden Actual Winner biden
+Chi squared value: 1.434950228936057
+Reject the model
+Could not make any predictions with this model
+Could not make any predictions with this model
+Could not make any predictions with this model
+Could not make any predictions with this model
+Could not make any predictions with this model
+Could not make any predictions with this model
+Florida
+Predicted Winner sanders Actual Winner biden
+Chi squared value: 21.121838893593697
+Accept the model
+Could not make any predictions with this model
+SUMMARY:
+Fraction of models accepted 0.03704
+Fraction of winners correctly predicted 0.11111

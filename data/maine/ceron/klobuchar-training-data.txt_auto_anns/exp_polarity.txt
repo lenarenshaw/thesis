@@ -1,0 +1,6 @@
+ceron_klobuchar-training-data.txt_3054_3060	neutral
+ceron_klobuchar-training-data.txt_3430_3435	positive
+ceron_klobuchar-training-data.txt_3488_3494	neutral
+ceron_klobuchar-training-data.txt_3569_3573	negative
+ceron_klobuchar-training-data.txt_3796_3800	neutral
+ceron_klobuchar-training-data.txt_4000_4005	neutral

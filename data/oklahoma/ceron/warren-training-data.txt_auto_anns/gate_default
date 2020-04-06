@@ -1,0 +1,10 @@
+1	0,102	GATE_Sentence
+2	0,3	GATE_Token	string="god" lemma="god" category="NN"
+3	4,6	GATE_Token	string="do" lemma="do" category="VBP"
+4	7,13	GATE_Token	string="warren" lemma="warren" category="NN"
+5	14,24	GATE_Token	string="supporters" lemma="supporter" category="NNS"
+6	25,29	GATE_Token	string="ever" lemma="ever" category="RB"
+7	30,34	GATE_Token	string="shut" lemma="shut" category="VBN"
+8	35,40	GATE_Token	string="upppp" lemma="upppp" category="NN"
+9	41,101	GATE_Token	string="https://twittercom/samlymatters/status/1225512370564411392 …" lemma="https://twittercom/samlymatters/status/1225512370564411392 …" category="NN"
+10	101,102	GATE_Token	string="." lemma="." category="."

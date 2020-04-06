@@ -1,6 +1,31 @@
 Word,Polarity
 cut,weakneg
 hates,strongneg
+Falsely,weakneg
+Claims,neutral
+Against,weakneg
+mistaken,strongneg
+war,weakneg
+hero,strongpos
+truth,strongpos
+‘Ridiculous,strongneg
+Praise,strongpos
+Would,neutral
+Too,strongneg
+Vindicated,strongpos
+Revealed,neutral
+appearances,neutral
+losses,strongneg
+think,neutral
+primary,neutral
+show,neutral
+too,strongneg
+Just,strongpos
+mean,neutral
+idiot,strongneg
+would,neutral
+Honor,strongpos
+praising,strongpos
 lying,strongneg
 felt,neutral
 humiliated,strongneg
@@ -8,15 +33,12 @@ just,strongpos
 Support,strongpos
 against,weakneg
 hate,strongneg
-war,weakneg
 deals,strongpos
 evil,strongneg
 trying,weakneg
 destroy,strongneg
 Bitter,strongneg
 jealous,strongneg
-primary,neutral
-show,neutral
 shows,neutral
 ‘Lying,strongneg
 Very,neutral
@@ -28,12 +50,6 @@ bad,strongneg
 annoyed,strongneg
 so,neutral
 hopefully,strongpos
-‘lying,strongneg
-Against,weakneg
-abyss,strongneg
-desperation,strongneg
-clear,strongpos
-split,weakneg
 Retired,weakneg
 moderate,weakpos
 views,neutral
@@ -46,59 +62,21 @@ confidence,strongpos
 overwhelming,strongneg
 emotion,neutral
 Anxiety,strongneg
-‘disown,strongneg
-attacks,strongneg
-supporters,strongpos
-Glaring,strongneg
-extorting,strongneg
-corrupt,strongneg
-would,neutral
-sure,weakpos
-protected,strongpos
-interests,strongpos
-Deserves,weakpos
--Crimes,strongneg
-So,neutral
-much,neutral
-HARD,strongneg
-‘need,neutral
-defends,weakpos
-weird,strongneg
-mean,neutral
-Oh,neutral
-forgot,weakneg
-worse,strongneg
-pretty,weakpos
-darn,strongneg
-right,weakpos
-definitely,weakpos
-affinity,weakpos
-racist,strongneg
-points,neutral
-too,strongneg
-confronts,strongneg
-thrown,weakneg
-still,neutral
-free,strongpos
-Tries,weakneg
-defending,weakpos
-stance,neutral
-Clearly,weakpos
-think,neutral
+hideous,strongneg
 should,neutral
-defense,weakpos
-attacked,strongneg
-Accepting,weakpos
-‘big,neutral
-mistake,strongneg
+prison,weakneg
+points,neutral
 Help,weakpos
 strong,weakpos
 Black,weakneg
 Ultimatum,strongneg
 well,strongpos
 extremely,weakneg
+So,neutral
 Good,strongpos
+supporters,strongpos
 threats,strongneg
+attacks,strongneg
 vicious,strongneg
 malicious,strongneg
 enough,neutral
@@ -118,10 +96,75 @@ light,strongpos
 else,neutral
 alienation,strongneg
 really,neutral
-Claims,neutral
 Lying,strongneg
 proven,neutral
 false,weakneg
+full,neutral
+believes,neutral
+Endorses,strongpos
+Wrong,strongneg
+Need,neutral
+most,neutral
+Confronted,strongneg
+Reaction,neutral
+reason,strongpos
+supporting,strongpos
+want,strongpos
+black,weakneg
+white,weakpos
+smearing,strongneg
+claims,neutral
+protesting,strongneg
+death,strongneg
+actually,neutral
+endorsed,strongpos
+Disown,strongneg
+Supporters,strongpos
+Should,neutral
+imagine,neutral
+reckless,strongneg
+better,strongpos
+glad,strongpos
+fact,neutral
+seems,neutral
+lost,strongneg
+‘disown,strongneg
+Glaring,strongneg
+extorting,strongneg
+corrupt,strongneg
+sure,weakpos
+protected,strongpos
+interests,strongpos
+Deserves,weakpos
+-Crimes,strongneg
+much,neutral
+HARD,strongneg
+‘need,neutral
+defends,weakpos
+Oh,neutral
+forgot,weakneg
+worse,strongneg
+pretty,weakpos
+darn,strongneg
+right,weakpos
+definitely,weakpos
+affinity,weakpos
+racist,strongneg
+confronts,strongneg
+thrown,weakneg
+still,neutral
+free,strongpos
+Tries,weakneg
+defending,weakpos
+stance,neutral
+Clearly,weakpos
+defense,weakpos
+attacked,strongneg
+Accepting,weakpos
+corruption,strongneg
+Even,weakpos
+conflict,strongneg
+protecting,strongpos
 large,weakpos
 look,neutral
 Exclusive,strongpos
@@ -137,52 +180,9 @@ throwing,weakneg
 Vulnerable,weakpos
 fears,strongneg
 liberal,weakpos
-Falsely,weakneg
-mistaken,strongneg
-hero,strongpos
-truth,strongpos
-‘Ridiculous,strongneg
-Praise,strongpos
-Would,neutral
-Too,strongneg
-alliances,neutral
-crumbles,strongneg
-Vindicated,strongpos
-Revealed,neutral
-appearances,neutral
-losses,strongneg
-Just,strongpos
-idiot,strongneg
-Honor,strongpos
-praising,strongpos
-Endorses,strongpos
-Wrong,strongneg
-Need,neutral
-most,neutral
-Confronted,strongneg
-Reaction,neutral
-reason,strongpos
-supporting,strongpos
-want,strongpos
-black,weakneg
-white,weakpos
-better,strongpos
-rich,weakpos
-smearing,strongneg
-claims,neutral
-protesting,strongneg
-death,strongneg
-actually,neutral
-endorsed,strongpos
-Disown,strongneg
-Supporters,strongpos
-Should,neutral
-imagine,neutral
-reckless,strongneg
-glad,strongpos
+Defends,weakpos
+Refusal,strongneg
 suppress,strongneg
-warfare,strongneg
-corruption,strongneg
 ego,weakneg
 erased,strongneg
 help,weakpos
@@ -207,6 +207,42 @@ challenge,weakneg
 shown,neutral
 point,neutral
 forcing,strongneg
+Democratic,weakpos
+derision,strongneg
+rivals,weakneg
+certain,neutral
+terrific,strongpos
+falsely,weakneg
+even,weakpos
+looking,neutral
+wonder,strongpos
+apparently,neutral
+big,neutral
+deal,strongpos
+very,neutral
+‘Obtuse,strongneg
+traitor,strongneg
+crushed,strongneg
+‘painfully,strongneg
+blind,strongneg
+attack,strongneg
+Wow,weakpos
+forgive,weakpos
+suicide,strongneg
+Bad,strongneg
+certainly,neutral
+outsider,strongneg
+natural,strongpos
+besides,neutral
+ardent,weakpos
+favor,strongpos
+relevant,strongpos
+Defense,weakpos
+Racist,strongneg
+thinks,neutral
+”well,strongpos
+blasted,strongneg
+furious,strongneg
 RACIST,strongneg
 helps,weakpos
 leaked,weakneg
@@ -219,7 +255,6 @@ LOSER,strongneg
 Seem,neutral
 back,weakpos
 VICE,strongneg
-rather,neutral
 Boosts,strongpos
 Survivors,weakpos
 yeah,neutral
@@ -238,48 +273,8 @@ brutality,strongneg
 know,neutral
 hell,strongneg
 threatens,strongneg
-Democratic,weakpos
 Defending,weakpos
 nice,weakpos
-Virus,weakneg
-‘Wisdom,strongpos
-guarantee,weakpos
-wanting,strongpos
-unprecedented,weakneg
-torrent,strongneg
-enabled,weakpos
-Top,weakpos
-Influence,neutral
-‘Kill,strongneg
-Glad,strongpos
-rivals,weakneg
-welcome,strongpos
-feel,neutral
-kill,strongneg
-rapid,neutral
-great,weakpos
-power,neutral
-mocking,strongneg
-Uncomfortable,strongneg
-Extremely,weakneg
-Dismayed,strongneg
-scared,strongneg
-Exposed,weakneg
-alleged,weakneg
-even,weakpos
-rescue,strongpos
-Pity,strongneg
-poor,strongneg
-harmonize,strongpos
-worried,strongneg
-Sorry,strongneg
-racism,strongneg
-guilty,strongneg
-Warm,weakpos
-critical,strongneg
-equality,strongpos
-believe,neutral
-thinks,neutral
 discriminatory,weakneg
 violated,strongneg
 deserve,weakpos
@@ -289,36 +284,36 @@ considering,neutral
 interesting,strongpos
 loses,strongneg
 indeed,neutral
+alleged,weakneg
 tastes,neutral
 hopeful,strongpos
-seems,neutral
 throw,weakneg
-full,neutral
 superior,strongpos
+believe,neutral
 remarks,neutral
 could,neutral
 revenge,strongneg
 dictator,strongneg
 defended,weakpos
 moving,neutral
-big,neutral
-lost,strongneg
+power,neutral
 risk,weakneg
-certain,neutral
 ambitious,weakpos
 maybe,neutral
 helped,weakpos
 progressive,weakpos
 hypocritical,strongneg
 hurting,strongneg
+rescue,strongpos
 Comments,neutral
-attack,strongneg
 attacking,strongneg
 overwhelmingly,strongneg
 opposition,strongneg
 criminals,strongneg
 interested,strongpos
 praised,strongpos
+unprecedented,weakneg
+‘Wisdom,strongpos
 thinking,neutral
 bully,strongneg
 wild,strongneg
@@ -328,6 +323,7 @@ championed,strongpos
 forget,weakneg
 genius,strongpos
 care,strongpos
+rich,weakpos
 agreed,weakpos
 harassment,strongneg
 idiots,strongneg
@@ -339,20 +335,14 @@ decries,strongneg
 least,weakneg
 charitable,strongpos
 vast,weakpos
+kill,strongneg
 (traditional,weakpos
 drunken,strongneg
-Wisdom,strongpos
-Showing,neutral
-Debatable,weakneg
-Distinctive,weakpos
-Lack,strongneg
-Most,neutral
 understand,weakpos
 position,neutral
 wrong,strongneg
 break,strongneg
 appear,neutral
-wonder,strongpos
 Think,neutral
 lies,strongneg
 funny,strongpos
@@ -360,96 +350,16 @@ clears,strongpos
 sabotaged,strongneg
 plotted,weakneg
 high,neutral
-bonuses,strongpos
-restricted,weakneg
-Encouraging,strongpos
-entire,neutral
-pressure,neutral
-lie,strongneg
-cheat,strongneg
-steal,strongneg
-okay,strongpos
-disrupted,strongneg
-Urges,strongpos
-dead,strongneg
-Wow,weakpos
-betrayal,strongneg
-Incredible,strongpos
-comments,neutral
-haunt,strongneg
-worth,strongpos
-force,strongneg
-expose,weakneg
-screwed,strongneg
-screaming,strongneg
-bloody,strongneg
-murder,strongneg
-toxic,strongneg
-facts,neutral
-danger,strongneg
-Less,weakneg
-Justifies,strongpos
-terrorized,strongneg
-certainly,neutral
-insidious,strongneg
-illegally,strongneg
-opponents,strongneg
-fear,strongneg
-might,neutral
-fact,neutral
-top,weakpos
-likable,strongpos
-very,neutral
-blow,strongneg
-ruining,strongneg
-super,strongpos
-knowledgeable,weakpos
-bettering,strongpos
-fake,strongneg
-manipulative,strongneg
-looking,neutral
-differences,neutral
-stake,weakneg
-problems,strongneg
-Toll,strongneg
-derision,strongneg
-terrific,strongpos
-falsely,weakneg
-apparently,neutral
-deal,strongpos
-‘Obtuse,strongneg
-traitor,strongneg
-crushed,strongneg
-‘painfully,strongneg
-blind,strongneg
-drive,weakpos
-move,neutral
-woo,weakpos
-forgive,weakpos
-suicide,strongneg
-Bad,strongneg
-outsider,strongneg
-natural,strongpos
-besides,neutral
-ardent,weakpos
-favor,strongpos
-relevant,strongpos
-Defense,weakpos
-Racist,strongneg
-”well,strongpos
-blasted,strongneg
-furious,strongneg
-fascism,strongneg
 goodness,strongpos
 intense,neutral
 annoyance,strongneg
 cares,strongpos
 virus,weakneg
 feels,neutral
+scared,strongneg
 isolated,strongneg
 little,weakneg
 compassion,strongpos
-wow,weakpos
 WORST,strongneg
 difference,neutral
 recommending,weakpos
@@ -459,11 +369,17 @@ horrible,strongneg
 cared,strongpos
 sucker,strongneg
 faulty,strongneg
+mistake,strongneg
 shame,strongneg
 chaos,strongneg
 anger,strongneg
 dope,strongneg
 hateful,strongneg
+comments,neutral
+Admits,weakpos
+Exploiting,strongneg
+Prison,weakneg
+feel,neutral
 dirt,strongneg
 low,strongneg
 hard,strongneg
@@ -495,6 +411,7 @@ dig,strongneg
 knowledge,neutral
 PRICELESS,strongpos
 flames,strongpos
+clear,strongpos
 Strikes,strongneg
 empty,strongneg
 promise,weakpos
@@ -512,13 +429,92 @@ victimized,strongneg
 critics,strongneg
 allies,weakpos
 accuses,strongneg
-insults,strongneg
-accusing,strongneg
 nasty,strongneg
 Friend,strongpos
 Accuses,strongneg
 intended,neutral
 Insulting,strongneg
+critical,strongneg
+Look,neutral
+Dirty,strongneg
+Jokes,weakpos
+Thank,strongpos
+eloquently,strongpos
+tried,weakneg
+failed,strongneg
+rogue,strongneg
+righteous,strongpos
+increasingly,neutral
+devils,strongneg
+doubt,strongneg
+freedom,strongpos
+might,neutral
+wanting,strongpos
+Top,weakpos
+Influence,neutral
+‘Kill,strongneg
+Glad,strongpos
+rapid,neutral
+great,weakpos
+Uncomfortable,strongneg
+Extremely,weakneg
+Dismayed,strongneg
+Pity,strongneg
+poor,strongneg
+harmonize,strongpos
+worried,strongneg
+Sorry,strongneg
+racism,strongneg
+guilty,strongneg
+equality,strongpos
+Encouraging,strongpos
+entire,neutral
+pressure,neutral
+lie,strongneg
+cheat,strongneg
+steal,strongneg
+incredibly,strongpos
+rude,strongneg
+patronizing,strongneg
+correctly,weakpos
+okay,strongpos
+disrupted,strongneg
+Urges,strongpos
+dead,strongneg
+betrayal,strongneg
+Incredible,strongpos
+haunt,strongneg
+worth,strongpos
+force,strongneg
+expose,weakneg
+screwed,strongneg
+screaming,strongneg
+bloody,strongneg
+murder,strongneg
+toxic,strongneg
+facts,neutral
+danger,strongneg
+Less,weakneg
+Justifies,strongpos
+terrorized,strongneg
+insidious,strongneg
+illegally,strongneg
+opponents,strongneg
+fear,strongneg
+top,weakpos
+likable,strongpos
+blow,strongneg
+ruining,strongneg
+super,strongpos
+knowledgeable,weakpos
+bettering,strongpos
+fake,strongneg
+manipulative,strongneg
+differences,neutral
+stake,weakneg
+problems,strongneg
+Toll,strongneg
+proving,neutral
 Much,neutral
 ANGRY,strongneg
 showing,neutral
@@ -544,49 +540,9 @@ friend,strongpos
 concrete,weakpos
 friends,strongpos
 laugh,weakneg
-Feeling,neutral
-Anxious,strongneg
-Gains,strongpos
-speculates,neutral
-killing,strongneg
-Hero,strongpos
-freaking,strongneg
-radical,weakneg
-embodiment,neutral
-privilege,weakpos
-—hardly,weakneg
-—eagerly,strongpos
-busy,weakneg
-Actually,neutral
-hoping,strongpos
-puppet,weakneg
-lectures,weakneg
-values,weakpos
+honest,strongpos
 regarding,neutral
-incredibly,strongpos
-suspicious,weakneg
-moved,neutral
-yd,neutral
-heavens,strongpos
-firm,neutral
-purity,strongpos
-dumb,strongneg
-Liked,strongpos
-huge,neutral
-profits,weakpos
-bankrupt,strongneg
-seem,neutral
-Scares,strongneg
-IDIOT,strongneg
-Want,strongpos
-reconciliation,weakpos
-substantial,weakpos
-reform,strongpos
-argument,weakneg
-moot,strongneg
-ready,weakpos
-‘loves,strongpos
-kiss,strongpos
+ed,neutral
 illegal,strongneg
 gross,strongneg
 myth,weakneg
@@ -600,16 +556,54 @@ courage,weakpos
 horrid,strongneg
 accusation,strongneg
 Supports,strongpos
-~Just,strongpos
-ruin,strongneg
-‘leverage,weakpos
+Hero,strongpos
+freaking,strongneg
+radical,weakneg
+embodiment,neutral
+privilege,weakpos
+—hardly,weakneg
+—eagerly,strongpos
+busy,weakneg
+moved,neutral
+yd,neutral
+heavens,strongpos
+firm,neutral
+purity,strongpos
+dumb,strongneg
 Chores,strongneg
 conspiracies,strongneg
+seem,neutral
 valid,strongpos
 Moderate,weakpos
-barely,weakneg
 Sure,weakpos
 lectured,weakneg
+values,weakpos
+Actually,neutral
+hoping,strongpos
+puppet,weakneg
+lectures,weakneg
+suspicious,weakneg
+Respect,strongpos
+Struggles,strongneg
+Liked,strongpos
+huge,neutral
+profits,weakpos
+bankrupt,strongneg
+Scares,strongneg
+IDIOT,strongneg
+Want,strongpos
+reconciliation,weakpos
+substantial,weakpos
+reform,strongpos
+argument,weakneg
+moot,strongneg
+ready,weakpos
+‘loves,strongpos
+kiss,strongpos
+kissing,strongpos
+Sunny,weakpos
+woefully,strongneg
+deficient,strongneg
 cutting,weakneg
 deaths,strongneg
 serious,weakneg
@@ -619,6 +613,7 @@ confusing,strongneg
 inspiring,strongpos
 activists,neutral
 disrupt,strongneg
+Suspicious,weakneg
 Primary,neutral
 Speculation,neutral
 abounds,weakpos
@@ -626,15 +621,26 @@ idea,neutral
 Hopes,strongpos
 possible,neutral
 negative,strongneg
-Defends,weakpos
 supports,strongpos
+Real,weakpos
 Agreed,weakpos
 wealthy,weakpos
 anguish,strongneg
-Real,weakpos
+,strongneg
+Vows,weakpos
+surprise,neutral
+knows,neutral
+Shocked,weakneg
+appeal,weakpos
+Agree,weakpos
+such,neutral
+demeaning,strongneg
+cruelty,strongneg
+demanding,both
+reasons,strongpos
+original,strongpos
 especially,weakpos
 inexperience,strongneg
-Pressed,weakpos
 stand,weakpos
 fall,weakneg
 empathy,weakneg
@@ -643,32 +649,9 @@ restore,weakpos
 thrilled,strongpos
 defeat,strongneg
 stumble,strongneg
-tried,weakneg
-laughed,weakneg
-such,neutral
-embarrassment,strongneg
 Meaningless,strongneg
-scrutiny,neutral
 Opposes,strongneg
-oppose,strongneg
 confusion,strongneg
-victory,strongpos
-lose,strongneg
-Genius,strongpos
-Well,strongpos
-Worst,strongneg
-Hypocrite,strongneg
-Vows,weakpos
-surprise,neutral
-knows,neutral
-Shocked,weakneg
-appeal,weakpos
-Agree,weakpos
-demeaning,strongneg
-cruelty,strongneg
-demanding,both
-reasons,strongpos
-original,strongpos
 appeals,weakpos
 stood,weakpos
 fair,strongpos
@@ -676,26 +659,21 @@ decency,strongpos
 disappoints,strongneg
 Throwing,weakneg
 unkind,strongneg
+lose,strongneg
+laughed,weakneg
+embarrassment,strongneg
+unable,strongneg
+Genius,strongpos
+Well,strongpos
+Worst,strongneg
 Despite,weakneg
 misleading,strongneg
 trick,weakneg
-prison,weakneg
-thoughts,neutral
-ideal,strongpos
-deserved,weakpos
-able,weakpos
-wished,weakpos
-central,neutral
-accuse,strongneg
-justice,strongpos
-persecuted,strongneg
-intoxicated,weakneg
-supremacy,weakneg
 crying,strongneg
+wow,weakpos
 amazing,weakpos
 cried,strongneg
 bless,strongpos
-Thank,strongpos
 divine,weakpos
 adventures,weakpos
 (explicit,weakpos
@@ -706,8 +684,10 @@ comforting,strongpos
 terrible,strongneg
 supported,strongpos
 must,neutral
-ugly,strongneg
-grand,strongpos
+thoughts,neutral
+ideal,strongpos
+deserved,weakpos
+accuse,strongneg
 SUCH,neutral
 Enjoyed,strongpos
 Great,weakpos
@@ -715,43 +695,79 @@ perspective,neutral
 important,weakpos
 player,neutral
 immune,neutral
+able,weakpos
+wished,weakpos
+central,neutral
+justice,strongpos
+elites,strongpos
+ruin,strongneg
+escapades,weakneg
+lawless,strongneg
+rather,neutral
+profit,weakpos
+NEEDS,neutral
+Admit,weakpos
+divided,weakneg
+torrent,strongneg
+abuse,strongneg
+dictators,strongneg
+Please,strongpos
+advantage,weakpos
+special,strongpos
+known,neutral
+ridiculous,strongneg
+basically,neutral
+mess,strongneg
+garbage,weakneg
+meaningful,strongpos
+endorsing,strongpos
+taste,weakpos
+surprised,neutral
+powerful,weakpos
+viciously,strongneg
+Fear,strongneg
+accurate,strongpos
+civil,weakpos
+rights,weakpos
+positive,weakpos
+Disgrace,strongneg
+yes,weakpos
+perfectly,strongpos
+avoiding,weakneg
+preferred,strongpos
+comrades,weakpos
+disheartened,strongneg
+strikes,strongneg
+unfair,strongneg
+Yes,weakpos
+untrue,strongneg
+afraid,strongneg
+Busy,weakneg
+fallout,strongneg
+opinion,neutral
+try,weakneg
+opinions,neutral
+nonsense,strongneg
+hated,strongneg
+killing,strongneg
+preferences,weakpos
+Progressive,weakpos
+discrimination,strongneg
+appreciate,weakpos
+faith,strongpos
+*really,neutral
 awful,strongneg
 Knock,strongneg
-yes,weakpos
 wd,neutral
 Swing,neutral
-specific,neutral
+welcome,strongpos
 Supporting,strongpos
 Essential,weakpos
 pledged,weakpos
 rallies,strongpos
 crushing,strongneg
+scrutiny,neutral
 hurt,strongneg
-twisted,weakneg
-interrupted,weakneg
-ideas,neutral
-traditional,weakpos
-troubling,strongneg
-crazy,strongneg
-According,weakpos
-rally,strongpos
-trouble,strongneg
-problem,strongneg
-Please,strongpos
-Assets,strongpos
-Knew,neutral
-expectations,neutral
-admitting,weakpos
-magic,strongpos
-garbage,weakneg
-try,weakneg
-damage,strongneg
-blatant,strongneg
-believing,neutral
-rights,weakpos
-satisfy,strongpos
-considerations,neutral
-impressive,strongpos
 Bloody,strongneg
 Mess,strongneg
 doomed,strongneg
@@ -763,29 +779,68 @@ Argues,weakneg
 Vital,weakpos
 Losing,strongneg
 embarrassing,strongneg
-powerful,weakpos
 *help,weakpos
 hardly,weakneg
 dying,strongneg
-strange,weakneg
-ignoring,weakneg
-ignore,weakneg
 Liberal,weakpos
+Attacks,strongneg
+Harassment,strongneg
+Unacceptable,strongneg
+meaningless,strongneg
+reactions,neutral
+od,neutral
+teasing,weakneg
+insults,strongneg
+crisis,strongneg
+excitement,strongpos
+farce,weakneg
+REALLY,neutral
+enthusiastic,strongpos
+ensures,weakpos
+loss,strongneg
+fragmented,weakneg
+successful,strongpos
+solid,weakpos
+endorse,strongpos
+mad,strongneg
+complain,strongneg
+disingenuous,strongneg
+claim,neutral
+discredit,strongneg
+disprove,strongneg
+twisted,weakneg
+interrupted,weakneg
+crazy,strongneg
+According,weakpos
+rally,strongpos
+tentatively,weakneg
+trouble,strongneg
+problem,strongneg
+Assets,strongpos
+Knew,neutral
+expectations,neutral
+admitting,weakpos
+magic,strongpos
+damage,strongneg
+blatant,strongneg
+believing,neutral
+satisfy,strongpos
+considerations,neutral
+victory,strongpos
+impressive,strongpos
+rhetoric,weakneg
+laughs,weakneg
 accept,weakpos
 Upsets,strongneg
 division,weakneg
 plausible,weakpos
-civil,weakpos
 apathetic,strongneg
 indifferent,strongneg
-Protect,strongpos
-Meddling,strongneg
 panic,strongneg
 phobic,strongneg
 decide,neutral
 looks,neutral
 zealots,weakneg
-disingenuous,strongneg
 obvious,neutral
 Powerful,weakpos
 practical,weakpos
@@ -795,17 +850,13 @@ cute,weakpos
 tricks,weakneg
 tricky,weakneg
 amused,strongpos
-endorse,strongpos
 dirty,strongneg
-worst,strongneg
-faith,strongpos
-trust,strongpos
 happy,strongpos
 Bull,weakpos
 so-called,strongneg
 Independent,strongpos
 absolute,neutral
-nonsense,strongneg
+fascism,strongneg
 disagreed,weakneg
 Ironic,weakneg
 Attack,strongneg
@@ -816,264 +867,16 @@ rs San,strongneg
 eral pol,weakpos
 eco,weakpos
 ds a B,neutral
-tes, Mn,strongpos
-ld ru,neutral
-n US,strongneg
-t the,neutral
-apades is,weakneg
-less #tr,strongneg
-h mor,neutral
-ely tha,neutral
-n old,weakpos
-e rep,strongpos
-her tha,neutral
-k of,weakneg
-tator #Vo,strongneg
-t a d,strongpos
-ld enf,neutral
-fit mar,weakpos
-ow Med,weakpos
-ld sen,neutral
-ing to,weakneg
-al ele,strongneg
-DS TO,neutral
-t Can,strongpos
-it Tha,weakpos
-div,strongneg
-ided to,weakneg
-use com,strongneg
-itor’: S,strongneg
-shed for,strongneg
-nfully bli,strongneg
-nd’ at,strongneg
-ack on,strongneg
-And,weakpos
-rent of,strongneg
-se sin,strongneg
-port of,strongpos
-tators Unc,strongneg
-omfortable tru,strongneg
-th? Pl,strongpos
-ase RT,strongpos
-ld cer,neutral
-tainly see,neutral
-m tha,neutral
-antage rig,weakpos
-cial kin,strongpos
-w by,neutral
-wn as,neutral
-ortant to,weakpos
-iculous leg,strongneg
-ld pay,neutral
-ically say,neutral
-ld ‘en,neutral
-eresting bac,strongpos
-der wha,strongpos
-her the,neutral
-s we,strongneg
-d new,strongpos
-bage is,weakneg
-ase dro,strongpos
-t san,strongpos
-e!!.,strongneg
-dif,neutral
-ningful thi,strongpos
-vince my,weakpos
-port san,strongpos
-ld Vot,neutral
-ocratic Bal,weakpos
-#Wh,neutral
-st a S,strongpos
-ocratic #so,weakpos
-n our,strongneg
-ped coi,weakpos
-orsing Ber,strongpos
-te of,weakpos
-porters hav,strongpos
-ny how,strongpos
-prised at,neutral
-ty the,strongneg
-erful Cul,weakpos
-iously att,strongneg
-acked by,strongneg
-porters  ht,strongpos
-t 3 M,strongpos
-ference bet,neutral
-ording to,weakpos
-porters – F,strongpos
-r Fal,strongneg
-ised San,strongpos
-rage” fo,weakpos
-t Dem,neutral
-n the,weakpos
-eral” li,weakpos
-rid acc,strongneg
-usation”  h,strongneg
-acc,strongneg
-urate als,strongpos
-pid eno,strongneg
-ugh to,neutral
-il rig,weakpos
-hts be,weakpos
-acked, we,strongneg
-t to,strongneg
-ually won,neutral
-itive cov,weakpos
-grace ! N,strongneg
-Cas,strongneg
-n I l,neutral
-I a,weakpos
-fectly emu,strongpos
-iding wha,weakneg
-ually is.,neutral
-ldve,neutral
-ferred yan,strongpos
-inst Hu,weakneg
-ee wit,weakpos
-t poi,strongpos
-rades sho,weakpos
-uldnt,neutral
-dis,strongneg
-heartened whe,strongneg
-ikes a k,strongneg
-air? Ye,strongneg
-abs,weakpos
-rue? We,strongneg
-l Im,strongpos
-aid not,strongneg
-y wit,weakneg
-we,neutral
-t reg,neutral
-r fal,strongneg
-lout fro,strongneg
-nion jus,neutral
-t try,strongpos
-to,weakneg
-port for,strongpos
-nions so,neutral
-tha,neutral
-nions up,neutral
-e eve,strongpos
-ically” is,neutral
-urate. I,strongpos
-ry Abo,strongneg
-ported bot,strongpos
-w wha,neutral
-ny abo,strongpos
-sense? Th,strongneg
-porters jus,strongpos
-t don,strongpos
-h she,neutral
-ed her,strongneg
-porters | F,strongpos
-mary wit,neutral
-acks aga,strongneg
-inst San,weakneg
-porters fro,strongpos
-ling me,strongneg
-e wha,strongpos
-ferences, wh,weakpos
-gressive val,weakpos
-ues are,weakpos
-inst dis,weakneg
-crimination  #F,strongneg
-reciate how,weakpos
-y bes,neutral
-t spe,strongpos
-ld   B,neutral
-ms to,neutral
-th tha,strongpos
-at to,strongneg
-lly* do,neutral
-d how,strongneg
-d the,strongneg
-inst him,weakneg
-th!! W,strongpos
-istance, an,strongneg
-omplishments, sl,strongpos
-ke or,strongneg
-e Nev,strongneg
-t fuc,strongpos
-porters to,strongpos
-ctions are,neutral
-t as,strongpos
-ny to,strongpos
-porter who,strongpos
-far,strongneg
-hav,neutral
-ught?  I,neutral
-sing, I,weakneg
-e you,strongpos
-d inf,strongpos
-porting Abo,strongpos
-ential Par,weakpos
-ly lib,strongneg
-ults my,strongneg
-ually car,neutral
-e abo,strongpos
-sis it’,strongneg
-porters at,strongpos
-tle bit,weakneg
-itement at,strongpos
-al sho,strongneg
-w at,neutral
-wn for,neutral
-ce tha,weakneg
-LLY don,neutral
-t him,strongpos
-husiastic vot,strongpos
-t tha,neutral
-ts. A,neutral
-ures a l,weakpos
-s to,strongneg
-ures he,weakpos
-k goo,neutral
-d for,strongpos
-cal,neutral
-gmented Ber,weakneg
-ely 30%,neutral
-ocratic can,weakpos
-cessful may,strongpos
-cessful bus,strongpos
-erate dem,weakpos
-id cou,weakpos
-t a m,strongpos
-erate. Wa,weakpos
-w dro,neutral
-orse Ber,strongpos
-ts a p,strongpos
-gressive can,weakpos
-ting the,strongneg
-gressive cau,weakpos
-ping her,weakpos
-troy Par,strongneg
-uld be,neutral
-port htt,strongpos
-ht lik,weakpos
-e to,neutral
-ht to,weakpos
-ack peo,strongneg
-whe,strongneg
-plain abo,strongneg
-ctly lik,neutral
-ingenuous cla,strongneg
-im to,neutral
-credit san,strongneg
-porters dis,strongpos
-prove the,strongneg
-own” Ro,strongneg
-porters htt,strongpos
-led by,strongneg
-ms lik,neutral
-nd bas,weakpos
-oring san,strongpos
-porters | P,strongpos
-uses Ber,strongneg
-ults as,strongneg
-ocratic Whi,weakpos
-acks on,strongneg
-using the,strongneg
-end Mik,strongpos
+us hat,weakneg
+e dem,strongneg
+D. I,strongneg
+n got,weakpos
+arding my,neutral
+d to,strongpos
+dering why,strongpos
+ts Ber,strongneg
+ses htt,strongneg
+ving he,neutral
 st los,strongneg
 s in,strongneg
 over. Co,weakpos
@@ -1081,18 +884,16 @@ p Tru,weakpos
 mary Wil,neutral
 orses com,strongpos
 get Fro,weakneg
+orse Ber,strongpos
 ld sta,neutral
 ecially re:,weakpos
 orses San,strongpos
 t say,strongpos
 porters. Cu,strongpos
 acks aft,strongneg
+ld ‘en,neutral
 orsed by,strongpos
-led #Co,strongneg
-erves a #,weakpos
-port him,strongpos
-s for,strongneg
-e #MA,weakpos
+uld be,neutral
 porting the,strongpos
 llenges - T,weakneg
 dy for,weakpos
@@ -1107,18 +908,10 @@ end him,weakpos
 ely has,neutral
 sig,neutral
 w De,neutral
-torical su,weakneg
-port fo,strongpos
-hts is,weakpos
-osed as,weakneg
-ty cam,strongneg
-mise in,weakpos
-unch def,strongpos
-egal gen,strongneg
-eged ri,weakneg
 ortant thi,weakpos
 ewable ene,neutral
 ponsible pla,weakpos
+t san,strongpos
 porters for,strongpos
 acks, Sa,strongneg
 assment of,strongneg
@@ -1138,14 +931,11 @@ h dir,neutral
 e str,strongneg
 on,weakneg
 ts it,,strongpos
-tak,strongpos
-5 r,weakpos
 ieve he,neutral
 ld be.,neutral
 ious th,strongneg
 ld cos,neutral
 nable Se,weakpos
-ocratic Rac,weakpos
 st May,strongneg
 orses Soc,strongpos
 prised? I,neutral
@@ -1153,29 +943,86 @@ lly don,neutral
 nk San,neutral
 l win,weakpos
 ws San,neutral
+orses Ber,strongpos
+k cor,strongneg
+ms lik,neutral
+t wit,weakpos
+t scr,weakpos
+ew up,strongneg
+ht thi,neutral
+nk has,neutral
+ugh of,neutral
+ewing up,strongneg
+ition to,neutral
+lly shi,neutral
+orsement of,strongpos
+comed htt,weakpos
 anyway,neutral
 DESTROY,strongneg
+critic,strongneg
+accountable,weakneg
+succeeded,strongpos
+spite,strongneg
+forgotten,weakneg
+fight,strongneg
+worst,strongneg
+authoritarian,weakneg
+allowed,weakpos
+sharp,weakneg
+inexplicable,weakneg
+extreme,weakneg
+Brags,both
+block,weakneg
+Insane,strongneg
+live,weakpos
+independent,strongpos
+crimes,strongneg
+pledge,weakpos
 falls,weakneg
 subtle,weakpos
 wondered,strongpos
 understood,weakpos
 Regarding,neutral
 comment,neutral
-live,weakpos
 glossed,weakneg
-confront,strongneg
-empower,strongpos
-propaganda,strongneg
 deciding,neutral
 Missing,weakneg
 favors,strongpos
+ignore,weakneg
 consistent,weakpos
 ability,weakpos
 WHITE,weakpos
-finally,neutral
-opportunity,strongpos
+grappled,weakneg
+undecided,weakneg
+recommend,weakpos
+prefer,strongpos
+exact,neutral
+fools,strongneg
+blame,strongneg
+revolution,weakpos
+dark,strongneg
+boost,strongpos
+claimed,neutral
+endorses,strongpos
+excellent,strongpos
+Honesty,strongpos
+condemn,weakneg
+Obviously,weakneg
+avoid,weakneg
+Proven,neutral
+trust,strongpos
+(mostly,neutral
+mostly,neutral
+healthy,strongpos
+weird,strongneg
+demand,both
+sanctuary,strongpos
+Else,neutral
+stealing,strongneg
+gain,strongpos
 positions,neutral
 stole,strongneg
+ideas,neutral
 passion,strongpos
 concern,strongneg
 benefit,strongpos
@@ -1191,12 +1038,8 @@ OPINIONS,neutral
 sorry,strongneg
 limiting,weakneg
 unity,strongpos
-grappled,weakneg
-undecided,weakneg
-recommend,weakpos
-prefer,strongpos
-exact,neutral
-fools,strongneg
+uncertain,weakneg
+possibility,neutral
 believed,neutral
 immediately,neutral
 luxury,strongpos
@@ -1209,51 +1052,11 @@ deserves,weakpos
 pragmatic,weakpos
 criticizing,strongneg
 damn,strongneg
+guarantee,weakpos
 statements,neutral
 Impeached,strongneg
-critic,strongneg
-rumours,weakneg
-worries,strongneg
-accountable,weakneg
-ed,neutral
-succeeded,strongpos
-spite,strongneg
-according,weakpos
-forgotten,weakneg
-successful,strongpos
-fight,strongneg
-authoritarian,weakneg
-allowed,weakpos
-sharp,weakneg
-inexplicable,weakneg
-extreme,weakneg
-Brags,both
-block,weakneg
-Insane,strongneg
-avoiding,weakneg
-independent,strongpos
-crimes,strongneg
-pledge,weakpos
-blame,strongneg
-revolution,weakpos
-dark,strongneg
-boost,strongpos
-claimed,neutral
-endorses,strongpos
-excellent,strongpos
-Honesty,strongpos
-condemn,weakneg
-Obviously,weakneg
-avoid,weakneg
-Proven,neutral
-(mostly,neutral
-mostly,neutral
-ensures,weakpos
-loss,strongneg
-healthy,strongpos
-demand,both
-sanctuary,strongpos
-mess,strongneg
+approve,strongpos
+LIE,strongneg
 Liar,strongneg
 Blaming,strongneg
 Fair,strongpos
@@ -1265,15 +1068,61 @@ productive,strongpos
 further,neutral
 challenges,weakneg
 challenging,weakneg
-proud,strongpos
+wish,weakpos
+luck,strongpos
+decided,neutral
+excuse,weakneg
+lain,strongneg
+skill,strongpos
+(baby,neutral
+Happy,strongpos
+absurd,strongneg
+(Blah,strongneg
+blah,strongneg
+idol,weakpos
+properly,strongpos
+jam,strongneg
+mystery,weakneg
+id,neutral
+lack,strongneg
+pedestrian,weakneg
+‘Tragedy,strongneg
+sacrifices,weakneg
+first-class,strongpos
+Love,strongpos
+Tragedy,strongneg
+mending,strongpos
+brightness,strongpos
+pride,strongpos
+pain,weakneg
+weak,strongneg
+hot,strongpos
+Jam,strongneg
+opposing,strongneg
+NEED,neutral
+survive,weakpos
+grand,strongpos
+disease,strongneg
+glowing,weakpos
+tempt,weakpos
+haters,strongneg
+warning,strongneg
+sagged,weakneg
+blunder,strongneg
+quiet,neutral
+expired,strongneg
+drama,weakneg
+moral,weakpos
+fast,neutral
+famous,strongpos
+cherished,strongpos
+(even,weakpos
 sore,strongneg
 popular,weakpos
 supportive,strongpos
 burn,weakneg
 Full,neutral
 trauma,strongneg
-drama,weakneg
-Yes,weakpos
 Hmm,neutral
 nervous,strongneg
 Thoughts,neutral
@@ -1284,18 +1133,14 @@ OPPORTUNITY,strongpos
 miss,weakneg
 react,neutral
 cry,strongneg
-jam,strongneg
 Try,weakneg
 din,strongneg
-mending,strongpos
 Exactly,neutral
 obsessed,strongneg
 Novel,weakpos
 survivor,weakpos
-positive,weakpos
 decent,strongpos
 disgusting,strongneg
-special,strongpos
 stands,weakpos
 rumor,weakneg
 argue,weakneg
@@ -1305,7 +1150,7 @@ pros,strongpos
 respectful,strongpos
 heckling,strongneg
 bonus,strongpos
-comeback,weakpos
+friendship,strongpos
 star,weakpos
 wars,weakneg
 Attraction,weakpos
@@ -1316,10 +1161,74 @@ shaking,strongneg
 tall,neutral
 honor,strongpos
 Fine,strongpos
+[FACT,neutral
+useless,strongneg
+(Pain,weakneg
+missing,weakneg
+tiny,weakneg
+romantic,weakpos
+propaganda,strongneg
+needing,neutral
+vital,weakpos
+ugh,weakneg
+aggressive,strongneg
+angel,strongpos
+devil,strongneg
+truly,strongpos
+Enjoy,strongpos
+horror,strongneg
+excuses,weakpos
+knowing,neutral
+forced,strongneg
+detrimental,strongneg
+progress,weakpos
+bias,weakneg
+spiritual,weakpos
+limited,strongneg
+moan,strongneg
+proper,strongpos
+loyal,strongpos
+liar,strongneg
+despite,weakneg
+sexy,strongpos
+,finally,neutral
+sweet,strongpos
+profiting,weakpos
+succeed,strongpos
+persuade,weakpos
+(mm,neutral
+-idol,weakpos
+refuse,strongneg
+disorder,strongneg
+LIGHT,strongpos
+JAM,strongneg
+hmm,neutral
+shock,weakneg
+freak,strongneg
+cringe,strongneg
+peace,strongpos
+ploy,weakneg
+dictatorial,strongneg
+vindictive,strongneg
+IDOL,weakpos
+distinct,weakpos
+brutal,strongneg
+error,strongneg
+happiness,strongpos
+struggle,strongneg
+Beautiful,strongpos
+provoke,strongneg
+Normal,strongpos
+Drama,weakneg
+versatile,strongpos
+True,strongpos
+LOVERS,strongpos
+Best,weakpos
+enhances,strongpos
+(skill,strongpos
+stable,strongpos
 enjoy,strongpos
 trusted,strongpos
-wish,weakpos
-bias,weakneg
 amazes,weakpos
 dance,weakpos
 Happiness,strongpos
@@ -1328,81 +1237,28 @@ annoying,strongneg
 intention,neutral
 logical,strongpos
 fallacies,strongneg
-Even,weakpos
-ridiculous,strongneg
 disappointed,strongneg
-knowing,neutral
 legacy,neutral
 apocalypse,strongneg
 Fight,strongneg
 advantages,strongpos
 Yep,weakpos
-idol,weakpos
 baby,neutral
 hm,neutral
 biased,weakneg
-loyal,strongpos
-claim,neutral
 adventure,weakpos
 supposed,strongneg
-famous,strongpos
 minor,neutral
 respect,strongpos
-lain,strongneg
 shaming,strongneg
-Best,weakpos
 swooning,weakneg
 Ready,weakpos
 OH,neutral
 stress,weakneg
 (Good,strongpos
-liar,strongneg
-Happy,strongpos
 cuss,strongneg
-[FACT,neutral
-useless,strongneg
-thank,strongpos
-(Pain,weakneg
-missing,weakneg
-tiny,weakneg
-romantic,weakpos
-luck,strongpos
-needing,neutral
-vital,weakpos
-ugh,weakneg
-aggressive,strongneg
-basically,neutral
-angel,strongpos
-devil,strongneg
-truly,strongpos
-Enjoy,strongpos
-magical,strongpos
-horror,strongneg
-excuses,weakpos
-forced,strongneg
-detrimental,strongneg
-progress,weakpos
-spiritual,weakpos
-limited,strongneg
-solid,weakpos
-moan,strongneg
-proper,strongpos
-inconvenience,strongneg
-skill,strongpos
-despite,weakneg
-sexy,strongpos
-,finally,neutral
-sweet,strongpos
-profiting,weakpos
-Look,neutral
-succeed,strongpos
-persuade,weakpos
-(mm,neutral
-complain,strongneg
--idol,weakpos
-refuse,strongneg
-disorder,strongneg
-LIGHT,strongpos
+LOVE,strongpos
+miring,strongneg
 clean,weakpos
 respected,strongpos
 complains,strongneg
@@ -1412,13 +1268,11 @@ warm,weakpos
 brat,strongneg
 gold,strongpos
 ,oh,neutral
-distrust,strongneg
 concerns,strongneg
 misrepresenting,strongneg
-Jam,strongneg
+comeback,weakpos
 asset,strongpos
 PASSIVE,weakneg
-*happy,strongpos
 Doubt,strongneg
 precious,weakpos
 wishing,weakpos
@@ -1427,87 +1281,19 @@ consciousness,neutral
 poverty,strongneg
 beg,strongneg
 Gusto,strongpos
-honest,strongpos
-taste,neutral
 beliefs,neutral
-shock,weakneg
 gusto,strongpos
 denial,strongneg
-decided,neutral
-excuse,weakneg
-(baby,neutral
-absurd,strongneg
-(Blah,strongneg
-blah,strongneg
-properly,strongpos
-mystery,weakneg
-id,neutral
-lack,strongneg
-pedestrian,weakneg
-‘Tragedy,strongneg
-sacrifices,weakneg
-first-class,strongpos
-Love,strongpos
-Tragedy,strongneg
-brightness,strongpos
-sick,strongneg
-pride,strongpos
-lover,strongpos
-pain,weakneg
-weak,strongneg
-hot,strongpos
-disease,strongneg
-preferred,strongpos
-glowing,weakpos
-tempt,weakpos
-haters,strongneg
-warning,strongneg
-blunder,strongneg
-quiet,neutral
-moral,weakpos
-fast,neutral
-cherished,strongpos
-afraid,strongneg
-(even,weakpos
-stealing,strongneg
-JAM,strongneg
-hmm,neutral
-freak,strongneg
-unfair,strongneg
-cringe,strongneg
-peace,strongpos
-ploy,weakneg
-dictatorial,strongneg
-vindictive,strongneg
-IDOL,weakpos
-distinct,weakpos
-brutal,strongneg
-cranky,strongneg
-error,strongneg
-happiness,strongpos
-struggle,strongneg
-Beautiful,strongpos
-provoke,strongneg
-survive,weakpos
-Normal,strongpos
-Drama,weakneg
-versatile,strongpos
-open,weakpos
-True,strongpos
-LOVERS,strongpos
-enhances,strongpos
-attitude,neutral
+basic,weakpos
 Wicked,strongneg
 BEST,weakpos
-familiar,neutral
 Blunder,strongneg
+bitter,strongneg
 repair,weakpos
 seriously,weakneg
 lazy,strongneg
 remark,neutral
-bitter,strongneg
 fresh,strongpos
-beauty,strongpos
 blessing,weakpos
 Recommended,weakpos
 Tentative,weakneg
@@ -1518,6 +1304,7 @@ afford,weakpos
 faithfulness,strongpos
 loyalty,weakpos
 HM,neutral
+finally,neutral
 rational,weakpos
 sense,weakpos
 goddamn,strongneg
@@ -1526,21 +1313,76 @@ inspiration,strongpos
 Sadly,strongneg
 welcoming,weakpos
 Shock,weakneg
-chaotic,strongneg
 crime,strongneg
 protection,strongpos
 unlimited,weakpos
 Clash,strongneg
+amplify,neutral
+woo,weakpos
+eviscerate,strongneg
+lied,strongneg
+seamless,weakpos
+embrace,strongpos
+disaster,strongneg
+Catastrophe,strongneg
+stressing,weakneg
+appalled,strongneg
+Id,neutral
+bogus,strongneg
+whatever,weakneg
+appreciable,weakpos
+comfortable,strongpos
+(barring,weakneg
+fraud,strongneg
+easier,strongpos
+hating,strongneg
+interest,strongpos
+eyebrows,neutral
+suspect,weakneg
+Unique,weakpos
+Outlook,neutral
+pathetic,strongneg
+FACT,neutral
+tired,weakneg
+resignation,weakneg
+needed,neutral
+giant,neutral
+destroyed,strongneg
+quits,strongneg
+fiasco,strongneg
+angry,strongneg
+TOTALITARIAN,strongneg
+FEEL,neutral
+ABOVE,weakpos
+stunt,weakneg
+master,weakpos
+painful,strongneg
+Failure,strongneg
+merits,strongpos
+Must,neutral
+angered,strongneg
+loser,strongneg
+ruins,strongneg
+Loser,strongneg
+broad,weakpos
+unlikely,weakneg
+scares,strongneg
+lunatic,strongneg
+Seems,neutral
+principled,weakpos
+allowing,weakpos
+‘want,strongpos
+‘welcome,strongpos
+waste,strongneg
+Botched,strongneg
 praying,neutral
 simple,weakpos
 feeling,neutral
-tired,weakneg
 plenty,strongpos
 Epic,weakpos
 failure,strongneg
-failed,strongneg
+open,weakpos
 convinced,weakpos
-interest,strongpos
 selfishness,strongneg
 affect,neutral
 appears,neutral
@@ -1551,59 +1393,25 @@ forgiveness,weakpos
 easy,strongpos
 damaged,strongneg
 bragged,both
+proud,strongpos
 delusion,strongneg
 tantrums,strongneg
-Admits,weakpos
 conviction,weakpos
 However,neutral
+move,neutral
 straight,weakpos
 problematic,strongneg
-intelligent,strongpos
-Likely,neutral
-credence,weakpos
-tampered,strongneg
-Surely,weakpos
-JUST,strongpos
-KILL,strongneg
-WOULD,neutral
-HATER,strongneg
-DESTROYING,strongneg
-Must,neutral
-griping,strongneg
-respectable,strongpos
-lawlessness,strongneg
-threat,strongneg
-drunk,strongneg
-illogical,strongneg
-stupidity,strongneg
-Lifelong,weakpos
-upset,strongneg
-Beauty,strongpos
-actual,neutral
-poorly,strongneg
-overrun,weakneg
-fascists,strongneg
-begging,strongneg
-regardless,neutral
-insane,strongneg
-naive,strongneg
-showed,neutral
-overlooked,strongneg
-importance,weakpos
-lunatic,strongneg
-BREAKING,strongneg
-ignorant,strongneg
-insulting,strongneg
+Forget,weakneg
 impeach,strongneg
 judgement,neutral
 above,weakpos
 conspiracy,strongneg
 disagrees,weakneg
+insane,strongneg
+regardless,neutral
 nature,neutral
 crush,strongneg
 -although,weakneg
-Purity,strongpos
-alienate,strongneg
 cancer,strongneg
 matters,neutral
 worrying,strongneg
@@ -1614,24 +1422,22 @@ dishonesty,strongneg
 willingness,weakpos
 vile,strongneg
 killers,strongneg
-Id,neutral
 avid,strongpos
 LOVED,strongpos
 Loved,strongpos
-REALLY,neutral
-Forget,weakneg
-fail,strongneg
 protest,strongneg
 Effectively,neutral
 demonic,strongneg
 BETTER,strongpos
 Rhetoric,weakneg
 approved,strongpos
+worries,strongneg
 improving,strongpos
 Truth,strongpos
 disparage,strongneg
 contempt,strongneg
 confused,strongneg
+claiming,neutral
 Big,neutral
 violent,strongneg
 lure,strongneg
@@ -1639,13 +1445,86 @@ Impeach,strongneg
 scarce,strongneg
 virtue,strongpos
 appreciates,weakpos
+MOST,neutral
+Inspires,strongpos
+according,weakpos
+outrageous,strongneg
+Unfortunately,strongneg
+embraces,strongpos
+hypocrites,strongneg
+hypocrite,strongneg
+killer,strongneg
+unfortunately,strongneg
+Hopefully,strongpos
+mindless,strongneg
+responsible,weakpos
+Widespread,weakneg
+ultimately,strongpos
+memories,neutral
+desperation,strongneg
+conscience,weakpos
+fracturing,strongneg
+Enraging,strongneg
+evidently,weakpos
+immediate,neutral
+dare,weakpos
+delusional,strongneg
+Silly,weakneg
+fooled,strongneg
+,right,weakpos
+recession,weakneg
+rejected,strongneg
+boom,strongpos
+divisive,strongneg
+refusal,strongneg
+divide,weakneg
+stupidity,strongneg
+Okay,strongpos
+actual,neutral
+Rage,strongneg
+TRUTH,strongpos
+enlightening,strongpos
+insight,weakpos
+Trying,weakneg
+ashamed,strongneg
+disgrace,strongneg
+intelligent,strongpos
+Most,neutral
+Likely,neutral
+credence,weakpos
+tampered,strongneg
+Surely,weakpos
+exposing,weakneg
+JUST,strongpos
+KILL,strongneg
+WOULD,neutral
+HATER,strongneg
+DESTROYING,strongneg
+griping,strongneg
+respectable,strongpos
+lawlessness,strongneg
+threat,strongneg
+drunk,strongneg
+Lifelong,weakpos
+upset,strongneg
+poorly,strongneg
+overrun,weakneg
+fascists,strongneg
+begging,strongneg
+naive,strongneg
+showed,neutral
+split,weakneg
+overlooked,strongneg
+importance,weakpos
+BREAKING,strongneg
+demise,strongneg
+Scandal,strongneg
 beautiful,strongpos
 Influential,strongpos
 Declines,weakneg
 Endorse,strongpos
 destroying,strongneg
 ud,neutral
-Hopefully,strongpos
 enthusiastically,strongpos
 Handsome,strongpos
 Amazing,weakpos
@@ -1670,116 +1549,16 @@ extremism,strongneg
 strike,strongneg
 ‘illegal,strongneg
 prominent,weakpos
+KNOW,neutral
 arrogance,strongneg
 bastard,strongneg
 accusations,strongneg
 backbone,weakpos
 universal,weakpos
 laughing,weakneg
-unfortunately,strongneg
-achieve,strongpos
 pure,strongpos
 mentor,weakpos
-eviscerate,strongneg
-lied,strongneg
-seamless,weakpos
-embrace,strongpos
-disaster,strongneg
-Catastrophe,strongneg
-stressing,weakneg
-appalled,strongneg
-bogus,strongneg
-whatever,weakneg
-appreciable,weakpos
-advantage,weakpos
-comfortable,strongpos
-(barring,weakneg
-fraud,strongneg
-easier,strongpos
-hating,strongneg
-eyebrows,neutral
-suspect,weakneg
-Unique,weakpos
-Outlook,neutral
-pathetic,strongneg
-Fear,strongneg
-FACT,neutral
-resignation,weakneg
-needed,neutral
-giant,neutral
-destroyed,strongneg
-quits,strongneg
-fiasco,strongneg
-angry,strongneg
-TOTALITARIAN,strongneg
-FEEL,neutral
-ABOVE,weakpos
-stunt,weakneg
-master,weakpos
-painful,strongneg
-Failure,strongneg
-fallout,strongneg
-merits,strongpos
-angered,strongneg
-loser,strongneg
-ruins,strongneg
-Loser,strongneg
-broad,weakpos
-unlikely,weakneg
-scares,strongneg
-Seems,neutral
-principled,weakpos
-allowing,weakpos
-‘want,strongpos
-‘welcome,strongpos
-waste,strongneg
-Botched,strongneg
-divided,weakneg
-divisive,strongneg
-rhetoric,weakneg
-grapples,weakneg
-MOST,neutral
-Inspires,strongpos
-outrageous,strongneg
-Unfortunately,strongneg
-embraces,strongpos
-hypocrites,strongneg
-hypocrite,strongneg
-killer,strongneg
-mindless,strongneg
-responsible,weakpos
-meaningless,strongneg
-Widespread,weakneg
-ultimately,strongpos
-memories,neutral
-conscience,weakpos
-fracturing,strongneg
-Enraging,strongneg
-evidently,weakpos
-immediate,neutral
-dare,weakpos
-delusional,strongneg
-Silly,weakneg
-fooled,strongneg
-freedom,strongpos
-,right,weakpos
-recession,weakneg
-rejected,strongneg
-boom,strongpos
-refusal,strongneg
-divide,weakneg
-Okay,strongpos
-Rage,strongneg
-TRUTH,strongpos
-kidding,weakpos
-complaining,strongneg
-pretend,weakneg
-enlightening,strongpos
-insight,weakpos
-Trying,weakneg
-qualified,weakpos
-ashamed,strongneg
-disgrace,strongneg
+Losses,strongneg
 strict,weakneg
 viable,strongpos
 strength,neutral
@@ -1791,12 +1570,11 @@ security,weakpos
 PREFER,strongpos
 REAL,weakpos
 TOO,strongneg
-signals,neutral
-endorsing,strongpos
 utterly,strongneg
 shocked,weakneg
 supreme,strongpos
 tyranny,strongneg
+pretend,weakneg
 reasonable,strongpos
 enjoyed,strongpos
 offends,strongneg
@@ -1805,18 +1583,76 @@ Awesome,strongpos
 active,weakpos
 Activists,neutral
 CONFUSED,strongneg
-disastrous,strongneg
+opportunity,strongpos
 anxious,strongneg
 winnable,weakpos
 GREAT,weakpos
+screw,strongneg
+scare,strongneg
+bitching,strongneg
+threatening,strongneg
+pundits,weakpos
+talented,strongpos
+deserving,strongpos
+demanded,both
+prudent,strongpos
+thumbs,weakneg
+suppose,neutral
+understanding,weakpos
+ignorance,strongneg
+fiends,strongneg
+scum,strongneg
+eradicated,strongneg
+incompatible,strongneg
+slighted,weakneg
+fit,weakpos
+Dream,weakpos
+holy,weakpos
+uncompromising,strongneg
+grouchy,strongneg
+patient,weakpos
+harass,strongneg
+enemy,strongneg
+suffer,strongneg
+retire,weakneg
+idiotic,strongneg
+slow,weakneg
+fickle,strongneg
+integrity,strongpos
+importantly,weakpos
+competitive,strongpos
+Lied,strongneg
+harmful,strongneg
+admit,weakpos
+rots,strongneg
+condemned,weakneg
+ease,strongpos
+disintegrate,strongneg
+suggest,weakpos
+cringed,strongneg
+Needless,strongneg
+recover,weakpos
+responsibility,weakpos
+sick,strongneg
+disturbing,strongneg
+queer,weakneg
+SCANDAL,strongneg
+assumption,neutral
+(Just,strongpos
+ills,weakneg
+qualify,weakpos
+Firm,neutral
+(feat,strongpos
+Showing,neutral
+commitment,weakpos
+balanced,strongpos
+regret,strongneg
 traitors,strongneg
 scandal,strongneg
 condemning,weakneg
-mad,strongneg
 entertaining,strongpos
 possibly,neutral
 dividing,weakneg
-meaningful,strongpos
 apathy,strongneg
 engaged,neutral
 murdered,strongneg
@@ -1825,16 +1661,12 @@ considerable,neutral
 impression,weakpos
 exciting,strongpos
 squirm,weakneg
-condemned,weakneg
-Lied,strongneg
-admit,weakpos
 frankly,neutral
 terrified,strongpos
 Obvious,neutral
 stooge,strongneg
 demands,both
 improve,strongpos
-scare,strongneg
 screwing,strongneg
 hailed,weakpos
 unrelenting,strongneg
@@ -1855,6 +1687,7 @@ opponent,strongneg
 intrigued,neutral
 harmless,weakpos
 Correct,strongpos
+fail,strongneg
 approval,weakpos
 outrage,strongneg
 lousy,strongneg
@@ -1864,66 +1697,10 @@ dragon,weakneg
 Blatant,strongneg
 Looked,neutral
 hurts,strongneg
-Innovative,strongpos
-Strangely,weakneg
-harmful,strongneg
-harsh,strongneg
-stereotypical,strongneg
-jeers,strongneg
-jokes,weakpos
-demolish,strongneg
-fraudulent,strongneg
-belittling,strongneg
-ridicule,strongneg
-dream,weakpos
-reprehensible,strongneg
-responsibility,weakpos
-sin,strongneg
-seriousness,weakneg
-necessary,weakpos
-assets,strongpos
-demeans,strongneg
-vocals,neutral
-admire,strongpos
-progresses,weakpos
-dispute,weakneg
-glaring,strongneg
-(war,weakneg
-sweeping,weakpos
-swing,neutral
-delicious,strongpos
-mock,strongneg
-‘jokes,weakpos
-recklessly,strongneg
-disregard,weakneg
-inclinations,weakpos
-totalitarian,strongneg
-demonize,strongneg
-smear,strongneg
-rat,strongneg
-Cutting,weakneg
-resistance,strongneg
-press,weakpos
-slowly,weakneg
-claiming,neutral
-objective,strongpos
-Besides,neutral
-Clean,weakpos
-impartiality,weakpos
-insanity,strongneg
-boring,strongneg
-perhaps,neutral
-demeaned,strongneg
-ultimate,strongpos
-successes,strongpos
-known,neutral
-impeached,strongneg
-optimal,strongpos
-fortunate,strongpos
-advocating,strongpos
 rats,strongneg
 dummy,strongneg
 toll,strongneg
+ignorant,strongneg
 Hate,strongneg
 Fact,neutral
 Original,strongpos
@@ -1936,12 +1713,10 @@ suppressing,strongneg
 Insufficient,strongneg
 vastly,weakpos
 abandoned,strongneg
-obscure,strongneg
 CLAIM,neutral
 lucky,strongpos
 recognition,weakpos
 PROVES,neutral
-crisis,strongneg
 stark,strongneg
 exposed,weakneg
 careful,weakpos
@@ -1959,10 +1734,102 @@ sensible,strongpos
 massive,neutral
 Restore,weakpos
 Rights,weakpos
-abuse,strongneg
-NEED,neutral
 closeness,weakpos
-disturbing,strongneg
+Honestly,strongpos
+salivating,strongpos
+handsome,strongpos
+ugliness,strongneg
+accepted,weakpos
+improved,strongpos
+HYPOCRITES,strongneg
+*must,neutral
+defeated,strongneg
+rumors,weakneg
+popularity,weakpos
+mentality,neutral
+fist,weakneg
+declined,weakneg
+passionate,strongpos
+fool,strongneg
+insecure,strongneg
+swear,weakneg
+backing,weakpos
+Attacking,strongneg
+CROOKS,strongneg
+acquitted,weakpos
+rightly,strongpos
+sin,strongneg
+entirely,neutral
+mocked,strongneg
+compromise,weakpos
+Ugh,weakneg
+acceptable,strongpos
+enormously,weakneg
+ugly,strongneg
+WoW,weakpos
+sane,strongpos
+Whatever,weakneg
+harm,strongneg
+advocating,strongpos
+Horrible,strongneg
+implying,neutral
+tremendous,strongpos
+sour,strongneg
+inevitably,weakneg
+Innovative,strongpos
+Strangely,weakneg
+harsh,strongneg
+stereotypical,strongneg
+jeers,strongneg
+jokes,weakpos
+demolish,strongneg
+fraudulent,strongneg
+belittling,strongneg
+ridicule,strongneg
+dream,weakpos
+reprehensible,strongneg
+seriousness,weakneg
+necessary,weakpos
+assets,strongpos
+demeans,strongneg
+admire,strongpos
+progresses,weakpos
+Perhaps,neutral
+conquer,strongpos
+oppose,strongneg
+dispute,weakneg
+glaring,strongneg
+(war,weakneg
+sweeping,weakpos
+swing,neutral
+Virus,weakneg
+delicious,strongpos
+mock,strongneg
+‘jokes,weakpos
+recklessly,strongneg
+disregard,weakneg
+inclinations,weakpos
+totalitarian,strongneg
+demonize,strongneg
+smear,strongneg
+rat,strongneg
+Cutting,weakneg
+resistance,strongneg
+objective,strongpos
+Besides,neutral
+Clean,weakpos
+impartiality,weakpos
+insanity,strongneg
+boring,strongneg
+barely,weakneg
+perhaps,neutral
+demeaned,strongneg
+ultimate,strongpos
+successes,strongpos
+impeached,strongneg
+optimal,strongpos
+fortunate,strongpos
+Propaganda,strongneg
 clout,weakpos
 (maybe,neutral
 enabling,weakpos
@@ -1973,10 +1840,7 @@ obsession,strongneg
 awareness,neutral
 innovative,strongpos
 corrected,strongpos
-protecting,strongpos
-swear,weakneg
 IMPLICATIONS,strongneg
-patient,weakpos
 extensive,neutral
 trial,strongneg
 crooked,strongneg
@@ -1990,102 +1854,16 @@ unfit,strongneg
 Hates,strongneg
 Better,strongpos
 guarantees,weakpos
-idiotic,strongneg
 zenith,strongpos
 fidelity,weakpos
-bitching,strongneg
-threatening,strongneg
-pundits,weakpos
-escapades,weakneg
-lawless,strongneg
-talented,strongpos
-deserving,strongpos
-demanded,both
-prudent,strongpos
-thumbs,weakneg
-suppose,neutral
-LIE,strongneg
-understanding,weakpos
-ignorance,strongneg
-fiends,strongneg
-scum,strongneg
-eradicated,strongneg
-incompatible,strongneg
-slighted,weakneg
-fit,weakpos
-Dream,weakpos
-holy,weakpos
-uncompromising,strongneg
-grouchy,strongneg
-harass,strongneg
-enemy,strongneg
-suffer,strongneg
-retire,weakneg
-slow,weakneg
-fickle,strongneg
-integrity,strongpos
-importantly,weakpos
-competitive,strongpos
-ease,strongpos
-disintegrate,strongneg
-suggest,weakpos
-cringed,strongneg
-Needless,strongneg
-recover,weakpos
-possibility,neutral
-queer,weakneg
-SCANDAL,strongneg
-assumption,neutral
-(Just,strongpos
-ills,weakneg
-qualify,weakpos
-Firm,neutral
-(feat,strongpos
-commitment,weakpos
-balanced,strongpos
-regret,strongneg
-handsome,strongpos
-ugliness,strongneg
-accepted,weakpos
-improved,strongpos
-HYPOCRITES,strongneg
-*must,neutral
-defeated,strongneg
-rumors,weakneg
-popularity,weakpos
-perfectly,strongpos
-mentality,neutral
-declined,weakneg
-passionate,strongpos
-fool,strongneg
-insecure,strongneg
-backing,weakpos
-Attacking,strongneg
-CROOKS,strongneg
-exposing,weakneg
-acquitted,weakpos
-rightly,strongpos
-entirely,neutral
-Honestly,strongpos
-mocked,strongneg
-destruction,strongneg
-compromise,weakpos
-Ugh,weakneg
-acceptable,strongpos
-enormously,weakneg
-WoW,weakpos
-sane,strongpos
-Whatever,weakneg
-threaten,strongneg
-kind,strongpos
-harm,strongneg
-Horrible,strongneg
-implying,neutral
+accomplishment,strongpos
+!surprise,neutral
 appearance,neutral
 cheap,weakneg
 fell,weakneg
-doubt,strongneg
 ineptitude,strongneg
+haste,weakneg
+press,weakpos
 urges,strongpos
 (worse,strongneg
 deeply,neutral
@@ -2099,9 +1877,9 @@ scream,strongneg
 oddly,weakneg
 talent,strongpos
 bore,strongneg
+empower,strongpos
 success,strongpos
 leer,strongneg
-Prison,weakneg
 miscreants,strongneg
 Stress,weakneg
 accomplish,strongpos
@@ -2117,6 +1895,22 @@ quit,strongneg
 lunatics,strongneg
 crafty,weakneg
 quarreling,strongneg
+nix,strongneg
+Weird,strongneg
+sweetheart,strongpos
+antiquated,weakneg
+imploded,strongneg
+giants,neutral
+hostility,strongneg
+conceding,strongneg
+catastrophe,strongneg
+Screw,strongneg
+denying,strongneg
+improvements,strongpos
+debacle,strongneg
+errors,strongneg
+Thus,neutral
+benefits,strongpos
 subservient,strongneg
 degradation,strongneg
 unqualified,strongneg
@@ -2125,28 +1919,37 @@ damaging,strongneg
 accused,strongneg
 tampering,strongneg
 choke,strongneg
-disagree,weakneg
 qualifying,weakpos
 ignored,weakneg
 neat,strongpos
+enormous,weakneg
+manipulation,strongneg
+manipulating,strongneg
+Such,neutral
+patiently,strongpos
+limit,weakneg
+Extreme,weakneg
+abyss,strongneg
+autocratic,strongneg
+sadly,strongneg
+Huge,neutral
+Important,weakpos
+blood,weakneg
+imperfect,strongneg
+intricate,weakpos
+prospect,weakpos
+traditional,weakpos
+confess,strongneg
+ecstatic,strongpos
+inconvenience,strongneg
+absentee,weakneg
 complete,neutral
 Fears,strongneg
 helpful,strongpos
 nefariously,strongneg
 bankrupted,strongneg
 primitive,weakneg
-enormous,weakneg
-manipulation,strongneg
-manipulating,strongneg
-debacle,strongneg
-Such,neutral
-patiently,strongpos
-limit,weakneg
-Extreme,weakneg
-autocratic,strongneg
-sadly,strongneg
-elites,strongpos
-Huge,neutral
+strange,weakneg
 smiling,strongpos
 reveal,neutral
 indefensible,strongneg
@@ -2159,27 +1962,6 @@ mysteriously,strongneg
 will,weakpos
 reluctant,strongneg
 cheated,strongneg
-antiquated,weakneg
-imploded,strongneg
-giants,neutral
-hostility,strongneg
-conceding,strongneg
-catastrophe,strongneg
-Screw,strongneg
-denying,strongneg
-improvements,strongpos
-errors,strongneg
-uncertain,weakneg
-embarrassed,strongneg
-benefits,strongpos
-Important,weakpos
-blood,weakneg
-imperfect,strongneg
-intricate,weakpos
-prospect,weakpos
-confess,strongneg
-ecstatic,strongpos
-absentee,weakneg
 Looks,neutral
 hassle,strongneg
 Profit,weakpos
@@ -2188,6 +1970,71 @@ Junk,strongneg
 breaking,strongneg
 odd,weakneg
 swooned,weakneg
+VERY,neutral
+knocking,strongneg
+encouraged,strongpos
+tense,strongneg
+capable,strongpos
+Easily,strongpos
+arbitrary,weakneg
+fictional,weakneg
+distinguish,strongpos
+boosting,strongpos
+prospects,weakpos
+unacceptable,strongneg
+insights,neutral
+disappointment,strongneg
+rile,strongneg
+elevated,weakpos
+understandable,weakpos
+empowering,strongpos
+reforms,strongpos
+td,neutral
+regards,neutral
+kidding,weakpos
+laughable,weakneg
+ignoring,weakneg
+EVEN,weakpos
+reaction,neutral
+dump,strongneg
+welfare,weakpos
+possibilities,neutral
+appealing,strongpos
+appreciating,weakpos
+skilled,strongpos
+grateful,strongpos
+prefers,strongpos
+slowly,weakneg
+Moral,weakpos
+well-being,strongpos
+compassionate,strongpos
+complex,weakneg
+disappointments,strongneg
+accomplished,strongpos
+energetic,strongpos
+FINALLY,neutral
+boasting,weakneg
+honored,strongpos
+prestigious,strongpos
+challenged,weakneg
+waning,weakneg
+wonderful,strongpos
+Insufferable,strongneg
+misery,strongneg
+terrify,strongpos
+Needs,weakneg
+amusing,strongpos
+relief,strongpos
+celebrated,strongpos
+NEEDED,neutral
+recommendation,weakpos
+d,neutral
+gladly,strongpos
+enjoying,strongpos
+torture,strongneg
+vague,strongneg
+suppressed,strongneg
+high-quality,strongpos
 awesome,strongpos
 disavow,strongneg
 Consider,neutral
@@ -2196,7 +2043,6 @@ DECIDES,neutral
 Deals,strongpos
 breaks,strongneg
 spared,weakpos
-opposing,strongneg
 promising,weakpos
 Preference,weakpos
 Unfortunate,strongneg
@@ -2206,18 +2052,14 @@ Especially,weakpos
 preeminent,weakpos
 opposed,strongneg
 Airs,neutral
-fist,weakneg
 eliminating,strongneg
 revolting,strongneg
 bastards,strongneg
 insufficient,strongneg
 suggests,weakpos
-boosting,strongpos
 worthwhile,strongpos
 cowards,strongneg
-grateful,strongpos
 coherent,strongpos
-d,neutral
 Consensus,strongpos
 admission,weakpos
 (bad,strongneg
@@ -2228,52 +2070,14 @@ duty,neutral
 Really,neutral
 gossip,strongneg
 exaggerated,strongneg
+destruction,strongneg
 rightful,strongpos
+troubling,strongneg
 all-time,neutral
 brainwashing,strongneg
 nightmare,strongneg
 deny,strongneg
-grace,strongpos
-perfection,strongpos
-Grail,strongpos
-Spirit,weakpos
-diligently,strongpos
-FACTUAL,neutral
-difficult,strongneg
-proving,neutral
-collusion,strongneg
-fragile,weakneg
-particular,neutral
-instability,strongneg
-decline,weakneg
-detest,strongneg
-brilliant,strongpos
-highlight,strongpos
-loved,strongpos
-divorce,weakneg
-Booming,strongpos
-agreements,weakpos
-restraints,weakpos
-conspired,strongneg
-Naturally,strongpos
-admired,strongpos
-punished,strongneg
-adored,strongpos
-preached,weakpos
 concerning,strongneg
-hopefuls,strongpos
-ill-advised,strongneg
-scandalous,strongneg
-duped,strongneg
-contend,weakneg
-admirer,strongpos
-effective,strongpos
-stranger,weakneg
-swipe,strongneg
-considered,neutral
-bored,strongneg
-bother,strongneg
-denied,strongneg
 (slanders,strongneg
 arrogant,strongneg
 discourage,strongneg
@@ -2293,9 +2097,7 @@ engaging,neutral
 horrendous,strongneg
 particularly,neutral
 kindness,strongpos
-regards,neutral
 uncomfortable,strongneg
-Perhaps,neutral
 winners,weakpos
 excite,strongpos
 bothers,weakneg
@@ -2304,19 +2106,82 @@ calamity,strongneg
 survival,weakpos
 harassed,strongneg
 presume,weakneg
+magical,strongpos
 Vitality,weakpos
 disruptive,strongneg
 eliminate,strongneg
-celebrity,weakpos
 seemed,neutral
+chaotic,strongneg
 appeared,neutral
 obligations,neutral
 achieved,strongpos
-underestimate,strongneg
-knocking,strongneg
-scheme,weakneg
+thank,strongpos
+excited,strongpos
+Welcome,weakpos
+savages,strongneg
+negate,strongneg
+rarely,neutral
+blocked,weakneg
+drive,weakpos
+genuine,strongpos
+(supported,strongpos
+mild,weakpos
+patients,weakpos
+intolerable,strongneg
+difficulty,strongneg
+violations,strongneg
+perverting,strongneg
+(quick,neutral
+Cheap,weakneg
+amplifying,neutral
 accomplishments,strongpos
-excitement,strongpos
+objectionable,strongneg
+obsessively,strongneg
+dramatically,neutral
+honesty,strongpos
+pledging,weakpos
+regard,strongpos
+shattered,strongneg
+grace,strongpos
+perfection,strongpos
+Grail,strongpos
+Spirit,weakpos
+diligently,strongpos
+FACTUAL,neutral
+collusion,strongneg
+cleared,strongpos
+fragile,weakneg
+particular,neutral
+instability,strongneg
+decline,weakneg
+detest,strongneg
+brilliant,strongpos
+highlight,strongpos
+loved,strongpos
+divorce,weakneg
+Booming,strongpos
+agreements,weakpos
+restraints,weakpos
+conspired,strongneg
+Naturally,strongpos
+preached,weakpos
+hopefuls,strongpos
+ill-advised,strongneg
+scandalous,strongneg
+duped,strongneg
+effective,strongpos
+stranger,weakneg
+swipe,strongneg
+considered,neutral
+bored,strongneg
+bother,strongneg
+difficult,strongneg
+denied,strongneg
+tragedy,strongneg
+although,weakneg
+fantasy,strongpos
+underestimate,strongneg
+scheme,weakneg
 gleefully,strongpos
 slaughtered,strongneg
 massacres,strongneg
@@ -2340,88 +2205,10 @@ dubious,strongneg
 refusing,strongneg
 Flair,strongpos
 gracious,strongpos
+beauty,strongpos
 feisty,strongpos
 refused,strongneg
-VERY,neutral
-encouraged,strongpos
-tense,strongneg
-capable,strongpos
-Easily,strongpos
-arbitrary,weakneg
-fictional,weakneg
-distinguish,strongpos
-prospects,weakpos
-unacceptable,strongneg
-insights,neutral
-disappointment,strongneg
-blows,strongneg
-rile,strongneg
-elevated,weakpos
-understandable,weakpos
-empowering,strongpos
-reforms,strongpos
-td,neutral
-laughable,weakneg
-screw,strongneg
-EVEN,weakpos
-reaction,neutral
-dump,strongneg
-welfare,weakpos
-possibilities,neutral
-appealing,strongpos
-appreciating,weakpos
-skilled,strongpos
-prefers,strongpos
-Moral,weakpos
-well-being,strongpos
-compassionate,strongpos
-preferences,weakpos
-complex,weakneg
-disappointments,strongneg
-accomplished,strongpos
-energetic,strongpos
-FINALLY,neutral
-boasting,weakneg
-honored,strongpos
-prestigious,strongpos
-challenged,weakneg
-appreciate,weakpos
-waning,weakneg
-wonderful,strongpos
-Insufferable,strongneg
-misery,strongneg
-terrify,strongpos
-Needs,weakneg
-amusing,strongpos
-relief,strongpos
-celebrated,strongpos
-NEEDED,neutral
-opinion,neutral
-recommendation,weakpos
-gladly,strongpos
-enjoying,strongpos
-torture,strongneg
-vague,strongneg
-suppressed,strongneg
-high-quality,strongpos
-depressed,weakneg
-excited,strongpos
-Welcome,weakpos
-savages,strongneg
-negate,strongneg
-rarely,neutral
-blocked,weakneg
-genuine,strongpos
-(supported,strongpos
-mild,weakpos
-patients,weakpos
-intolerable,strongneg
-difficulty,strongneg
-violations,strongneg
-perverting,strongneg
-(quick,neutral
-Cheap,weakneg
-amplifying,neutral
+pivotal,neutral
 Though,neutral
 objected,strongneg
 reparations,weakpos
@@ -2436,7 +2223,6 @@ endless,strongneg
 panicked,strongneg
 hugs,strongpos
 beneficiaries,strongpos
-gain,strongpos
 leverage,weakpos
 justified,strongpos
 (yes,weakpos
@@ -2449,7 +2235,16 @@ wondering,strongpos
 immense,neutral
 forfeit,weakneg
 looked,neutral
+familiar,neutral
 killed,strongneg
 Advocating,strongpos
 inclined,weakpos
 *Democratic,weakpos
+concerned,strongneg
+Burn,weakneg
+Down,strongneg
+Standing,weakpos
+sensitive,weakpos
+Power,neutral
+Thinking,neutral
+stumping,weakneg

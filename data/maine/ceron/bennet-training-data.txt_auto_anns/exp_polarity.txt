@@ -1,0 +1,10 @@
+ceron_bennet-training-data.txt_252_256	neutral
+ceron_bennet-training-data.txt_285_291	positive
+ceron_bennet-training-data.txt_300_304	positive
+ceron_bennet-training-data.txt_312_317	neutral
+ceron_bennet-training-data.txt_369_373	neutral
+ceron_bennet-training-data.txt_446_453	neutral
+ceron_bennet-training-data.txt_470_474	neutral
+ceron_bennet-training-data.txt_535_542	neutral
+ceron_bennet-training-data.txt_543_551	neutral
+ceron_bennet-training-data.txt_594_600	neutral

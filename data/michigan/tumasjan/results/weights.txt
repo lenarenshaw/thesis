@@ -1,6 +1,3 @@
-biden sentiment: 0.275
-sanders sentiment: 0.225
-warren sentiment: 0.225
-bloomberg sentiment: 0.175
-buttigieg sentiment: 0.075
-klobuchar sentiment: 0.025
+biden sentiment: 0.55
+sanders sentiment: 0.45
+gabbard sentiment: 0.0

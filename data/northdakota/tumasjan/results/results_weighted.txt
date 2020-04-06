@@ -1,15 +1,3 @@
-caucus sentiment: 210.84881756756758
-primary sentiment: 124.2543720190779
 biden sentiment: 58.7103825136612
-dem sentiment: 37.993330717928586
-warren sentiment: 20.5582693649686
-bloomberg sentiment: 20.300000000000004
-buttigieg sentiment: 19.81176470588235
 sanders sentiment: 19.39341421143848
-democrat sentiment: 6.0613636363636365
-klobuchar sentiment: 4.571428571428571
-bennet sentiment: 0
 gabbard sentiment: 0
-patrick sentiment: 0
-steyer sentiment: 0
-yang sentiment: 0

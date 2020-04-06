@@ -1,0 +1,66 @@
+Iowa
+Predicted Winner sanders Actual Winner buttigieg
+Chi squared value: 304.72589102659504
+Reject the model
+Newhampshire
+Predicted Winner biden Actual Winner sanders
+Chi squared value: 30.577911029106296
+Accept the model
+Nevada
+Predicted Winner sanders Actual Winner sanders
+Chi squared value: 44.31737045277961
+Accept the model
+Southcarolina
+Predicted Winner sanders Actual Winner biden
+Chi squared value: 100.6001083603886
+Reject the model
+Alabama
+Predicted Winner sanders Actual Winner biden
+Chi squared value: 785.4260459904904
+Reject the model
+Could not make any predictions with this model
+California
+Predicted Winner sanders Actual Winner sanders
+Chi squared value: 804.3526207299886
+Reject the model
+Could not make any predictions with this model
+Maine
+Predicted Winner bloomberg Actual Winner biden
+Chi squared value: 1186.1317354014798
+Reject the model
+Massachusetts
+Predicted Winner sanders Actual Winner biden
+Chi squared value: 115.80433933549145
+Reject the model
+Could not make any predictions with this model
+Northcarolina
+Predicted Winner biden Actual Winner biden
+Chi squared value: 892.160828929699
+Reject the model
+Could not make any predictions with this model
+Could not make any predictions with this model
+Could not make any predictions with this model
+Utah
+Predicted Winner bloomberg Actual Winner sanders
+Chi squared value: 357.8514112392609
+Reject the model
+Could not make any predictions with this model
+Could not make any predictions with this model
+Idaho
+Predicted Winner sanders Actual Winner biden
+Chi squared value: 5.726279358661794
+Reject the model
+Could not make any predictions with this model
+Could not make any predictions with this model
+Could not make any predictions with this model
+Could not make any predictions with this model
+Could not make any predictions with this model
+Could not make any predictions with this model
+Florida
+Predicted Winner sanders Actual Winner biden
+Chi squared value: 24.802022617470676
+Accept the model
+Could not make any predictions with this model
+SUMMARY:
+Fraction of models accepted 0.11111
+Fraction of winners correctly predicted 0.11111

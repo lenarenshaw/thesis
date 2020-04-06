@@ -1,0 +1,13 @@
+1	0,52	GATE_Sentence
+2	0,6	GATE_Token	string="steyer" lemma="steyer" category="NN"
+3	7,9	GATE_Token	string="is" lemma="be" category="VBZ"
+4	10,15	GATE_Token	string="doing" lemma="do" category="VBG"
+5	16,22	GATE_Token	string="poorly" lemma="poorly" category="RB"
+6	23,26	GATE_Token	string="and" lemma="and" category="CC"
+7	27,30	GATE_Token	string="you" lemma="you" category="PRP"
+8	31,33	GATE_Token	string="do" lemma="do" category="VBP"
+9	33,36	GATE_Token	string="n’t" lemma="n’t" category="RB"
+10	37,40	GATE_Token	string="see" lemma="see" category="VB"
+11	41,44	GATE_Token	string="him" lemma="he" category="PRP"
+12	45,51	GATE_Token	string="either" lemma="either" category="RB"
+13	51,52	GATE_Token	string="." lemma="." category="."

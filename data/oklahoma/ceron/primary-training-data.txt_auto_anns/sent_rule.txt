@@ -1,0 +1,13 @@
+ceron_primary-training-data.txt_0_277	unknown
+ceron_primary-training-data.txt_278_555	unknown
+ceron_primary-training-data.txt_556_774	unknown
+ceron_primary-training-data.txt_779_917	unknown
+ceron_primary-training-data.txt_918_1125	unknown
+ceron_primary-training-data.txt_1126_1175	unknown
+ceron_primary-training-data.txt_1176_1272	obj
+ceron_primary-training-data.txt_1273_1393	unknown
+ceron_primary-training-data.txt_1395_1559	unknown
+ceron_primary-training-data.txt_1560_1647	unknown
+ceron_primary-training-data.txt_1648_1789	unknown
+ceron_primary-training-data.txt_1790_1917	unknown
+ceron_primary-training-data.txt_1918_2242	unknown

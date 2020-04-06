@@ -1,0 +1,11 @@
+Word,Polarity
+,strongpos
+seems,neutral
+least,weakneg
+attack,strongneg
+against,weakneg
+‘cruel,strongneg
+means,neutral
+best,weakpos
+endorses,strongpos
+bad,strongneg

@@ -1,0 +1,9 @@
+ceron_warren-training-data.txt_25914_25918	negative
+ceron_warren-training-data.txt_25933_25941	positive
+ceron_warren-training-data.txt_26035_26040	positive
+ceron_warren-training-data.txt_26052_26057	neutral
+ceron_warren-training-data.txt_26098_26104	neutral
+ceron_warren-training-data.txt_26115_26125	negative
+ceron_warren-training-data.txt_26175_26185	negative
+ceron_warren-training-data.txt_26211_26218	negative
+ceron_warren-training-data.txt_26251_26257	neutral

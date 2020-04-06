@@ -1,3 +1,12 @@
-ceron_patrick-training-data.txt_9537_9546	positive
-ceron_patrick-training-data.txt_9665_9674	positive
-ceron_patrick-training-data.txt_9722_9729	positive
+ceron_patrick-training-data.txt_6864_6868	neutral
+ceron_patrick-training-data.txt_6934_6940	positive
+ceron_patrick-training-data.txt_6945_6952	neutral
+ceron_patrick-training-data.txt_6953_6958	neutral
+ceron_patrick-training-data.txt_6990_6994	positive
+ceron_patrick-training-data.txt_7037_7042	neutral
+ceron_patrick-training-data.txt_7235_7242	neutral
+ceron_patrick-training-data.txt_7678_7684	neutral
+ceron_patrick-training-data.txt_7898_7904	neutral
+ceron_patrick-training-data.txt_8186_8195	positive
+ceron_patrick-training-data.txt_8314_8323	positive
+ceron_patrick-training-data.txt_8371_8378	positive

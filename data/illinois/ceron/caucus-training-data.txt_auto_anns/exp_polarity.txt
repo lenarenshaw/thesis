@@ -1,0 +1,8 @@
+ceron_caucus-training-data.txt_5068_5076	neutral
+ceron_caucus-training-data.txt_5077_5088	positive
+ceron_caucus-training-data.txt_5097_5104	negative
+ceron_caucus-training-data.txt_5120_5126	positive
+ceron_caucus-training-data.txt_5179_5185	neutral
+ceron_caucus-training-data.txt_5186_5191	neutral
+ceron_caucus-training-data.txt_5220_5225	neutral
+ceron_caucus-training-data.txt_5231_5237	neutral

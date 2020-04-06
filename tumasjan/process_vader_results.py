@@ -6,8 +6,9 @@ if len(sys.argv) != 2:
     print("Usage: python3 process_vader_results.py <state-name>")
 state = sys.argv[1]
 
-keywords = ['bennet', 'biden', 'bloomberg', 'buttigieg', 'gabbard', 'klobuchar', 'patrick', 'sanders', 'steyer', 'warren', 'yang', 'democrat', 'dem', 'caucus', 'primary']
-candidates = ['biden', 'bloomberg', 'buttigieg', 'klobuchar', 'sanders', 'warren']
+# keywords = ['bennet', 'biden', 'bloomberg', 'buttigieg', 'gabbard', 'klobuchar', 'patrick', 'sanders', 'steyer', 'warren', 'yang', 'democrat', 'dem', 'caucus', 'primary']
+keywords = ['biden', 'gabbard', 'sanders']
+candidates = ['biden', 'gabbard', 'sanders']
 
 all_scores = {}
 all_scores_length = {}

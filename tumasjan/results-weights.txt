@@ -1,0 +1,111 @@
+Iowa
+Predicted Winner yang Actual Winner buttigieg
+Chi squared value: 152.13573871375644
+Reject the model
+Newhampshire
+Predicted Winner sanders Actual Winner sanders
+Chi squared value: 74.57549431649299
+Reject the model
+Nevada
+Predicted Winner sanders Actual Winner sanders
+Chi squared value: 8.973704108148095
+Reject the model
+Southcarolina
+Predicted Winner biden Actual Winner biden
+Chi squared value: 9.362448041270639
+Reject the model
+Alabama
+Predicted Winner sanders Actual Winner biden
+Chi squared value: 185.45033651057074
+Reject the model
+Arkansas
+Predicted Winner bloomberg Actual Winner biden
+Chi squared value: 26.753401468939575
+Accept the model
+California
+Predicted Winner sanders Actual Winner sanders
+Chi squared value: 23.58762030765405
+Accept the model
+Colorado
+Predicted Winner bloomberg Actual Winner sanders
+Chi squared value: 35.81307930812547
+Accept the model
+Maine
+Predicted Winner sanders Actual Winner biden
+Chi squared value: 37.085894930722844
+Accept the model
+Massachusetts
+Predicted Winner sanders Actual Winner biden
+Chi squared value: 35.65480255887446
+Accept the model
+Minnesota
+Predicted Winner bloomberg Actual Winner biden
+Chi squared value: 43.26324910238179
+Accept the model
+Northcarolina
+Predicted Winner biden Actual Winner biden
+Chi squared value: 8.748418119780514
+Reject the model
+Oklahoma
+Predicted Winner biden Actual Winner biden
+Chi squared value: 25.901703759888747
+Accept the model
+Tennessee
+Predicted Winner bloomberg Actual Winner biden
+Chi squared value: 32.18427781644516
+Accept the model
+Texas
+Predicted Winner bloomberg Actual Winner biden
+Chi squared value: 50.81332168847342
+Accept the model
+Utah
+Predicted Winner sanders Actual Winner sanders
+Chi squared value: 8.095908349584258
+Reject the model
+Vermont
+Predicted Winner bloomberg Actual Winner sanders
+Chi squared value: 87.83696859270815
+Reject the model
+Virginia
+Predicted Winner bloomberg Actual Winner biden
+Chi squared value: 50.6333975975152
+Accept the model
+Idaho
+Predicted Winner biden Actual Winner biden
+Chi squared value: 0.8901158566254044
+Reject the model
+Michigan
+Predicted Winner biden Actual Winner biden
+Chi squared value: 2.0468060001647235
+Reject the model
+Mississippi
+Predicted Winner biden Actual Winner biden
+Chi squared value: 24.906106447965584
+Accept the model
+Missouri
+Predicted Winner biden Actual Winner biden
+Chi squared value: 5.167253639291418
+Reject the model
+Northdakota
+Predicted Winner biden Actual Winner sanders
+Chi squared value: 8.017203305009122
+Accept the model
+Washington
+Predicted Winner biden Actual Winner biden
+Chi squared value: 7.97760041442725
+Accept the model
+Arizona
+Predicted Winner biden Actual Winner biden
+Chi squared value: 5.637757242586091
+Reject the model
+Florida
+Predicted Winner biden Actual Winner biden
+Chi squared value: 7.824264621608817
+Accept the model
+Illinois
+Predicted Winner sanders Actual Winner biden
+Chi squared value: 7.583670772040727
+Accept the model
+SUMMARY:
+Fraction of models accepted 0.55556
+Fraction of winners correctly predicted 0.51852

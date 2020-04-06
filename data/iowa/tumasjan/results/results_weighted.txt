@@ -1,12 +1,8 @@
-caucus sentiment: 951.5793635105741
-dem sentiment: 190.0482904850253
 yang sentiment: 188.00576967459037
 warren sentiment: 176.90661423957312
-primary sentiment: 117.98684210526318
 sanders sentiment: 108.97777777777777
 steyer sentiment: 69.92447129909365
 biden sentiment: 67.4608695652174
-democrat sentiment: 65.9821083172147
 klobuchar sentiment: 57.49800796812748
 buttigieg sentiment: 32.69724770642201
 bloomberg sentiment: 8.420208500400964

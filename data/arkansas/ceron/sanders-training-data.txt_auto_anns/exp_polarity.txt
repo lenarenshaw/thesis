@@ -1,0 +1,15 @@
+ceron_sanders-training-data.txt_46076_46085	negative
+ceron_sanders-training-data.txt_46195_46199	neutral
+ceron_sanders-training-data.txt_46371_46375	neutral
+ceron_sanders-training-data.txt_46760_46765	neutral
+ceron_sanders-training-data.txt_46775_46780	neutral
+ceron_sanders-training-data.txt_46837_46845	negative
+ceron_sanders-training-data.txt_46857_46862	neutral
+ceron_sanders-training-data.txt_46863_46872	positive
+ceron_sanders-training-data.txt_46893_46899	neutral
+ceron_sanders-training-data.txt_46914_46918	neutral
+ceron_sanders-training-data.txt_47290_47295	neutral
+ceron_sanders-training-data.txt_47329_47339	neutral
+ceron_sanders-training-data.txt_47345_47355	positive
+ceron_sanders-training-data.txt_47377_47381	neutral
+ceron_sanders-training-data.txt_47394_47398	neutral

@@ -22,15 +22,13 @@ illegal,strongneg
 so,neutral
 Despite,weakneg
 show,neutral
-attitude,neutral
-real,weakpos
 lain,strongneg
 wish,weakpos
 love,strongpos
+real,weakpos
 support,strongpos
 mending,strongpos
 war,weakneg
-scare,strongneg
 feel,neutral
 fear,strongneg
 most,neutral
@@ -42,6 +40,7 @@ sure,weakpos
 argument,weakneg
 against,weakneg
 Innovative,strongpos
+scare,strongneg
 hard,strongneg
 Looks,neutral
 hassle,strongneg

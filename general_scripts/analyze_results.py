@@ -1,12 +1,15 @@
 import csv
 import math
+from scipy.stats import pearsonr
+import numpy as np
 
 P_VALUE = 0.05
 states = ['iowa', 'newhampshire', 'nevada', 'southcarolina', 'alabama', 'arkansas', 'california', 'colorado', 'maine', 'massachusetts', 'minnesota', 'northcarolina', 'oklahoma', 'tennessee', 'texas', 'utah', 'vermont', 'virginia', 'idaho', 'michigan', 'mississippi', 'missouri', 'northdakota', 'washington', 'arizona', 'florida', 'illinois']
-test = 'tumasjan'
+test = 'ceron'
 
 winners_predicted_correctly = []
 model_accepted = []
+correlations = []
 
 def gf(x):
     #Play with these values to adjust the error of the approximation.
@@ -38,6 +41,9 @@ def chisquarecdf(x,k):
     except OverflowError:
         print("Could not calculate gf")
         return(P_VALUE)
+    except ZeroDivisionError:
+        print("Could not calculate gf")
+        return(P_VALUE)
 
 def chisquare(observed_values,expected_values):
     test_statistic=0
@@ -57,6 +63,7 @@ for state in states:
     predicted_winner = ""
     predicted_winner_val = float('-inf')
     total_delegates = 0
+    min_val = float('inf')
     with open('data/' + state + '/election_results/' + state + '.csv', 'r', encoding='utf-8-sig') as file:
         reader = csv.DictReader(file)
         line = next(reader, None)
@@ -81,18 +88,34 @@ for state in states:
                     predicted_winner_val = res
                 test_results[arr[0]] = float(arr[-1])
                 total_sentiment += float(arr[-1])
+    # with open('data/' + state + '/'+ test + '/results/liwcresults.csv', 'r', encoding='utf-8-sig') as file:
+    #     reader = csv.DictReader(file)
+    #     line = next(reader, None)
+    #     while line:
+    #         val = float(line["WC"])*(float(line["posemo"]) - float(line["negemo"]) - float(line["anx"]) - float(line["anger"]) - float(line["sad"]) + float(line["tentat"]) + float(line["certain"]) + float(line["achieve"]) + float(line["focuspast"]) + float(line["focusfuture"]) + float(line["work"]) + float(line["money"]))
+    #         if val < min_val:
+    #             min_val = val
+    #         if val > predicted_winner_val:
+    #             predicted_winner = line["Filename"].split(".")[0]
+    #             predicted_winner_val = val
+    #         test_results[line["Filename"].split(".")[0]] = val
+    #         total_sentiment += val
+    #         line = next(reader, None)
+
 
     final_election_results = {}
     final_test_results = {}
 
     if total_sentiment == 0:
+        print(state.capitalize())
         print("Could not make any predictions with this model")
         winners_predicted_correctly.append(False)
         model_accepted.append(False)
     else:
         for candidate, score in election_results.items():
             if candidate in test_results.keys():
-                final_test_results[candidate] = (test_results[candidate]/total_sentiment * 100) + 1
+                # final_test_results[candidate] = ((test_results[candidate] + min_val + 1)/total_sentiment * 100) + 1
+                final_test_results[candidate] = ((test_results[candidate])/total_sentiment * 100) + 1
                 final_election_results[candidate] = (score/total_delegates * 100) + 1
 
         a, b = chisquare(final_election_results.values(), final_test_results.values())
@@ -110,7 +133,12 @@ for state in states:
         else:
             print("Reject the model")
             model_accepted.append(False)
+        # calculate Pearson's correlation
+        corr, _ = pearsonr(list(final_election_results.values()), list(final_test_results.values()))
+        print('Pearsons correlation: %.3f' % corr)
+        correlations.append(corr)
 
 print("SUMMARY:")
 print("Fraction of models accepted", round(model_accepted.count(True)/len(model_accepted), 5))
 print("Fraction of winners correctly predicted", round(winners_predicted_correctly.count(True)/len(winners_predicted_correctly), 5))
+print("Average correlation", round(sum(correlations)/len(correlations), 5))

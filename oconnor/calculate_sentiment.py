@@ -27,11 +27,11 @@ for state in states:
             arr = line.split(' ')
             type = arr[-1].split('\"')[1]
             if type == 'strongpos':
-                pos += 2
+                pos += 1
             elif type == 'weakpos':
                 pos += 1
             elif type == 'strongneg':
-                neg += 2
+                neg += 1
             elif type == 'weakneg':
                 neg += 1
         if pos == 0 and neg == 0:

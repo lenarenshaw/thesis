@@ -1,0 +1,53 @@
+OLS Regression Results
+=======================================================================================
+Dep. Variable:                    won   R-squared (uncentered):                   0.726
+Model:                            OLS   Adj. R-squared (uncentered):              0.659
+Method:                 Least Squares   F-statistic:                              10.79
+Date:                Mon, 06 Apr 2020   Prob (F-statistic):                    4.66e-12
+Time:                        10:53:20   Log-Likelihood:                          5.6813
+No. Observations:                  76   AIC:                                      18.64
+Df Residuals:                      61   BIC:                                      53.60
+Df Model:                          15
+Covariance Type:            nonrobust
+====================================================================================
+coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+closeness_in         0.0281      0.042      0.666      0.508      -0.056       0.112
+closeness_out        0.0617      0.036      1.735      0.088      -0.009       0.133
+closeness_all       -0.0954      0.052     -1.838      0.071      -0.199       0.008
+pagerank             1.1536      0.679      1.699      0.094      -0.204       2.511
+hits                -0.0127      0.303     -0.042      0.967      -0.619       0.594
+in_degree           -0.0133      0.034     -0.393      0.696      -0.081       0.054
+out_degree           0.0188      0.032      0.591      0.557      -0.045       0.082
+kl_divergence       -0.0004      0.000     -0.894      0.375      -0.001       0.000
+incumbent            0.4415      0.189      2.337      0.023       0.064       0.819
+same_party           0.1308      0.060      2.179      0.033       0.011       0.251
+tweets               0.0032      0.004      0.816      0.417      -0.005       0.011
+replies_total     1.369e-05   5.13e-06      2.668      0.010    3.43e-06    2.39e-05
+replies_average     -0.0020      0.001     -2.993      0.004      -0.003      -0.001
+retweets_total   -5.476e-06   1.89e-06     -2.905      0.005   -9.25e-06   -1.71e-06
+retweets_average     0.0008      0.000      3.543      0.001       0.000       0.001
+==============================================================================
+Omnibus:                       22.315   Durbin-Watson:                   2.457
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              110.098
+Skew:                           0.569   Prob(JB):                     1.24e-24
+Kurtosis:                       8.786   Cond. No.                     1.23e+07
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 1.23e+07. This might indicate that there are
+strong multicollinearity or other numerical problems.
+/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/sklearn/utils/validation.py:760: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+y = column_or_1d(y, warn=True)
+/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/sklearn/linear_model/_logistic.py:940: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+Accuracy of logistic regression classifier on test set: 0.85
+[[17  0]
+[ 3  0]]

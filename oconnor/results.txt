@@ -1,111 +1,139 @@
 Iowa
 Predicted Winner steyer Actual Winner buttigieg
-Chi squared value: 194.31119144052835
+Chi squared value: 162.42971879276897
 Reject the model
+Pearsons correlation: -0.184
 Newhampshire
 Predicted Winner bennet Actual Winner sanders
-Chi squared value: 81.52751701385841
+Chi squared value: 65.82359346014489
 Reject the model
+Pearsons correlation: 0.151
 Nevada
 Predicted Winner patrick Actual Winner sanders
-Chi squared value: 261.93439162141897
+Chi squared value: 227.9197624402981
 Reject the model
+Pearsons correlation: -0.252
 Southcarolina
-Predicted Winner gabbard Actual Winner biden
-Chi squared value: 485.0504384224642
+Predicted Winner patrick Actual Winner biden
+Chi squared value: 425.9112817117443
 Reject the model
+Pearsons correlation: -0.357
 Alabama
-Predicted Winner warren Actual Winner biden
-Chi squared value: 382.1076773732737
+Predicted Winner steyer Actual Winner biden
+Chi squared value: 374.4738833693567
 Reject the model
+Pearsons correlation: -0.120
 Arkansas
-Predicted Winner klobuchar Actual Winner biden
-Chi squared value: 120.50635864883326
+Predicted Winner sanders Actual Winner biden
+Chi squared value: 76.83871850193546
 Reject the model
+Pearsons correlation: 0.558
 California
 Predicted Winner patrick Actual Winner sanders
-Chi squared value: 184.45240142486273
+Chi squared value: 185.82261803796703
 Reject the model
+Pearsons correlation: -0.160
 Colorado
-Predicted Winner klobuchar Actual Winner sanders
-Chi squared value: 103.61165769425295
+Predicted Winner sanders Actual Winner sanders
+Chi squared value: 59.26103245316641
 Reject the model
+Pearsons correlation: 0.615
 Maine
 Predicted Winner patrick Actual Winner biden
-Chi squared value: 210.4535643050711
+Chi squared value: 213.2945127378708
 Reject the model
+Pearsons correlation: -0.380
 Massachusetts
 Predicted Winner patrick Actual Winner biden
-Chi squared value: 188.34177048188627
+Chi squared value: 191.89331421931834
 Reject the model
+Pearsons correlation: -0.135
 Minnesota
-Predicted Winner klobuchar Actual Winner biden
-Chi squared value: 102.22703039984201
+Predicted Winner sanders Actual Winner biden
+Chi squared value: 67.61800043105164
 Reject the model
+Pearsons correlation: 0.662
 Northcarolina
 Predicted Winner warren Actual Winner biden
-Chi squared value: 205.79835633898924
+Chi squared value: 213.18273802844172
 Reject the model
+Pearsons correlation: 0.128
 Oklahoma
 Predicted Winner sanders Actual Winner biden
-Chi squared value: 92.66221500384928
-Reject the model
+Chi squared value: 41.993191978642514
+Accept the model
+Pearsons correlation: 0.779
 Tennessee
 Predicted Winner sanders Actual Winner biden
-Chi squared value: 247.39578550120683
+Chi squared value: 124.92910559291528
 Reject the model
+Pearsons correlation: 0.535
 Texas
 Predicted Winner sanders Actual Winner biden
-Chi squared value: 70.97558740229086
-Reject the model
+Chi squared value: 40.03806382464242
+Accept the model
+Pearsons correlation: 0.870
 Utah
 Predicted Winner patrick Actual Winner sanders
-Chi squared value: 145.33897906759023
+Chi squared value: 148.39566831257142
 Reject the model
+Pearsons correlation: -0.131
 Vermont
 Predicted Winner klobuchar Actual Winner sanders
-Chi squared value: 98.45052429494473
-Reject the model
+Chi squared value: 68.3029213977105
+Accept the model
+Pearsons correlation: 0.602
 Virginia
 Predicted Winner sanders Actual Winner biden
-Chi squared value: 267.5611568012825
+Chi squared value: 143.4925136899334
 Reject the model
+Pearsons correlation: 0.471
 Idaho
 Predicted Winner gabbard Actual Winner biden
-Chi squared value: 440.48681593459895
+Chi squared value: 396.8267936756442
 Reject the model
+Pearsons correlation: -0.138
 Michigan
 Predicted Winner biden Actual Winner biden
-Chi squared value: 109.14203578316979
+Chi squared value: 69.164567166343
 Reject the model
+Pearsons correlation: 0.820
 Mississippi
 Predicted Winner biden Actual Winner biden
-Chi squared value: 83.6005698379091
-Reject the model
+Chi squared value: 40.727442074646454
+Accept the model
+Pearsons correlation: 0.958
 Missouri
 Predicted Winner biden Actual Winner biden
-Chi squared value: 171.43163689385352
+Chi squared value: 131.21762396826384
 Reject the model
+Pearsons correlation: 0.784
 Northdakota
-Predicted Winner buttigieg Actual Winner sanders
-Chi squared value: 175.8772283562659
+Predicted Winner klobuchar Actual Winner sanders
+Chi squared value: 195.9036511814505
 Reject the model
+Pearsons correlation: 0.291
 Washington
-Predicted Winner klobuchar Actual Winner biden
-Chi squared value: 75.88846176785482
-Reject the model
+Predicted Winner biden Actual Winner biden
+Chi squared value: 41.55588811535457
+Accept the model
+Pearsons correlation: 0.903
 Arizona
 Predicted Winner biden Actual Winner biden
-Chi squared value: 112.9538519127931
+Chi squared value: 117.45501118655626
 Reject the model
+Pearsons correlation: 0.883
 Florida
-Predicted Winner gabbard Actual Winner biden
-Chi squared value: 590.5918771190738
+Predicted Winner steyer Actual Winner biden
+Chi squared value: 540.8252972047638
 Reject the model
+Pearsons correlation: -0.307
 Illinois
 Predicted Winner biden Actual Winner biden
-Chi squared value: 22.489442446450422
+Chi squared value: 25.075119529329235
 Accept the model
+Pearsons correlation: 0.952
 SUMMARY:
-Fraction of models accepted 0.03704
-Fraction of winners correctly predicted 0.18519
+Fraction of models accepted 0.22222
+Fraction of winners correctly predicted 0.25926
+Average correlation 0.3259

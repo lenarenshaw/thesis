@@ -5,7 +5,7 @@ import numpy as np
 
 P_VALUE = 0.05
 states = ['iowa', 'newhampshire', 'nevada', 'southcarolina', 'alabama', 'arkansas', 'california', 'colorado', 'maine', 'massachusetts', 'minnesota', 'northcarolina', 'oklahoma', 'tennessee', 'texas', 'utah', 'vermont', 'virginia', 'idaho', 'michigan', 'mississippi', 'missouri', 'northdakota', 'washington', 'arizona', 'florida', 'illinois']
-test = 'ceron'
+test = 'tumasjan'
 
 winners_predicted_correctly = []
 model_accepted = []
@@ -78,7 +78,7 @@ for state in states:
             line = next(reader, None)
 
     total_sentiment = 0
-    with open('data/' + state + '/'+ test + '/results/results.txt', 'r') as file:
+    with open('data/' + state + '/'+ test + '/results/results_weighted.txt', 'r') as file:
         for line in file:
             arr = line.split(" ")
             if arr[0] in election_results.keys():
@@ -109,8 +109,8 @@ for state in states:
     if total_sentiment == 0:
         print(state.capitalize())
         print("Could not make any predictions with this model")
-        winners_predicted_correctly.append(False)
-        model_accepted.append(False)
+        # winners_predicted_correctly.append(False)
+        # model_accepted.append(False)
     else:
         for candidate, score in election_results.items():
             if candidate in test_results.keys():

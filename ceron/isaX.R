@@ -38,7 +38,6 @@ processFile = function(filepath) {
 
 for (word in keywords) {
   # train <- read.csv(file = paste('data/', state, '/ceron/all-training-data.csv', sep=""), header=T)
-  # test <- read.csv(file = paste('data/ceron/training.csv', sep = ""), header=T)
   train <- read.csv(file = paste('data/ceron/training.csv', sep=""), header=T)
   # test <- read.delim(file = paste('data/', state, '/raw_tweets/', word, '.txt', sep = ""), header = F, sep = "\n")
 

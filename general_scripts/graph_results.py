@@ -6,8 +6,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import date, timedelta
 
-test = 'oconnor'
-state = 'washington'
+test = 'tumasjan'
+state = 'california'
 
 candidate_exits = {'bennet':date(2020, 2, 11),
     'biden': date(2021, 1, 1), #not out
@@ -69,7 +69,7 @@ with open('data/' + state + '/election_results/' + state + '.csv', 'r', encoding
         line = next(reader, None)
 
 total_sentiment = 0
-with open('data/' + state + '/'+ test + '/results/results.txt', 'r') as file:
+with open('data/' + state + '/'+ test + '/results/weights.txt', 'r') as file:
     for line in file:
         arr = line.split(" ")
         if arr[0] in election_results.keys():

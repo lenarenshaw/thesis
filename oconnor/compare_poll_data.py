@@ -53,7 +53,16 @@ def chisquare(observed_values,expected_values):
 
     df=len(observed_values)-1
 
-    return test_statistic, chisquarecdf(test_statistic,df)
+
+    return test_statistic, chisquarecdf(test_statistic,df), df
+
+num_samples = {}
+with open(test + '/num_samples.csv', 'r', encoding='utf-8-sig') as file:
+    reader = csv.DictReader(file)
+    line = next(reader, None)
+    while line:
+        num_samples[line['state']] = line['num']
+        line = next(reader, None)
 
 for state in states:
     poll_results = []
@@ -111,22 +120,24 @@ for state in states:
     sentiment_total = np.sum(sentiment_results)
     sentiment_results = sentiment_results / sentiment_total
 
-    a, b = chisquare(poll_results + 1, sentiment_results + 1)
+    a, b, general_df = chisquare(poll_results + 1, sentiment_results + 1)
 
-    print(state.capitalize())
+    # print(state.capitalize())
 
-    print("Chi squared value:", a)
+    # print("Chi squared value:", a)
     if b < P_VALUE:
-        print("Accept the model")
+        # print("Accept the model")
+        print(state.capitalize() + "; X2(" + str(general_df) + ", N = " + str(num_samples[state]) + ") = " + str(round(a, 2)) + ", p < .05; Model accepted")
         model_accepted.append(True)
     else:
-        print("Reject the model")
+        # print("Reject the model")
+        print(state.capitalize() + "; X2(" + str(general_df) + ", N = " + str(num_samples[state]) + ") = " + str(round(a, 2)) + ", p < .05; Model rejected")
         model_accepted.append(False)
     # calculate Pearson's correlation
     corr, _ = pearsonr(poll_results + 1, sentiment_results + 1)
-    print('Pearsons correlation: %.3f' % corr)
+    # print('Pearsons correlation: %.3f' % corr)
     correlations.append(corr)
 
-print("SUMMARY:")
-print("Fraction of models accepted", round(model_accepted.count(True)/len(model_accepted), 5))
-print("Average correlation", round(sum(correlations)/len(correlations), 5))
+# print("SUMMARY:")
+# print("Fraction of models accepted", round(model_accepted.count(True)/len(model_accepted), 5))
+# print("Average correlation", round(sum(correlations)/len(correlations), 5))

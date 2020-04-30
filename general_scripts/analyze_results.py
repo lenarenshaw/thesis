@@ -53,7 +53,16 @@ def chisquare(observed_values,expected_values):
 
     df=len(observed_values)-1
 
-    return test_statistic, chisquarecdf(test_statistic,df)
+    return test_statistic, chisquarecdf(test_statistic,df), df
+
+num_samples = {}
+with open(test + '/num_samples.csv', 'r', encoding='utf-8-sig') as file:
+    reader = csv.DictReader(file)
+    line = next(reader, None)
+    while line:
+        num_samples[line['state']] = line['num']
+        line = next(reader, None)
+
 
 for state in states:
     election_results = {}
@@ -118,24 +127,26 @@ for state in states:
                 final_test_results[candidate] = ((test_results[candidate])/total_sentiment * 100) + 1
                 final_election_results[candidate] = (score/total_delegates * 100) + 1
 
-        a, b = chisquare(final_election_results.values(), final_test_results.values())
+        a, b, general_df = chisquare(final_election_results.values(), final_test_results.values())
 
-        print(state.capitalize())
-        print("Predicted Winner", predicted_winner, "Actual Winner", winner)
+        # print(state.capitalize())
+        # print("Predicted Winner", predicted_winner, "Actual Winner", winner)
         if predicted_winner == winner:
             winners_predicted_correctly.append(True)
         else:
             winners_predicted_correctly.append(False)
-        print("Chi squared value:", a)
+        # print(state.capitalize(), "Chi squared value:", a)
         if b < P_VALUE:
-            print("Accept the model")
+            # print(state.capitalize(), "Accept the model")
+            print(state.capitalize() + "; X2(" + str(general_df) + ", N = " + str(num_samples[state]) + ") = " + str(round(a, 2)) + ", p < .05; Model accepted")
             model_accepted.append(True)
         else:
-            print("Reject the model")
+            # print("Reject the model")
+            print(state.capitalize() + "; X2(" + str(general_df) + ", N = " + str(num_samples[state]) + ") = " + str(round(a, 2)) + ", p < .05; Model rejected")
             model_accepted.append(False)
         # calculate Pearson's correlation
         corr, _ = pearsonr(list(final_election_results.values()), list(final_test_results.values()))
-        print('Pearsons correlation: %.3f' % corr)
+        # print('Pearsons correlation: %.3f' % corr)
         correlations.append(corr)
 
 print("SUMMARY:")

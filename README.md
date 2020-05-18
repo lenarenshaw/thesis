@@ -2,12 +2,12 @@
 Lena Renshaw, 2019-2020, Brown University
 
 ## Background and Research
-https://docs.google.com/document/d/17qkcn90dSMskabn0-GPWnHcUXmQGfWmI-MtYdr3dM0I/edit#heading=h.lcnpraagn9ul
+See in detail here: https://docs.google.com/document/d/17qkcn90dSMskabn0-GPWnHcUXmQGfWmI-MtYdr3dM0I/edit#heading=h.lcnpraagn9ul
 
 ## Methodology
-  https://docs.google.com/document/d/1aUshAt1AmErNO2ZlLKOGE6REbE_bGyHouTWjzzcomb0/edit
+  See in detail here: https://docs.google.com/document/d/1aUshAt1AmErNO2ZlLKOGE6REbE_bGyHouTWjzzcomb0/edit
 
-  Caucuses and primaries: https://www.270towin.com/2020-election-calendar/
+  Caucuses and primaries that I used: https://www.270towin.com/2020-election-calendar/
 
 ## Detailed Usage Instructions for a Given Election
 0. Create filepaths for saving data.
@@ -68,3 +68,16 @@ https://docs.google.com/document/d/17qkcn90dSMskabn0-GPWnHcUXmQGfWmI-MtYdr3dM0I/
   Additionally, run the LIWC software on the `raw_tweets` for the following 12 dimensions: future orientation, past orientation, positive emotions, negative emotions, sadness, anxiety, anger, tentativeness, certainty, work, achievement, and money.
 
   The output will be located in `data/<state-name>/tumasjan/results`.
+
+5. To get the Livne calculations:
+
+  Replace the dictionary in `livne/logistic_regression.py` with a map of your election twitter profiles.
+  
+  Use twint (https://github.com/twintproject/twint) to scrape twitter profiles for each of your candidates in the weeks leading up to the election.
+  
+  Run the following: 
+  ```
+  python3 livne/logistic_regression.py
+  ```
+  
+  The results and confusion matrix will be printed out to the command line.
